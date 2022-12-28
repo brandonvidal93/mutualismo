@@ -2,16 +2,16 @@ import React, { Component } from 'react';
 import './MenuCourse.scss';
 
 // IMAGENES DE LOS BOTONES
-import Btn1 from '../../assets/img/menuCourse/n-1.png';
-import Btn2 from '../../assets/img/menuCourse/n-2.png';
-// import Btn3 from '../../assets/img/menuCourse/n-3.png';
-import Btn4 from '../../assets/img/menuCourse/n-4.png';
-import Btn5 from '../../assets/img/menuCourse/n-5.png';
+// import Btn1 from '../../assets/img/menuCourse/n-1.png';
+// import Btn2 from '../../assets/img/menuCourse/n-2.png';
+import Btn3 from '../../assets/img/menuCourse/n-3.png';
+// import Btn4 from '../../assets/img/menuCourse/n-4.png';
+// import Btn5 from '../../assets/img/menuCourse/n-5.png';
 // import Btn6 from '../../assets/img/menuCourse/n-6.png';
 // import Btn7 from '../../assets/img/menuCourse/n-7.png';
 // import Btn8 from '../../assets/img/menuCourse/n-8.png';
-import Btn9 from '../../assets/img/menuCourse/n-9.png';
-import Btn10 from '../../assets/img/menuCourse/n-10.png';
+// import Btn9 from '../../assets/img/menuCourse/n-9.png';
+// import Btn10 from '../../assets/img/menuCourse/n-10.png';
 // import Btn11 from '../../assets/img/menuCourse/n-11.png';
 // import Btn12 from '../../assets/img/menuCourse/n-12.png';
 
@@ -32,13 +32,13 @@ class MenuCourse extends Component {
     unitActual: this.props.unitActual,
     nextUnit: this.props.nextUnit,
     isMenuOpen: true,
-    imageArray: [Btn1, Btn2,Btn4, Btn5, Btn9, Btn10],
+    imageArray: [Btn3],
   }
 
   componentDidMount() {
     // console.log(this.state.unitActual); // UNIDAD ACTUAL
 
-    for (var i = 0; i < 5; i++) {
+    for (var i = 0; i < 1; i++) {
       document.getElementsByClassName('buttonMenu')[i].classList.remove('animation');
       // console.log(document.getElementsByClassName('buttonMenu')[i]);
 
@@ -115,21 +115,6 @@ class MenuCourse extends Component {
     switch (parseInt(numIdButton)) {
       case 1:
         goToPage(dataPage.Units[0].goTo);
-        break;
-      case 2:
-        goToPage(dataPage.Units[1].goTo);
-        break;
-      case 3:
-        goToPage(dataPage.Units[2].goTo);
-        break;
-      case 4:
-        goToPage(dataPage.Units[3].goTo);
-        break;
-      case 5:
-        goToPage(dataPage.Units[4].goTo);
-        break;
-      case 6:
-        goToPage(dataPage.Units[5].goTo);
         break;
       default:
         break;

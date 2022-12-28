@@ -70,61 +70,17 @@
     "nameUnit": "unit1",
     "headerPage": {
       "imgHeader"   : "img/menuCourse/n-1.png",
-      "textHeader"  : "AMAR ¿Quiénes somos?",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "Esta es nuestra historia...",
-    "text"    : "Para conocerla, sigue la conversación.",
-    "multimedia": {
-      "items": [
-        {
-          "text"      : "Es una empresa del sector solidario de la economía colombiana; fundamentada en los principios de la doctrina mutualista y que busca <b>“implementar y desarrollar servicios integrales que brinden a las personas asociadas, usuarios y sus núcleos familiares, atención en las áreas de previsión, seguridad y bienestar social”</b>.",
-          "textPos": {
-            "posY"    : 15,
-            "posX"    : 376,
-            "width"   : 258
-          }
-        },
-        {
-          "text"      : "Creada hace <b>21 años</b> por iniciativa de <b>46 Pastores</b> de la <b>Iglesia Pentecostal Unida de Colombia</b>, los cuales se unieron porque buscaban solucionar como pagar su seguridad social y fomentar la cultura del ahorro. Y así se constituyeron primero bajo la figura de distintas <b>cooperativas de trabajo asociado</b>, cambiando de razón social en varias ocasiones.",
-          "textPos": {
-            "posY"    : 17,
-            "posX"    : 104,
-            "width"   : 288
-          }
-        },
-        {
-          "text"      : "Al año <b>2022</b> AMAR cuenta con <b>10.907 asociados</b> distribuidos en <b>11 agencias</b> en todo el país, a saber: <b>Medellín, Bucaramanga, Chocó, Pereira, Popayán, Urabá, Barranquilla, Caucasia, Segovia, Pasto y Rionegro</b>.<br>AMAR cuenta con <b>59 colaboradores</b> para dar soporte y atención los asociados.",
-          "textPos": {
-            "posY"    : 16,
-            "posX"    : 104,
-            "width"   : 280
-          }
-        },
-        {
-          "text"      : "El portafolio de servicios que nos representa es bastante amplio: <b>Ahorro, crédito, protección exequial, turismo y seguros</b>. Somos además una de las <b>14 entidades</b> autorizadas por el Ministerio de Salud y la Protección Social como Agremiadora para afiliar en forma colectiva trabajadores independientes al <b>sistema general de seguridad social</b>.",
-          "textPos": {
-            "posY"    : 11,
-            "posX"    : 376,
-            "width"   : 260
-          }
-        },
-        {
-          "text"      : "<b>AMAR</b> es una empresa llena de <b>principios, valores y sueños</b>; funcionamos como una familia, procuramos la <b>solidaridad y el respeto</b> entre todos los asociados y colaboradores porque deseamos crecer y posicionarnos como la mejor <b>Asociación Mutual del País</b>.",
-          "textPos": {
-            "posY"    : 34,
-            "posX"    : 434,
-            "width"   : 253
-          }
-        }
-      ]
-    },
+    "title"   : "Metodología",
+    "text"    : "<b>Conceptualización:</b> Este proceso permite trabajar los temas a partir del conocimiento de los (as) participantes para luego enriquecerlo con el texto de la diapositiva.<br><br><b>Análisis:</b> En el proceso de aprendizaje es de gran importancia no dejar el trabajo de conceptualización en un ejercicio únicamente reflexivo - informativo, sino trascender hacia el análisis para tener mayores elementos de juicio respecto a los temas tratados, a partir de la realización de talleres<br><br><b>Reflexión:</b> De todo el conocimiento apropiado es importante reflexionar y priorizar sobre los elementos que permitirán enriquecer la práctica cotidiana de las personas que participan del acto educativo.<br><br><b>Autoevaluación:</b> A modo de conclusión se busca crear en las personas participantes conciencia acerca de la importancia que tiene el proceso educativo para enriquecer su práctica diaria, por ello se han establecido al final de cada uno de los módulos cuestionarios que permitirán la autoevaluación.",
     "instruction": {
-      "type"      : "mouse",
-      "text"      : "Sigue la conversación dando clic en el botón con dirección hacia abajo.",
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
       "posY"      : 33,
       "posX"      : 0,
-      "size"      : 320,
+      "size"      : 470,
       "color"     : "#F0B114"
     }
   },
@@ -2101,50 +2057,10 @@
     "Units": [
       {
         "unit"          : 1,
-        "title"         : "AMAR ¿Quiénes somos?",
+        "title"         : "Amando el Mutualismo",
         "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
         "imgBnt"        : "img/menuCourse/n-1.png",
         "goTo"          : 3,
-        "fullVisited"   : false
-      },
-      {
-        "unit"          : 2,
-        "title"         : "Servicios",
-        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
-        "imgBnt"        : "img/menuCourse/n-2.png",
-        "goTo"          : 4,
-        "fullVisited"   : false
-      },
-      {
-        "unit"          : 3,
-        "title"         : "Estatutos AMAR",
-        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
-        "imgBnt"        : "img/menuCourse/n-4.png",
-        "goTo"          : 18,
-        "fullVisited"   : false
-      },
-      {
-        "unit"          : 4,
-        "title"         : "Plan estratégico AMAR",
-        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
-        "imgBnt"        : "img/menuCourse/n-5.png",
-        "goTo"          : 21,
-        "fullVisited"   : false
-      },
-      {
-        "unit"          : 5,
-        "title"         : "Código del Buen vestir",
-        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
-        "imgBnt"        : "img/menuCourse/n-9.png",
-        "goTo"          : 22,
-        "fullVisited"   : false
-      },
-      {
-        "unit"          : 6,
-        "title"         : "SG SST y SS del empleado",
-        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
-        "imgBnt"        : "img/menuCourse/n-10.png",
-        "goTo"          : 23,
         "fullVisited"   : false
       }
     ],
