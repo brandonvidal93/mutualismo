@@ -59,6 +59,7 @@ class Content extends Component {
       
       case 5: return( <Page5 dataPage = { data.page5 }  /> );
       
+      case 6: return( <Page6 dataPage = { data.page6 } endActivities = { endActivities[6] } checkEndActivity = { checkEndActivity } /> );
       
       // FIN UNIDAD 1 -----------------------------------------------------------------------
 
@@ -66,7 +67,6 @@ class Content extends Component {
       // SERVICIOS   ---------------------------------------------------------------------------
 
 
-      case 6: return( <Page6 dataPage = { data.page6 } endActivities = { endActivities[6] } checkEndActivity = { checkEndActivity } /> );
 
       case 7: return( <Page7 dataPage = { data.page7 } endActivities = { endActivities[7] } checkEndActivity = { checkEndActivity } /> );
 

@@ -130,7 +130,7 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "¿Cuáles son los beneficios que tengo al ahorrar con AMAR? ",
+    "title"   : "Principios de la economía solidaria y Fines de la economía solidaria",
     "text"    : "",
     "instruction": {
       "type"          : "mouse",
@@ -148,7 +148,7 @@
         "posX"              : 143,
         "itemInfo": {
           "title"           : "01",
-          "text1"           : "Campañas de ahorro con excelente rentabilidad.",
+          "text1"           : "El ser humano, su trabajo y los mecanismos de cooperación tienen supremacía sobre los medios de producción. El centro es el hombre.",
           "text2"           : "",
           "colorText"       : "#023974",
           "buttonClose": {
@@ -161,11 +161,11 @@
       {
         "urlImgBtn"         : "",
         "title"             : "",
-        "posY"              : 56,
-        "posX"              : 236,
+        "posY"              : 86,
+        "posX"              : 263,
         "itemInfo": {
           "title"           : "02",
-          "text1"           : "Sorteos que permiten doblar su cuota del ahorro.",
+          "text1"           : "Se reconocen como principios fundamentales trascendentales de la economía solidaria la participación, la autogestión, la solidaridad, la ayuda mutua y la autodeterminación.",
           "text2"           : "",
           "colorText"       : "#074991",
           "buttonClose": {
@@ -178,11 +178,11 @@
       {
         "urlImgBtn"         : "",
         "title"             : "",
-        "posY"              : 148,
-        "posX"              : 277,
+        "posY"              : 228,
+        "posX"              : 258,
         "itemInfo": {
           "title"           : "03",
-          "text1"           : "Contribuyes a una buena cultura de ahorro.",
+          "text1"           : "La promoción del desarrollo integral del ser humano.",
           "text2"           : "",
           "colorText"       : "#2171B3",
           "buttonClose": {
@@ -195,11 +195,11 @@
       {
         "urlImgBtn"         : "",
         "title"             : "",
-        "posY"              : 245,
-        "posX"              : 246,
+        "posY"              : 283,
+        "posX"              : 144,
         "itemInfo": {
           "title"           : "04",
-          "text1"           : "Los ahorros se vuelven garantías para préstamos inmediatos sin codeudor.",
+          "text1"           : "La generación de prácticas que consoliden el pensamiento solidario.",
           "text2"           : "",
           "colorText"       : "#2097D3",
           "buttonClose": {
@@ -212,11 +212,11 @@
       {
         "urlImgBtn"         : "",
         "title"             : "",
-        "posY"              : 284,
-        "posX"              : 142,
+        "posY"              : 221,
+        "posX"              : 31,
         "itemInfo": {
           "title"           : "05",
-          "text1"           : "Podrás tener tranquilidad para eventualidades futuras.",
+          "text1"           : "La contribución al ejercicio y perfeccionamiento de la democracia participativa.",
           "text2"           : "",
           "colorText"       : "#89C240",
           "buttonClose": {
@@ -229,45 +229,11 @@
       {
         "urlImgBtn"         : "",
         "title"             : "",
-        "posY"              : 245,
-        "posX"              : 50,
+        "posY"              : 86,
+        "posX"              : 29,
         "itemInfo": {
           "title"           : "06",
-          "text1"           : "Incentivos en tasa o productos en diferentes campañas.",
-          "text2"           : "",
-          "colorText"       : "#683E92",
-          "buttonClose": {
-            "closedModal"   : true,
-            "posY"          : 35,
-            "posX"          : 82
-          }
-        }
-      },
-      {
-        "urlImgBtn"         : "",
-        "title"             : "",
-        "posY"              : 148,
-        "posX"              : 10,
-        "itemInfo": {
-          "title"           : "07",
-          "text1"           : "Seguridad en tus operaciones financieras.",
-          "text2"           : "",
-          "colorText"       : "#683E92",
-          "buttonClose": {
-            "closedModal"   : true,
-            "posY"          : 35,
-            "posX"          : 82
-          }
-        }
-      },
-      {
-        "urlImgBtn"         : "",
-        "title"             : "",
-        "posY"              : 56,
-        "posX"              : 46,
-        "itemInfo": {
-          "title"           : "08",
-          "text1"           : "Rentabilidad para celebrar.",
+          "text1"           : "La participación en el diseño y ejecución de planes, programas y proyectos de desarrollo económico y social. (Ley 454 de 98 Art. 4 y 5 )",
           "text2"           : "",
           "colorText"       : "#683E92",
           "buttonClose": {

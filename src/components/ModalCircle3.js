@@ -32,8 +32,8 @@ class ModalCircle3 extends Component {
               className = { 'circleButton ' + ( i + 1 !== 1 ? 'disabledGray' : '')} 
               id = { i + 1 } 
               onClick = { this.enableItem } >
-
-              <img alt = '' className = '' id = { i + 1 } src = { imageArray[i] }/>
+              {i + 1}
+              {/* <img alt = '' className = '' id = { i + 1 } src = { imageArray[i] }/> */}
             </button>
           </div>
         </div>
@@ -112,7 +112,7 @@ class ModalCircle3 extends Component {
           <div className = 'bgItemGlobe animated fadeIn'>
             <div className = { 'itemGlobe animated fadeIn d-Flex d-C j-C aI-C'} >
 
-              <img alt = '' className = 'mB-1' src = { imageArray[actualItem - 1] }/>
+              {/* <img alt = '' className = 'mB-1' src = { imageArray[actualItem - 1] }/> */}
 
               {/* <h2 className = 'mB-1 titleGlobe tCenter blanco d-Flex j-C aI-C' style = {{ 'backgroundColor': multimedia[actualItem - 1].itemInfo.colorText }}>{ multimedia[actualItem - 1].itemInfo.title }</h2> */}
 
