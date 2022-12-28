@@ -256,8 +256,8 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "2. Crédito",
-    "text"    : "Buscamos contribuir al mejoramiento de la calidad de vida de nuestros asociados, por eso AMAR ofrece las siguientes líneas de crédito.",
+    "title"   : "Clasificación de las organizaciones solidarias",
+    "text"    : "<b>Organizaciones solidarias de desarrollo: </b>son aquellas organizaciones que sin ánimo de lucro y empleando bienes y servicios privados, construyen bienes y servicios públicos, es decir de uso social. Su característica común es que ejercen la solidaridad de adentro hacia fuera, dirigido hacia comunidades.",
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en cada botón vertical para conocer la información.",
@@ -269,101 +269,35 @@
     "multimedia": [
       {
         "button": {
-          "text": "Libre inversión",
+          "text": "1. Asociaciones",
           "color": "#1F2A63"
         },
         "information": {
           "img1": "img/18/n-1.png",
           "img2": "img/18/nTeclas-1.png",
-          "text": "Diseñado para satisfacer las diferentes necesidades de consumo como: Compra de Vehículo, Compra de Cartera, Inversión de Negocio, entre otros gastos a largo plazo. <b>Hasta 90 SMMLV</b>"
+          "text": "Son organizaciones sin ánimo de lucro conformadas por personas con intereses comunes. No tienen un número mínimo o máximo de afiliados, son de libre adhesión y se regulan plenamente por sus estatutos."
         }
       },
       {
         "button": {
-          "text": "Educación",
+          "text": "2. Fundaciones",
           "color": "#27357E"
         },
         "information": {
           "img1": "img/18/n-2.png",
           "img2": "",
-          "text": "Con el que puedes financiar tu educación o la de los tuyos. Financiamos Carreras de educación Superior, técnicas, tecnológicas de pregrados o posgrado. <b>Hasta 10 SMMLV</b>"
+          "text": "Son patrimonios autónomos que se destinan única y exclusivamente al objetivo establecido por sus fundadores. No tienen ánimo de lucro, no tienen un monto mínimo en su patrimonio y se regulan totalmente por sus estatutos. Su principio legal está determinado en el código civil artículo 633. Art. 38, 103."
         }
       },
       {
         "button": {
-          "text": "Crédi-Inmediato",
+          "text": "3. Corporaciones",
           "color": "#2B3B8A"
         },
         "information": {
           "img1": "img/18/n-3.png",
           "img2": "",
-          "text": "Te permitirá financiar de manera inmediata tus proyectos personales a corto plazo. <b>Hasta 4 SMMLV</b>"
-        }
-      },
-      {
-        "button": {
-          "text": "Congregacional",
-          "color": "#0754D9"
-        },
-        "information": {
-          "img1": "img/18/n-4.png",
-          "img2": "",
-          "text": "Apoyamos los proyectos de compra, construcción, remodelación y mejora de los templos de las iglesias."
-        }
-      },
-      {
-        "button": {
-          "text": "Vivienda",
-          "color": "#149FF0"
-        },
-        "information": {
-          "img1": "img/18/n-5.png",
-          "img2": "",
-          "text": "Con el que podrás construir, mejorar o amueblar tu casa nueva o usada. <b>Hasta 68 SMMLV</b>"
-        }
-      },
-      {
-        "button": {
-          "text": "Cupo rotativo",
-          "color": "#07C3D9"
-        },
-        "information": {
-          "img1": "img/18/n-6.png",
-          "img2": "",
-          "text": "Te permite tener dinero disponible las 24 Horas, una vez utilizado lo pagarás en cuotas mensuales, el cual te permitirá liberar un nuevo cupo."
-        }
-      },
-      {
-        "button": {
-          "text": "Hipotecario",
-          "color": "#0418DE"
-        },
-        "information": {
-          "img1": "img/18/n-6.png",
-          "img2": "",
-          "text": "Te permitirá hacer realidad tu sueño de tener casa propia, financiamos hasta el <b>70%</b> del valor del inmueble que deseas, puede ser vivienda nueva o usada. "
-        }
-      },
-      {
-        "button": {
-          "text": "Turismo",
-          "color": "#6106D0"
-        },
-        "information": {
-          "img1": "img/18/n-6.png",
-          "img2": "",
-          "text": "Haz realidad tu sueño de viajar. Te financiamos viajes nacionales e Internacionales. Excelentes convenios de Turismo. <b>Hasta 7 SMMLV</b>"
-        }
-      },
-      {
-        "button": {
-          "text": "Convenios",
-          "color": "#2D05E8"
-        },
-        "information": {
-          "img1": "img/18/n-6.png",
-          "img2": "",
-          "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
+          "text": "Son organizaciones sin ánimo de lucro que buscan alcanzar un objetivo social. Sus miembros no requieren vínculo común, no existe valor mínimo en sus aportes y se regulan totalmente por sus propios estatutos. <br><br>Las corporaciones y fundaciones se encuentran enmarcadas dentro del Código Civil artículo 633, además de reseñas constitucionales y 355, La vigilancia y control está a cargo de las gobernaciones y de la alcaldía Mayor de Bogotá para el caso de Bogotá"
         }
       }
     ]

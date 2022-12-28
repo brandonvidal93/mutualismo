@@ -2,7 +2,7 @@ import React from 'react';
 import Instruction from '../../../components/Instruction';
 import Accordion1 from '../../../components/Accordion1';
 
-import HeaderImage from '../../../assets/img/7/n-2.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 
 const Page7 = ({dataPage, checkEndActivity}) => {
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD
@@ -21,7 +21,7 @@ const Page7 = ({dataPage, checkEndActivity}) => {
       </div>
 
       <div className = 'c-10 animated fadeIn'>
-        <div className = 'mL-7 c-10 mT-025 mR-2'> 
+        <div className = 'mL-7 c-9 mT-025 mR-2'> 
           {
             dataPage.title ? <h2 className = 'mB-1' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
           }
