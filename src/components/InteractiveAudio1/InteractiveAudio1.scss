@@ -1,0 +1,53 @@
+@import "../../resources/colors";
+@import "../../resources/animation.scss";
+
+.InteractiveAudio1 {
+  height: 340px;
+  width: 95%;
+
+  // .areaItems {
+  //   background: url('../assets/img/backgrounds/bgPage-10.png');
+  //   background-repeat: no-repeat;
+  //   background-position: 32px center;
+  // }
+
+  // .areaItems-2 {
+  //   background: url('../assets/img/backgrounds/bgPage-17.png');
+  //   background-repeat: no-repeat;
+  //   background-position-x: 15px;
+  //   background-position-y: 145px;
+  // }
+
+  .playerBox {
+    // bottom: 10px;
+    // position: absolute;
+
+    .buttonBox {
+
+      .buttonPlayer {
+        background-color: rgba(0, 0, 0, 0);
+        font-size: 2.1em;
+        color: $color2;
+
+        .iconButton {
+          transition: all .3s;
+
+          &:hover {
+            color: $color1;
+          }
+        }
+      }
+    }
+
+    .trackLabelBox {
+
+      .labelBox {
+        background-color: $blanco;
+        width: 630px;
+        border-radius: 50px;
+        border: 1px solid #707070;
+        .subtitle {}
+      }
+    }
+  }
+}

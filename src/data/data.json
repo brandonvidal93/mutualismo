@@ -1,0 +1,2160 @@
+{
+  "coverPage": {
+    "type"            : "startPage",
+    "units"           : 8,
+    "title"           : "Generalidades",
+    "subTitle"        : "Gestión del Talento Humano",
+    "module"          : "",
+    "courseName"      : "Para comenzar, haz clic en el siguiente botón:",
+    "footer": {
+      "label"         : "Seguridad de la información"
+    }
+  },
+
+  "page1": {
+    "type"        : "pageInstruction",
+    "title"       : "Antes de iniciar...",
+    "information": [
+      {
+        "text1"   : "Para la realización del curso, ten en cuenta las siguientes recomendaciones:"
+      },
+      {
+        "text1"   : "Guarda todo lo que pueda distraerte"
+      },
+      {
+        "text1"   : "Apaga tu celular o ponlo en silencio"
+      },
+      {
+        "text1"   : "Ten a la mano cuaderno y lápiz donde tomar nota"
+      },
+      {
+        "text1"   : "Además, <b>debes leer y navegar</b> toda la información que aparecerá en las diferentes pantallas."
+      },
+      {
+        "text1"   : "Para la navegación contarás con estos 2 botones:"
+      },
+      {
+        "text1"   : "El menú del curso lo encontrará en la parte izquierda de la pantalla."
+      },
+      {
+        "text1"   : ""
+      }
+    ],
+    "instruction": {
+      "type"      : "mouse",
+      "text"      : "Haz clic en los círculos para visualizar todas las recomendaciones.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 320,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page2": {
+    "type"    : "pageCourse",
+    "title"   : "Hola",
+    "text"    : "Para <b>AMAR</b> es muy gratificante que esté entre nosotros, en nombre de todos queremos expresarle una calurosa Bienvenida.<br><br>A partir de hoy inicia proceso de <b>Inducción</b>, lo invitamos a conocernos y a quedarse con nosotros.<br><br><span class = 'F2 fw-7'>¡Comencemos!</span>",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Luego de leer la bienvenida, te invitamos a desplegar el menú que hay al lado izquierdo para comenzar la formación.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page3": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit1",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "AMAR ¿Quiénes somos?",
+      "color"       : "#27357E"
+    },
+    "title"   : "Esta es nuestra historia...",
+    "text"    : "Para conocerla, sigue la conversación.",
+    "multimedia": {
+      "items": [
+        {
+          "text"      : "Es una empresa del sector solidario de la economía colombiana; fundamentada en los principios de la doctrina mutualista y que busca <b>“implementar y desarrollar servicios integrales que brinden a las personas asociadas, usuarios y sus núcleos familiares, atención en las áreas de previsión, seguridad y bienestar social”</b>.",
+          "textPos": {
+            "posY"    : 15,
+            "posX"    : 376,
+            "width"   : 258
+          }
+        },
+        {
+          "text"      : "Creada hace <b>21 años</b> por iniciativa de <b>46 Pastores</b> de la <b>Iglesia Pentecostal Unida de Colombia</b>, los cuales se unieron porque buscaban solucionar como pagar su seguridad social y fomentar la cultura del ahorro. Y así se constituyeron primero bajo la figura de distintas <b>cooperativas de trabajo asociado</b>, cambiando de razón social en varias ocasiones.",
+          "textPos": {
+            "posY"    : 17,
+            "posX"    : 104,
+            "width"   : 288
+          }
+        },
+        {
+          "text"      : "Al año <b>2022</b> AMAR cuenta con <b>10.907 asociados</b> distribuidos en <b>11 agencias</b> en todo el país, a saber: <b>Medellín, Bucaramanga, Chocó, Pereira, Popayán, Urabá, Barranquilla, Caucasia, Segovia, Pasto y Rionegro</b>.<br>AMAR cuenta con <b>59 colaboradores</b> para dar soporte y atención los asociados.",
+          "textPos": {
+            "posY"    : 16,
+            "posX"    : 104,
+            "width"   : 280
+          }
+        },
+        {
+          "text"      : "El portafolio de servicios que nos representa es bastante amplio: <b>Ahorro, crédito, protección exequial, turismo y seguros</b>. Somos además una de las <b>14 entidades</b> autorizadas por el Ministerio de Salud y la Protección Social como Agremiadora para afiliar en forma colectiva trabajadores independientes al <b>sistema general de seguridad social</b>.",
+          "textPos": {
+            "posY"    : 11,
+            "posX"    : 376,
+            "width"   : 260
+          }
+        },
+        {
+          "text"      : "<b>AMAR</b> es una empresa llena de <b>principios, valores y sueños</b>; funcionamos como una familia, procuramos la <b>solidaridad y el respeto</b> entre todos los asociados y colaboradores porque deseamos crecer y posicionarnos como la mejor <b>Asociación Mutual del País</b>.",
+          "textPos": {
+            "posY"    : 34,
+            "posX"    : 434,
+            "width"   : 253
+          }
+        }
+      ]
+    },
+    "instruction": {
+      "type"      : "mouse",
+      "text"      : "Sigue la conversación dando clic en el botón con dirección hacia abajo.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 320,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page4": {
+    "type": "pageCourse",
+    "startUnit"   : true,
+    "nameUnit"    : "unit2",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "¿Cuáles son nuestros servicios?",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los servicios.",
+      "posY"    : 33,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "type": "icon",
+      "items": [
+        {
+          "id"    : 1,
+          "title" : "Ahorro",
+          "text"  : "",
+          "img"   : "img/7/n-1.png"
+        },
+        {
+          "id"    : 2,
+          "title" : "Crédito",
+          "text"  : "",
+          "img"   : "img/7/n-2.png"
+        },
+        {
+          "id"    : 3,
+          "title" : "Protección<br>exequial",
+          "text"  : "",
+          "img"   : "img/7/n-3.png"
+        },
+        {
+          "id"    : 4,
+          "title" : "Turismo",
+          "text"  : "",
+          "img"   : "img/7/n-4.png"
+        },
+        {
+          "id"    : 5,
+          "title" : "Seguros",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        }
+      ]
+    }
+  },
+
+  "page5": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "1. Ahorro",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Lleva en orden consecutivo cada ícono en donde corresponda para conocer la información.",
+      "posY"    : 33,
+      "posX"    : 0,
+      "size"    : 380,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "dragItems": [
+        {
+          "drag"    : 1,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "1",
+          "data"    : ""
+        },
+        {
+          "drag"    : 2,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "2",
+          "data"    : ""
+        },
+        {
+          "drag"    : 3,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "3",
+          "data"    : ""
+        },
+        {
+          "drag"    : 4,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "4",
+          "data"    : ""
+        },
+        {
+          "drag"    : 5,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "5",
+          "data"    : ""
+        },
+        {
+          "drag"    : 6,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "6",
+          "data"    : ""
+        },
+        {
+          "drag"    : 7,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "7",
+          "data"    : ""
+        },
+        {
+          "drag"    : 8,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "8",
+          "data"    : ""
+        },
+        {
+          "drag"    : 9,
+          "img"     : "",
+          "text"    : "",
+          "type"    : "9",
+          "data"    : ""
+        }
+      ],
+      "dropZone": {
+        "drops": [
+          {
+            "key"       : 1,
+            "img"       : "",
+            "target"    : "1",
+            "size"      : 136,
+            "posY"      : 138,
+            "posX"      : 113,
+            "type"      : "1"
+          },
+          {
+            "key"       : 2,
+            "img"       : "",
+            "target"    : "2",
+            "size"      : 136,
+            "posY"      : 32,
+            "posX"      : 175,
+            "type"      : "2"
+          },
+          {
+            "key"       : 3,
+            "img"       : "",
+            "target"    : "3",
+            "size"      : 136,
+            "posY"      : 138,
+            "posX"      : 238,
+            "type"      : "3"
+          },
+          {
+            "key"       : 4,
+            "img"       : "",
+            "target"    : "4",
+            "size"      : 136,
+            "posY"      : 32,
+            "posX"      : 298,
+            "type"      : "4"
+          },
+          {
+            "key"       : 5,
+            "img"       : "",
+            "target"    : "5",
+            "size"      : 136,
+            "posY"      : 138,
+            "posX"      : 359,
+            "type"      : "5"
+          },
+          {
+            "key"       : 6,
+            "img"       : "",
+            "target"    : "6",
+            "size"      : 136,
+            "posY"      : 32,
+            "posX"      : 422,
+            "type"      : "6"
+          },
+          {
+            "key"       : 7,
+            "img"       : "",
+            "target"    : "7",
+            "size"      : 136,
+            "posY"      : 138,
+            "posX"      : 482,
+            "type"      : "7"
+          },
+          {
+            "key"       : 8,
+            "img"       : "",
+            "target"    : "8",
+            "size"      : 136,
+            "posY"      : 32,
+            "posX"      : 545,
+            "type"      : "8"
+          },
+          {
+            "key"       : 9,
+            "img"       : "",
+            "target"    : "9",
+            "size"      : 136,
+            "posY"      : 138,
+            "posX"      : 606,
+            "type"      : "9"
+          }
+        ],
+        "infoBox": [
+          {
+            "target"        : "1",
+            "title"         : "Ahorro Permanente",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Es el ahorro destinado para tu vivienda, abre tu cuenta con un monto mínimo del <b>3%</b> sobre el <b>SMMLV</b>, obtén excelente tasa de rentabilidad, y muchos beneficios.<br><br><b>*Apertura con un monto mínimo de $30.000</b>."
+          },
+          {
+            "target"        : "2",
+            "title"         : "Gana Diario",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Si quieres tener disponibilidad inmediata de tus recursos, rentabilidad diaria, agilidad y comodidad, este ahorro es tu mejor opción.<br><br><b>*Apertura con un monto mínimo de $70.000</b>."
+          },
+          {
+            "target"        : "3",
+            "title"         : "CDAT",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Ahorro a término fijo, Alta rentabilidad, <b>montos mínimos de $150.000</b>, inversión a largo plazo (<b>mínimo 90 días</b>) y seguridad; son características de esta línea de ahorro en la cual podrás incrementar tus recursos."
+          },
+          {
+            "target"        : "4",
+            "title"         : "Ahorro Programado",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Ahorra para lo que quieras, como lo quieras.<br>Programa tus vacaciones, educación, compras, celebraciones y mucho más, con cuotas semanales, quincenales o mensuales a <b>plazos de 6, 12, 18 y 24 meses</b> y montos desde <b>$15.000</b>.<br>¡Verás que obtendrás más de lo que esperas!"
+          },
+          {
+            "target"        : "5",
+            "title"         : "Ahorro Congregacional",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Pensamos en el beneficio de la comunidad pentecostal, ábrelo con mínimo <b>$70.000</b>. Genera rentabilidad diaria y disponibilidad de recursos todo el tiempo. Beneficia tu congregación con alta rentabilidad bajo las diferentes líneas de ahorro."
+          },
+          {
+            "target"        : "6",
+            "title"         : "Ahorro Amiguito",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Para los pequeños que piensan en grande. Ahorro para <b>menores de 18 años</b> de edad que pueden tener disponibilidad de recursos a la mano, apertura desde <b>$15.000</b>."
+          },
+          {
+            "target"        : "7",
+            "title"         : "Ahorro Mujer",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Ahorro sin fecha de vencimiento destinado para aquellas asociadas casadas que buscan crear, incrementar y fortalecer su patrimonio, logrando una visión y prevención de eventualidades futuras. Ábrelo desde <b>$70.000</b>."
+          },
+          {
+            "target"        : "8",
+            "title"         : "Mi Capital Futuro",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Un futuro Seguro tiene el Ahorro como su mejor aliado, Ahorro libre destino para tus proyectos a mediano y largo plazo.Ábrelo desde <b>$70.000</b>.<br><br><b>*Plazo mínimo 36 meses.</b>"
+          },
+          {
+            "target"        : "9",
+            "title"         : "Ahorro al terminar de pagar el crédito",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Durante el tiempo que dure el crédito, realizas un ahorro sin pensarlo y se entregará al finalizar la obligación."
+          }          
+        ]
+      },
+      "bg": "",
+      "example": {
+        "hand"    : ""
+      }
+    }
+  },
+
+  "page6": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "¿Cuáles son los beneficios que tengo al ahorrar con AMAR? ",
+    "text"    : "",
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Haz clic en cada uno de los botones para ver las recomendaciones.",
+      "posY"          : 33,
+      "posX"          : 0,
+      "size"          : 330,
+      "color"         : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/23n-1.png",
+        "title"             : "Disponibilidad",
+        "posY"              : 13,
+        "posX"              : 143,
+        "itemInfo": {
+          "title"           : "01",
+          "text1"           : "Campañas de ahorro con excelente rentabilidad.",
+          "text2"           : "",
+          "colorText"       : "#023974",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 56,
+        "posX"              : 236,
+        "itemInfo": {
+          "title"           : "02",
+          "text1"           : "Sorteos que permiten doblar su cuota del ahorro.",
+          "text2"           : "",
+          "colorText"       : "#074991",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 148,
+        "posX"              : 277,
+        "itemInfo": {
+          "title"           : "03",
+          "text1"           : "Contribuyes a una buena cultura de ahorro.",
+          "text2"           : "",
+          "colorText"       : "#2171B3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 245,
+        "posX"              : 246,
+        "itemInfo": {
+          "title"           : "04",
+          "text1"           : "Los ahorros se vuelven garantías para préstamos inmediatos sin codeudor.",
+          "text2"           : "",
+          "colorText"       : "#2097D3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 284,
+        "posX"              : 142,
+        "itemInfo": {
+          "title"           : "05",
+          "text1"           : "Podrás tener tranquilidad para eventualidades futuras.",
+          "text2"           : "",
+          "colorText"       : "#89C240",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 245,
+        "posX"              : 50,
+        "itemInfo": {
+          "title"           : "06",
+          "text1"           : "Incentivos en tasa o productos en diferentes campañas.",
+          "text2"           : "",
+          "colorText"       : "#683E92",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 148,
+        "posX"              : 10,
+        "itemInfo": {
+          "title"           : "07",
+          "text1"           : "Seguridad en tus operaciones financieras.",
+          "text2"           : "",
+          "colorText"       : "#683E92",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 56,
+        "posX"              : 46,
+        "itemInfo": {
+          "title"           : "08",
+          "text1"           : "Rentabilidad para celebrar.",
+          "text2"           : "",
+          "colorText"       : "#683E92",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "resources": {
+      "bgImg": ""
+    }
+  },
+
+  "page7": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "2. Crédito",
+    "text"    : "Buscamos contribuir al mejoramiento de la calidad de vida de nuestros asociados, por eso AMAR ofrece las siguientes líneas de crédito.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "Libre inversión",
+          "color": "#1F2A63"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Diseñado para satisfacer las diferentes necesidades de consumo como: Compra de Vehículo, Compra de Cartera, Inversión de Negocio, entre otros gastos a largo plazo. <b>Hasta 90 SMMLV</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "Educación",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Con el que puedes financiar tu educación o la de los tuyos. Financiamos Carreras de educación Superior, técnicas, tecnológicas de pregrados o posgrado. <b>Hasta 10 SMMLV</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "Crédi-Inmediato",
+          "color": "#2B3B8A"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "Te permitirá financiar de manera inmediata tus proyectos personales a corto plazo. <b>Hasta 4 SMMLV</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "Congregacional",
+          "color": "#0754D9"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "Apoyamos los proyectos de compra, construcción, remodelación y mejora de los templos de las iglesias."
+        }
+      },
+      {
+        "button": {
+          "text": "Vivienda",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "Con el que podrás construir, mejorar o amueblar tu casa nueva o usada. <b>Hasta 68 SMMLV</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "Cupo rotativo",
+          "color": "#07C3D9"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Te permite tener dinero disponible las 24 Horas, una vez utilizado lo pagarás en cuotas mensuales, el cual te permitirá liberar un nuevo cupo."
+        }
+      },
+      {
+        "button": {
+          "text": "Hipotecario",
+          "color": "#0418DE"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Te permitirá hacer realidad tu sueño de tener casa propia, financiamos hasta el <b>70%</b> del valor del inmueble que deseas, puede ser vivienda nueva o usada. "
+        }
+      },
+      {
+        "button": {
+          "text": "Turismo",
+          "color": "#6106D0"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Haz realidad tu sueño de viajar. Te financiamos viajes nacionales e Internacionales. Excelentes convenios de Turismo. <b>Hasta 7 SMMLV</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "Convenios",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
+        }
+      }
+    ]
+  },
+
+  "page8": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "2. Crédito - Beneficios y Requisitos generales",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "Beneficios",
+          "color": "#D69E11"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "<ul><li>Servicio y asesoría personalizada.</li><li>Excelentes Tasas de Interés.</li><li>Cuotas fijas.</li><li>Amplios plazos de financiación.</li><li>Créditos sin Deudor Solidario<b>*</b>.</li><li>Agilidad en las respuestas.</li><b>*Aplican las demás que estén dentro de las políticas internas<br>de Otorgamiento de Crédito de la Mutual.</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "Requisitos generales",
+          "color": "#E65853"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "<ul><li>Ser asociado activo y estar al día en el cumplimiento de sus obligaciones.</li><li>Presentar solicitud a través de los medios dispuestos por la Mutual.</li><li>Demostrar capacidad de pago.</li>"
+        }
+      }
+    ]
+  },
+
+  "page9": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "3. Tarjeta Débito",
+    "text"    : "<b>Beneficios de la tarjeta:</b><br><br><ul><li>Uso Nacional e Internacional (VISA).</li><li>Compras POS (Datáfonos) en establecimientos comerciales a <b>$0</b> costo.</li><li>Disponibilidad de efectivo las 24 horas.</li><li>Cuota de manejo más baja del mercado y unificada.</li><li>Acceso al cupo rotativo como tarjeta doble bolsillo.</li><li>Tasa de interés muy competitiva.</li>",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page10": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "4. Red de Salud",
+    "text"    : "Tenemos a disposición de nuestros asociados una red de prestadores de salud, con la cual podrás acceder a los servicios de salud de manera fácil y rápida. <b>¡Conoce los beneficios!</b>",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los servicios de la red de salud.",
+      "posY"    : 33,
+      "posX"    : 0,
+      "size"    : 380,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "type": "icon",
+      "items": [
+        {
+          "id"    : 1,
+          "title" : "Pedriatría",
+          "text"  : "",
+          "img"   : "img/7/n-1.png"
+        },
+        {
+          "id"    : 2,
+          "title" : "Optometría",
+          "text"  : "",
+          "img"   : "img/7/n-2.png"
+        },
+        {
+          "id"    : 3,
+          "title" : "Cardiología",
+          "text"  : "",
+          "img"   : "img/7/n-3.png"
+        },
+        {
+          "id"    : 4,
+          "title" : "Odontología",
+          "text"  : "",
+          "img"   : "img/7/n-4.png"
+        },
+        {
+          "id"    : 5,
+          "title" : "Oftalmología",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        },
+        {
+          "id"    : 6,
+          "title" : "Dermatología",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        }
+      ]
+    }
+  },
+
+  "page11": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "5. Protección Exequial",
+    "subTitle": "<b>Cubrimiento</b>",
+    "text"    : "<ul><li>Desde $2.900 mensuales por persona.</li><li>Sin límites de edad (aplican condiciones y restricciones).</li><li>Afiliación Solo con el nombre, fecha de nacimiento y número de documento de identidad.</li><li>Sin límite de personas en el grupo familiar (aplican condiciones y restricciones).</li><li>Cubrimiento a nivel nacional.</li></ul>",
+    "text2"   : "<ul><li>Atención las 24 horas.</li><li>Reclamo y traslado para su preparación.<b>*</b></li><li>Suminstro de cofre o ataúd.<b>*</b></li><li>Diligencias notariales de defunción.</li><li>Coche fúnebre.</li><li>Servicio de velación hasta 24 horas.<b>*</b></li></ul>",
+    "text3": "<ul><li>Suministro de tinto y aromáticas.<b>*</b></li><li>Recordatorios.</li><li>Bus para transportar los acompañantes al cementerio.</li><li>Automóviles para transportar a la familia.</li><li>Arreglo floral.</li><li>Traslado hasta 120 km intermunicipales.</li><li>Servicio de inhumación o cremación.</li><li>Servicio religioso (opcional).</li></ul>",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre el servicio de Protección Exequial.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 390,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page12": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "5. Protección Exequial - Mascotas",
+    "text"    : "Tu mascota te brinda compañía y felicidad; tu regalo para él es darle cariño y bienestar. Que su último adiós se de lleno de respeto y amor.<br><br><span class='F1'><b>Planes Funerarios</b></span>",
+    "text2": "*Los planes funerarios para mascotas aplican sólo para: Medellín, Barranquilla, Pereira, Bucaramanga y Pasto.",
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "Completo",
+        "color"             : "#FCBB14",
+        "itemInfo": {
+          "title"           : "Completo",
+          "text1"           : "Desde $5.000 por mes.",
+          "text2"           : "<li>Atención las 24 horas.</li><li>Traslado de la mascota al lugar de la cremación.</li><li>Cremación con la correspondiente certificación legal.</li><li>Entrega de suvenir- La última casita: Contiene las cenizas de la mascota</li><li>Entrega de planta (opcional)</li><li>Entrega de recordatorio con la foto de la mascota.</li>",
+          "colorText"       : "#FCBB14",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Básico",
+        "color"             : "#2B3B8A",
+        "itemInfo": {
+          "title"           : "Básico",
+          "text1"           : "Desde $4.000 por mes.",
+          "text2"           : "<li>Atención las 24 horas.</li><li>Traslado de la mascota al lugar de la cremación.</li><li>Cremación con la correspondiente certificación legal.</li><li>Sin devolución de cenizas</li>",
+          "colorText"       : "#2B3B8A",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page13": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "6. Giros con la Red Efecty",
+    "text"    : "Siempre pensamos en tener más y mejores beneficios para nuestros asociados, la red de efecty es la mejor alternativa para:",
+    "text2": "<li>Realizar pagos de tus facturas de EPM, UNE, Revistas, y demás.</li><li>Enviar y recibir giros nacionales a tus familiares y amigos.</li><li>Tienes cubrimiento en todo el país.</li><li>Realiza las recargas de tu móvil.</li><li>Realiza pagos en línea.</li>",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre el servicio de Giros con la Red Efecty",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 390,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page14": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "7. Seguridad Social",
+    "text"    : "AMAR le ofrece afiliación colectiva al sistema integral de seguridad social para sus asociados, con el fin de garantizar la protección de sus derechos y el acceso a los servicios de salud, pensión y riesgos laborales.",
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "Modalidad",
+        "color"             : "#149FF0",
+        "itemInfo": {
+          "title"           : "Modalidad",
+          "text1"           : "",
+          "text2"           : "<li>Solo salud (aplican condiciones).</li><li>Salud, pensión y ARL.</li><li>Salud, pensión, ARL y cada de compensación.</li>",
+          "colorText"       : "#149FF0",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Beneficios",
+        "color"             : "#5CB85C",
+        "itemInfo": {
+          "title"           : "Beneficios",
+          "text1"           : "",
+          "text2"           : "<li>Estar afiliado por una entidad legal y autorizada por el Ministerio de salud.</li><li>Puntualidad en los pagos.</li><li>Asesorías jurídicas.</li><li>Asesorías pensionales.</li><li>Cobertura permanente.</li><li>Afiliaciones acordes al perfil profesional.</li>",
+          "colorText"       : "#5CB85C",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page15": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "8. Seguros",
+    "text"    : "Buscamos contribuir al mejoramiento de la calidad de vida de nuestros asociados, por eso AMAR ofrece las siguientes líneas de crédito.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "Seguros de Vida",
+          "color": "#FCBB14"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Adquiere pólizas individuales y colectivas, cubrimientos por muerte o invalidez, incapacidad total y permanente, enfermedades graves, <b>con pagos mensuales y con amparos de $ 10.500.000 hasta $300.000.000</b>. Tu elijes la prima a pagar. (*aplican condiciones y restricciones)."
+        }
+      },
+      {
+        "button": {
+          "text": "Accidentes Personales",
+          "color": "#E65853"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Esta póliza le brinda una cobertura muy favorable para la estabilidad familiar en caso de sufrir un accidente o presentarse una eventualidad."
+        }
+      },
+      {
+        "button": {
+          "text": "Asistencia en Viajes",
+          "color": "#62C462"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "Programa tus viajes, paseos, retiros, campamentos y demás salidas con tranquilidad y seguridad. <br>- Solo por <b>$2.500</b> el día por persona). <br>- Cubrimiento a nivel nacional. <br>- Hasta por <b>$35.000.000</b>."
+        }
+      },
+      {
+        "button": {
+          "text": "Asistencia Temporal",
+          "color": "#07C3D9"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "Para trabajos ocasionales que requieras asegurarte a ti o tus trabajadores.<br>- Solo por <b>$7.000</b> el día (por persona).<br>- Cubrimiento a nivel nacional.<br>- Hasta <b>$15.000.000</b>."
+        }
+      },
+      {
+        "button": {
+          "text": "Seguros de Vehículo",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "<br>- Tasas preferenciales en la póliza. <br>- Con el respaldo de las mejores entidades. <br>- Responsabilidad civil. <br>- Cubrimientos por perdida parcial o total. <br>- Atención las 24 horas del día."
+        }
+      }
+    ]
+  },
+
+  "page16": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "9. Seguros Obligatorio",
+    "text"    : "<span class='F1'><b>Compra tu SOAT con nosotros y obtén:</b></span><br><br>- Participa por sorteo de bonos de $100.000. <br>- Apican TyC por la compra de tu SOAT.<br>- Obten el 10% de descuento por ley.<br>- Evita multas y sanciones.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre el Segur o Obligatorio de Accidentes de Tránsito (SOAT).",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 390,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page17": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Servicios",
+      "color"       : "#27357E"
+    },
+    "title"   : "10. Programas de Educación",
+    "text"    : "La educación es uno de los factores que más influyen en el avance y progreso de personas y sociedades, Por ello AMAR le da la oportunidad de capacitarse y mejorar sus condiciones profesionales.<br><span class='F1'><b>Conoce nuestros programas de educación:</b></span>",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los programas de educación que tenemos.",
+      "posY"    : 33,
+      "posX"    : 0,
+      "size"    : 380,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "type": "icon",
+      "items": [
+        {
+          "id"    : 1,
+          "title" : "Curso de manipulación de alimentos",
+          "text"  : "",
+          "img"   : "img/7/n-1.png"
+        },
+        {
+          "id"    : 2,
+          "title" : "Cursos de inteligencia financiera y finanzas personales",
+          "text"  : "",
+          "img"   : "img/7/n-2.png"
+        },
+        {
+          "id"    : 3,
+          "title" : "Cursos de modistería",
+          "text"  : "",
+          "img"   : "img/7/n-3.png"
+        },
+        {
+          "id"    : 4,
+          "title" : "Cursos de ujieres (recepción)",
+          "text"  : "",
+          "img"   : "img/7/n-4.png"
+        },
+        {
+          "id"    : 5,
+          "title" : "Talleres de música",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        },
+        {
+          "id"    : 6,
+          "title" : "Taller de manualidades",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        },
+        {
+          "id"    : 7,
+          "title" : "Charlas de nutrición",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        },
+        {
+          "id"    : 8,
+          "title" : "Protocolo de asegurabilidad para la iglesia",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        }
+      ]
+    }
+  },
+
+  "page18": {
+    "type"    : "pageCourse",
+    "startUnit"   : true,
+    "nameUnit"    : "unit3",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-3.png",
+      "textHeader"  : "Estatutos AMAR",
+      "color"       : "#27357E"
+    },
+    "title"   : "¿Qué son los estatutos de una empresa?",
+    "text"    : "Los estatutos de una empresa son el documento privado con el que se constituye una Sociedad, y con ello, se definen las reglas que tendrán a partir de su creación.<br><br> Los estatutos de las entidades sin ánimo de lucro, son las disposiciones internas que conforman el marco de acción, funcionamiento y desarrollo de los objetivos de la entidad que está constituyéndose y sobre los cuales se basan su existencia, toma de decisiones, designación de administradores y órganos de fiscalización.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre los estatutos de una empresa.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 350,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page19": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Estatutos AMAR",
+      "color"       : "#27357E"
+    },
+    "title"   : "Estatutos de AMAR",
+    "text"    : "Nuestros estatutos constan de 13 capítulos que contienen 86 artículos, así:",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "CAPITULO I",
+          "color": "#F0B114"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Contiene los artículos 1 al 3 donde se expresa la naturaleza jurídica de AMAR que se estable como persona jurídica de derecho privado, sin ánimo de lucro y regida por la doctrina Mutualista. De duración indefinida y se determina su radio de acción a nivel nacional con sede principal en la ciudad de Medellín. <br><br>Y el artículo 4 nos habla del acuerdo mutual o contrato de asociación por el cual por medio del cual unas personas naturales o jurídicas de naturaleza jurídica sin ánimo de lucro acuerdan conformar una persona jurídica."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO II",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Contiene los artículo del 5 al 13, donde podemos apreciar que el objeto de la Mutual “será implementar y desarrollar servicios integrales que brinden a las personas asociadas, usuarios y sus núcleos familiares, atención en las áreas de previsión, seguridad y bienestar social”. <br><br>El artículo 6 por su parte nos habla de las actividades que puede realizar la Mutual para el logro de su objeto social.<br><br>En cuanto a los servicios anteriores el Artículo 12 nos aclara que La Mutual no está obligada a prestar todos los servicios al mismo tiempo, sino que lo hará de acuerdo a las posibilidades económicas.<br><br>Los artículos 7 y 8 nos hablan de los Reglamentos de la Asociación y de la estructura Administrativa; dejándonos claro que es indispensable que la Mutual tenga una estructura Administrativa para su funcionamiento y que los Reglamentos de la Mutual precisamente serán elaborados y reformados por la Junta Directiva como parte de esa estructura Administrativa.<br><br>El Artículo 9 nos informa los principios que rigen la Asociación Mutual.<br><br>Los Artículos 10 y 11 por su parte nos aclaran que los servicios de ahorro y crédito como servicios misionales de la Mutual se prestarán únicamente a los asociados y observando las disposiciones especiales sobre la materia. También nos hacen saber que la Mutual puede realizar convenios con entidades de su naturaleza o del sector solidario y con terceros para el desarrollo de sus actividades.<br><br>El Artículo 13 nos habla de las Prohibiciones de la Mutual."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO III",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "Contiene los artículos del 14 al 17 y en estos se explica básicamente que la Mutual puede tener asociados personas naturales y Jurídicas que habiendo suscrito el acta de constitución o las que posteriormente hayan sido admitidas como tales y permanezcan afiliadas y estén debidamente inscritas, cumpliendo los siguientes requisitos para su ingreso:<br><br><b>Personas Naturales</b><br>1. Acogerse a los estatutos de la Mutual y a los reglamentos de los servicios.<br>2. Encontrarse dentro del ámbito de operaciones que tiene establecido la mutual.<br>3. Proporcionar toda la información de carácter personal, laboral y económico que requiera la Mutual y acreditar que se efectúen las averiguaciones del caso.<br>4. Cancelar el valor de la contribución de afiliación de que determine Junta Directiva, la cual no será reembolsable.<br>5. Comprometerse a pagar las contribuciones, las cuales no serán devolutivas.<br>6. Presentar por escrito solicitud de afiliación ante la Junta Directiva.<br>7. Pagar la contribución única de Asociación equivalente al 4% sobre el salario mínimo mensual legal vigente. La cual no será reembolsable.<br><br><b>Personas Jurídicas</b><br>1. Acogerse a los estatutos de la Asociación y a los reglamentos de los directivos.<br>2. Presentar solicitud de ingreso a la Junta Directiva.<br>3. Certificado de existencia y representación legal.<br>4. Copia del Acta por la cual se aprobó la solicitud de afiliación.<br>5. Pagar la contribución del 15% sobre un salario mínimo mensual legal vigente, la cual es no devolutiva y de acuerdo a los reglamentos definidos por la Junta Directiva<br><br>Se define además en este capítulo: a los beneficiarios y agraciados como familiares directos de un asociado y a los usuarios a quienes la Mutual también podrá extender sus servicios."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO IV",
+          "color": "#6106D0"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "Este capítulo contiene los artículos del 18 al 23, así:<br><br><b>Artículo 18: Derechos:</b><br>1. Utilizar los Servicios de la Asociación y realizar con ella las operaciones propias de su objeto social.<br>2. Participar en las actividades de la Asociación y en la administración mediante el desempeño de cargos sociales.<br>3. Ser informados de la gestión de la Asociación<br>4. Ejercer actos de decisión y elección en las Asambleas Generales.<br>5. Fiscalizar la gestión económica y financiera de la Asociación.<br>6. Beneficiarse de los diferentes programas que desarrolle la Asociación.<br>7. Presentar a la Junta de Control Social quejas fundamentadas cuando hubiere lugar a ellas<br>8. Presentar a los organismos directivos proyectos e iniciativas que tengan por objeto el mejoramiento de la entidad.<br>9. Retirarse voluntariamente de la Asociación, mientras está no se halla disuelto.<br><br><b>Artículo 19: Deberes:</b><br>1. Adquirir conocimientos sobre los principios básicos del mutualismo<br>2. Aceptar y cumplir las disposiciones de los órganos de administración y control social<br>3. Comportarse solidariamente en sus relaciones con la entidad y con los asociados<br>4. Abstenerse de efectuar actos o de incurrir en omisiones que afecten la estabilidad económica o el prestigio social de la Asociación.<br>5. Participar en los programas de educación mutual y de capacitación general, así como en los demás eventos a que se les cite.<br>6. Pagar oportunamente las contribuciones económicas que establezca la Asociación.<br>7. Concurrir a las reuniones ordinarias y extraordinarias de asociados o de delegados<br>8. Cumplir las obligaciones que adquiera con la Asociación.<br>9. Los demás contemplados en la Ley, el Estatuto y las normas internas de la Asociación<br>10. Dar efectivo cumplimiento al acto mutual.<br><br>El articulo 20 nos informa que la calidad de asociado se pierde por: retiro voluntario, muerte, disolución del ente cuando el asociado sea persona jurídica y por exclusión.<br><br>Los artículos 21, 22 y 23 nos informan que el retiro voluntario debe ser solicitado por escrito a la Junta Directiva, organismo que responderá dicha solicitud en un plazo máximo de 30 días hábiles. Para los casos de reingresos, la persona natural o jurídica deberá esperar 4 meses para solicitar el reingreso y deberá cumplir con los requisitos para ello. <br><br>En los casos de fallecimiento de esposo o compañero permanente, la persona en calidad de viuda o beneficiaria podrá ingresar a la Asociación Mutual con los mismos deberes y derechos del fallecido."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO V",
+          "color": "#5CB85C"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "Contiene los capítulos del 24 al 29 y tratan sobre las sanciones que podrá aplicar la Junta Directiva de la Mutual sobre los asociados que cometan las siguientes faltas:<br><br>• Infracciones graves a la disciplina social que pudieren desviar IOS fines de la Asociación<br>• Ejercer dentro de la Asociación actividades que contraríen sus objetivos y/o principios estatutarios.<br>• Falsedad o reticencia en los informes o documentos que la Asociación requiera.<br>• Servirse de la Asociación en beneficio o provecho de terceros.<br>• Entregar a la Asociación bienes de procedencia fraudulenta.<br>• Efectuar operaciones ficticias en perjuicio de la Mutual, asociados y de terceros<br>• Delitos que impliquen penas privativas de la libertad.<br>• Incumplimiento reiterado en el pago de las contribuciones económicas<br>• Atentar física o verbalmente contra las directivas de la Asociación y empleados.<br><br>Los artículos 25 y 26 detallan las sanciones posibles antes las faltas anteriores: amonestación escrita, suspensión de derechos y exclusión.<br><br>Los artículos 28 y 29 por su parte nos informan sobre el procedimiento que debe realizar la Junta Directiva para imponer una sanción a un asociado quienes deberán informarle por escrito la sanción y este a su vez dispondrá de 5 días hábiles para presentar recurso reposición y de 5 días mas para presentar apelación en caso de que en el termino de los 5 días primeros la Junta Directiva se sostenga en su decisión. Si el comité de apelación descrito en el artículo 29 se sostiene en su decisión procederá la sanción."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO VI",
+          "color": "#D9534F"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Comprende los artículos 30 al 37 y en ellos el eje principal a destacar es el “Patrimonio” de la Mutual.<br><br>En el artículo 30 se define: El patrimonio de la Asociación es de carácter irrepartible y estará constituido por: <br>• El Fondo Social Mutual:  donaciones que hacen los fundadores, cuotas extra ordinarias que apruebe la asamblea y las ordinarias que aprueba la Junta Directiva, valores positivos de los resultados de los ejercicios contables, capitalizaciones que autorice la Junta Directiva.<br>• Los Fondos y Reservas de carácter permanente<br>• Los auxilios y donaciones que se reciban con destino al incremento patrimonial.<br>• Fondos específicos.<br><br>La Mutual pertenece al Régimen Tributario especial en materia de impuestos, de conformidad con las normal contempladas en el estatuto tributario de la DIAN.<br><br>El articulo 34 nos recuerda que los excedentes no se distribuyen individualmente entre los asociados en ningún caso y que se deben aplicar en la siguiente forma:<br>• Para compensar pérdidas de ejercicios anteriores.<br>• Un Diez por ciento (10%) como mínimo para crear y mantener una reserva de protección al Fondo Mutual.<br>• Un veinte por ciento (20%) como mínimo el Fondo Social Mutual.<br>• Un treinta por ciento (30%) como mínimo para un Fondo de Educación Mutual.<br>• Un cinco por ciento (5%) para el Fondo de Seguridad Social.<br>• Un diez por ciento (10%) como mínimo el Fondo de siniestralidad.<br>• Un Cinco por ciento (5%) para los fondos de imprevistos.<br>• El resto para crear nuevas reservas y fondos sociales o para incrementar los anteriores, acordes con el objeto social de la Mutual.<br><br>La Asamblea General y la Junta Directiva podrán crear otros fondos y reservas, de naturaleza pasiva o patrimonial, para fines determinados, claramente justificados, definidos y reglamentados."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO VII",
+          "color": "#0754D9"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Comprende los artículos 38 al 65 y en ellos se establece la estructura organizacional de AMAR:<br><br>La Dirección, Administración y Control de la Asociación estarán a cargo de:<br>1. <b>Asamblea General:</b> máximo organismo de administración y sus decisiones son obligatorias para todos los asociados, se reunirá una vez al año, dentro de los tres primeros meses de año.<br>2. <b>Junta Directiva:</b> es el órgano permanente de administración de la Mutual y está subordinado a las directrices y políticas de la Asamblea General, integrado por cinco (5) miembros principales con cinco (5) suplentes, elegidos por la Asamblea General para un período de tres (3) años, se reunirá ordinariamente una vez al mes.<br>3. <b>Representante Legal o Gerente:</b> Es el Representante Legal Principal de AMAR y el ejecutor de las decisiones de la Asamblea General y de la Junta Directiva, su vinculación la realizará la Junta directiva, la cual se dará mediante contrato de trabajo a término indefinido y podrá ser removido en cualquier momento por decisión de la Junta Directiva<br>4. <b>Junta de Control Social:</b> ejercerá las funciones de vigilancia en la Mutual y será responsable de ésta ante la Asamblea. Estará compuesta por tres (3) miembros principales y tres (3) suplentes numéricos elegidos para períodos de tres (3) años.<br>5. <b>Revisor Fiscal:</b> La fiscalización, revisión y vigilancia contable de la Asociación serán ejercidas por el Revisor Fiscal, quien será elegido por la Asamblea General con su respectivo suplente, para un periodo de tres (3) año."
+        }
+      }
+    ]
+  },
+
+  "page20": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Estatutos AMAR",
+      "color"       : "#27357E"
+    },
+    "title"   : "Estatutos de AMAR",
+    "text"    : "Nuestros estatutos constan de 13 capítulos que contienen 86 artículos, así:",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "CAPITULO VIII",
+          "color": "#0754D9"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Comprende los artículos del 66 al 73, en los que se expresa:<br><br>La Asociación realizara de un modo permanente actividades orientadas a la formación de sus asociados y usuarios en los principios, doctrinas y prácticas del mutualismo y en lo relacionado con los servicios que preste, así como capacitar a los directivos y administradores, para el adecuado cumplimiento del objeto social. La asistencia técnica, la investigación y la promoción del mutualismo hacen parte de la educación mutual.<br><br>Para el cumplimiento de lo dispuesto en el artículo anterior la asociación tendrá un Comité de Educación nombrado por la Junta Directiva para un periodo de un año, con funciones como:<br><br>• Investigar sobre las necesidades de capacitación de los asociados, usuarios, directivos y empleados de la Asociación.<br>• Elaborar un programa de actividades de acuerdo con las disponibilidades de presupuesto y someterlo a la aprobación de la Junta Directiva.<br>• Una vez aprobado dicho programa asumir su ejecución, evaluación y presentar informe de resultados a la Junta Directiva y a la Asamblea General.<br><br>En los artículos del 69 al 73 los estatutos de la Mutual nos hablan de la Fusión, Incorporación, Transformación, escisión; esto es transformaciones que podrá sufrir la Mutual por determinación de la Asamblea General con entidades de su misma naturaleza y carácter. En los casos de fusión e incorporación la sociedad se disuelve sin liquidarse y su patrimonio se transfiere a la nueva entidad producto de la fusión o a la incorporación."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO IX",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Comprende los artículos 74 al 77, donde nos indican cuales son las causas por las cuales se puede disolver la Mutual:<br><br>• Por decisión voluntaria de los asociados, adoptada en Asamblea General y con el voto de las dos terceras partes de los asociados asistentes.<br>• Por reducción de los asociados a menos del número legal, siempre que esta situación se prolongue por más de 6 meses<br>• Por incapacidad o imposibilidad de cumplir el objeto social.<br>• Por fusión o incorporación a otra Asociación Mutual.<br>• Por haberse iniciado contra ella concurso de acreedores.<br>• Por haberse iniciado contra ella concurso de acreedores.<br><br>La declaratoria de disolución será tomada en Asamblea General convocada para este efecto, y comunicada a los organismos competentes de acuerdo con los procedimientos provistos en la legislación sobre Asociaciones Mutuales que en la actualidad existe. Cuando la disolución es acordada en Asamblea General, esta designará un máximo de tres liquidadores."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO X",
+          "color": "#2B3B8A"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "Articulo 78: La Mutual apoyará los programas y actividades de integración que se realicen con el fin de propender por la difusión, desarrollo y representación del mutualismo. Para desarrollar sus objetivos, la Asociación por decisión de la Junta Directiva podrá afiliarse o formar parte en la constitución de otra entidad mutualista de su mismo carácter o de grado superior"
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO XI",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "Comprende los artículos 79 al 81: La Asociación Mutual y los miembros de sus órganos de administración y control y los liquidadores, serán responsables por todos los actos u omisiones que impliquen el incumplimiento de las normas legales y estatutarias y se harán acreedores a las sanciones previstas en las leyes y a las emanadas de las reglamentaciones del Organismo Oficial Competente.<br><br>Los miembros de la Junta Directiva y el Representante Legal serán responsables por violación de la Ley, los Estatutos o los Reglamentos.<br><br>La Mutual es vigilada por la Super Intendencia de Economía solidaria entre otros entes gubernamentales.<br><br>La asociación se hará acreedora de sanciones por parte del Organismo Oficial Competente por las infracciones que le sean personalmente imputables y señaladas a continuación:<br><br>• Utilizar la denominación o el objeto de la Asociación Mutual para encubrir actividades o propósitos especulativos o contrarios a sus objetivos.<br>• Desviación de los fondos con destinación especifica<br>• Repartir entre los asociados las reservas, fondos, auxilios y donaciones de carácter patrimonial.<br>• Alterar la presentación de los estados financieros.<br>• Admitir como asociados a quienes no puedan serlo por prescripción legal o estatutaria.<br>• Ser renuentes a los actos de inspección y vigilancia.<br>• Realizar actos de disposición excediendo las facultades establecidas por la Ley<br>• No asignara las reservas y fondos obligatorios las cantidades que correspondan de acuerdo con la Ley<br>• No presentar oportunamente a la Asamblea General los informes."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO XII",
+          "color": "#1F2A63"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "Contiene los artículos del 82 al 84. La reforma de los presentes Estatutos deberá ser aprobada por la Asamblea General con el voto favorable de las dos terceras partes de los asistentes. Para proceder a la reforma, la Junta Directiva suministrará a los asociados el proyecto correspondiente dentro de los quince (15) días anteriores a la Asamblea General."
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO XIII",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Artículos 85 y 86: En todo caso, los miembros principales y suplentes de la Junta Directiva, la Junta de Control Social, el Revisor Fiscal, el Representante Legal y quienes cumplan las funciones de Tesorero y Contador, no podrán ser cónyuges entre sí, ni estar ligados por parentescos hasta el cuarto grado de consanguinidad, segundo de afinidad o único civil.<br><br>Todo lo anterior, según reforma aprobada en Asamblea ordinaria de delegados el 26 del mes de febrero de 2022"
+        }
+      }
+    ]
+  },
+
+  "page21": {
+    "type"    : "pageCourse",
+    "startUnit"   : true,
+    "nameUnit"    : "unit4",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-3.png",
+      "textHeader"  : "Plan estratégico AMAR",
+      "color"       : "#27357E"
+    },
+    "title"   : "PLANEACION ESTRATÉGICA AMAR",
+    "text"    : "El propósito de una planeación estratégica, es establecer las directrices que deben seguir todos los procesos de una empresa, con el fin de que todas sus actuaciones se encuentren alineadas hacia un mismo objetivo.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en los botones para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "background": {
+      "bg": "img/17/bgPage-17.png"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"   : "img/17/n-1.png",
+        "pos": {
+          "top"       : 19,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "OBJETIVO GENERAL DE LA PLANEACIÓN ESTRATÉGICA DE AMAR",
+          "text"      : "Mejorar la calidad de vida de nuestros asociados, usuarios y grupos familiares; fomentando la solidaridad para lograr el bienestar integral de la comunidad y generar acciones concretas para lograr el establecimiento de igualdad de oportunidades, por medio de servicios de excelente calidad.",
+          "posGlobe": {
+            "posY"    : 42,
+            "posX"    : 144
+          },
+          "color"     : "#93C750"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-2.png",
+        "pos": {
+          "top"       : 190,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "OBJETIVOS ESTRATÉGICOS DE AMAR",
+          "text"      : "",
+          "posGlobe": {
+            "posY"    : 247,
+            "posX"    : 144
+          },
+          "color"     : "#0A4D94"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-3.png",
+        "pos": {
+          "top"       : 370,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "▪ Gestionar en tiempo y forma los trámites y/o servicios solicitados.<br>▪ Mantener una estructura financiera apropiada que permita una rentabilidad de los productos de la MUTUAL.<br>▪ Garantizar la adecuada administración por riesgos en todos los procesos de la MUTUAL, teniendo como referencia la normatividad existente y aplicable.",
+          "posGlobe": {
+            "posY"    : 387,
+            "posX"    : 139
+          },
+          "color"     : "#347DB9"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-4.png",
+        "pos": {
+          "top"       : 533,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "▪ Hacer del mejoramiento continuo una práctica cotidiana que conlleve al logro de la excelencia administrativa y operacional de la MUTUAL.<br>▪ Convertir la tecnología en un aliado estratégico de la entidad para que sea el soporte de todos los procesos de negocio.<br>▪ Segmentar el mercado objetivo de la MUTUAL para diseñar productos acordes a sus necesidades.",
+          "posGlobe": {
+            "posY"    : 553,
+            "posX"    : 110
+          },
+          "color"     : "#33A0D6"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-5.png",
+        "pos": {
+          "top"       : 717,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "▪ Diagnosticar el mercado, la competencia y los clientes, para mejorar el conocimiento y las acciones necesarias para lograr un mejor posicionamiento de la MUTUAL.<br>▪ Asegurar un nivel de satisfacción de asociados y usuarios por encima del 70 %, anualmente.",
+          "posGlobe": {
+            "posY"    : 754,
+            "posX"    : 150
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-6.png",
+        "pos": {
+          "top"       : 884,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "PERSPECTIVAS DE LA PLANEACIÓN ESTRATÉGICA DE AMAR",
+          "text"      : "AMAR trazó su planeación estratégica, tiendo como base 5 perspectivas donde quiere enfocar su crecimiento empresarial y ver cristalizado el buen desempeño de los procesos:",
+          "posGlobe": {
+            "posY"    : 913,
+            "posX"    : 103
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-7.png",
+        "pos": {
+          "top"       : 1065,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>Perspectiva financiera – empresarial:</b> Solidez y optimización de los recursos financieros, humanos y tecnológicos al interior de la Mutual.<br><b>Perspectiva de productos y servicios:</b> Con énfasis en la satisfacción por la prestación de los servicios prestados y el proceso de mercadeo y comercialización de los productos y servicios ofrecidos por la Mutual.",
+          "posGlobe": {
+            "posY"    : 1083,
+            "posX"    : 143
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-8.png",
+        "pos": {
+          "top"       : 1258,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>Perspectiva de aprendizaje y conocimiento:</b> Énfasis en la autogestión y el control interno y el fortalecimiento del talento humano.<br><b>Perspectiva de Procesos Internos:</b> Mantenimiento y mejoramiento continuo de la estructura de procesos.",
+          "posGlobe": {
+            "posY"    : 1287,
+            "posX"    : 93
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-9.png",
+        "pos": {
+          "top"       : 1440,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>Perspectiva orientada a los asociados:</b> El reconocimiento de los asociados como principales destinatarios de los resultados de la gestión de la Mutual, además del fortalecimiento de la cultura mutualista.",
+          "posGlobe": {
+            "posY"    : 1480,
+            "posX"    : 143
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-10.png",
+        "pos": {
+          "top"       : 1623,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "Promesa de valor",
+          "text"      : "Conocemos a nuestros asociados y sus necesidades, velamos por su bienestar y tranquilidad ofreciendo un servicio integral que los satisface cobijando servicios; financieros, prevención, recreación, protección y provisión. Comprometidos con su bienestar y tranquilidad.",
+          "posGlobe": {
+            "posY"    : 1652,
+            "posX"    : 103
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-11.png",
+        "pos": {
+          "top"       : 1833,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "Nuestro Propósito",
+          "text"      : "Acompañar a nuestros asociados, usuarios y su grupo familiar en la realización de su proyecto de vida y consolidación financiera, brindando bienestar y tranquilidad atrevas de nuestro portafolio de servicios.",
+          "posGlobe": {
+            "posY"    : 1853,
+            "posX"    : 143
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-12.png",
+        "pos": {
+          "top"       : 2023,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "Nuestra aspiración",
+          "text"      : "En el 2023 seremos una de las 3 mutuales más grandes el país.",
+          "posGlobe": {
+            "posY"    : 2064,
+            "posX"    : 133
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-13.png",
+        "pos": {
+          "top"       : 2210,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "Valores corporativos",
+          "text"      : "",
+          "posGlobe": {
+            "posY"    : 2263,
+            "posX"    : 143
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-14.png",
+        "pos": {
+          "top"       : 2405,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>Responsabilidad:</b><br>Cumplimiento de las obligaciones y el cuidado en la toma de decisiones.<br><b>Transparencia:</b><br>Atreves de la información confiable, asequible y supervisada, generando seguridad en nuestros asociados.",
+          "posGlobe": {
+            "posY"    : 2420,
+            "posX"    : 133
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-15.png",
+        "pos": {
+          "top"       : 2593,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>Empatía:</b><br>Ponernos en el lugar del otro, fortaleciendo el valor de la solidaridad en nuestros asociados.<br><b>Honestidad:</b><br>Mostrar procesos íntegros en las gestiones realizadas.",
+          "posGlobe": {
+            "posY"    : 2613,
+            "posX"    : 143
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-16.png",
+        "pos": {
+          "top"       : 2770,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>Equidad:</b><br>Generando una distribución justa y equilibrada que se adapte a las necesidades de nuestros asociados, buscando beneficiar a cada uno atreves de la inclusión financiera.",
+          "posGlobe": {
+            "posY"    : 2803,
+            "posX"    : 133
+          },
+          "color"     : "#643B8D"
+        }
+      }
+    ]
+  },
+
+  "page22": {
+    "type"    : "pageCourse",
+    "startUnit"   : true,
+    "nameUnit"    : "unit5",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-3.png",
+      "textHeader"  : "Código del Buen vestir",
+      "color"       : "#27357E"
+    },
+    "title"   : "Objetivo",
+    "text"    : "Establecer los lineamientos necesarios para que los colaboradores hagan uso adecuado del uniforme Corporativo, el mismo que contribuye a la identificación institucional, proyectando a nuestros asociados, usuarios y a externos una buena imagen.<br><br>Sin duda alguna la imagen institucional de una empresa está respaldada por la imagen que proyectan sus colaboradores, y se percibe a través de su presentación personal y trato brindado a las personas con quienes interactúan.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la imagen para visualizar el carrusel de imágenes.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/10/btnGallery.png"
+      },
+      "gallery": [
+        {
+          "key"       : 1,
+          "img"       : "img/10/n-1.jpg"
+        },
+        {
+          "key"       : 2,
+          "img"       : "img/10/n-2.jpg"
+        },
+        {
+          "key"       : 3,
+          "img"       : "img/10/n-3.jpg"
+        },
+        {
+          "key"       : 4,
+          "img"       : "img/10/n-4.jpg"
+        },
+        {
+          "key"       : 5,
+          "img"       : "img/10/n-5.jpg"
+        },
+        {
+          "key"       : 6,
+          "img"       : "img/10/n-6.jpg"
+        },
+        {
+          "key"       : 7,
+          "img"       : "img/10/n-7.jpg"
+        },
+        {
+          "key"       : 8,
+          "img"       : "img/10/n-8.jpg"
+        },
+        {
+          "key"       : 9,
+          "img"       : "img/10/n-9.jpg"
+        },
+        {
+          "key"       : 10,
+          "img"       : "img/10/n-10.jpg"
+        }
+      ],
+      "closedModal"   : true
+    }
+  },
+
+  "page23": {
+    "type"    : "pageCourse",
+    "startUnit"   : true,
+    "nameUnit"    : "unit6",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "Introducción",
+    "text"    : "En cumplimiento a lo establecido en la ley 1562 de 2012, el Decreto 1072 de 2015, La Resolución 0312 de 2019 y demás  normas vigentes en materia de Seguridad y Salud en el Trabajo (SGSST) en Colombia, la Asociación Mutual Amigo Real ha estructurado el sistema  de gestión de SST, cuyo objetivo principal es propiciar el mejoramiento continuo así como el control de las condiciones laborales y de los riesgos y peligros presentes en los lugares de trabajo.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page24": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "Objetivos",
+    "text"    : "",
+    "instruction": {
+      "type"    : "",
+      "text"    : "",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page25": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "Política de SG-SST",
+    "text"    : "<b>LA ASOCIACION MUTUAL AMIGO REAL - AMAR</b> <br><br>Establece dentro de  sus prioridades el compromiso de planear, organizar, ejecutar y evaluar la implementación y el desarrollo del  Sistema de Gestión de la Seguridad y Salud en el Trabajo  y programas de promoción y prevención con el acompañamiento directo de la gerencia.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page26": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "SG SST y SS del empleado",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "SG-SST",
+        "color"             : "#FCBB14",
+        "itemInfo": {
+          "title"           : "Sistema de gestión de la seguridad y salud en el trabajo",
+          "text1"           : "Art 1, Ley 1562 de 2012",
+          "text2"           : "Consiste en el desarrollo de un proceso lógico y por etapas, basado en la mejora continua y que incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoría y las acciones de mejora con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y salud en el trabajo.",
+          "colorText"       : "#FCBB14",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Higiene y Seguridad Industrial",
+        "color"             : "#2B3B8A",
+        "itemInfo": {
+          "title"           : "Reglamento de Higiene y Seguridad Industrial",
+          "text1"           : "",
+          "text2"           : "<b>AMAR</b> y sus trabajadores darán estricto cumplimiento a las disposiciones legales, así como las normas técnicas e internas que se adopten para la implantación de las actividades de Medicina Preventiva y del Trabajo, Higiene y Seguridad Industrial, que sean concordantes con el presente Reglamento y con el programa de SST. <br><br>Está exhibido en  las carteleras o bolsillos de las agencias y cuyos contenidos se dan a conocer a todos los trabajadores en el momento de su ingreso.",
+          "colorText"       : "#2B3B8A",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ]
+  },
+
+  "page27": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "Identificación de Riesgos",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "Biológico",
+          "color": "#07C3D9"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "En este caso encontramos un grupo de agentes orgánicos, animados o inanimados como los hongos, virus, bacterias, parásitos, pelos, plumas, polen (entre otros), presentes en determinados ambientes laborales, que pueden desencadenar enfermedades infectocontagiosas, reacciones alérgicas o intoxicaciones al ingresar al organismo."
+        }
+      },
+      {
+        "button": {
+          "text": "Físico",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Se refiere a todos aquellos factores ambientales que dependen de las propiedades físicas de los cuerpos, tales como carga física, ruido, iluminación, radiación ionizante, radiación no ionizante, temperatura elevada y vibración, que actúan sobre los tejidos y órganos del cuerpo del trabajador y que pueden producir efectos nocivos, de acuerdo con la intensidad y tiempo de exposición de los mismos."
+        }
+      },
+      {
+        "button": {
+          "text": "Ergonómico",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "Involucra todos aquellos agentes o situaciones que tienen que ver con la adecuación del trabajo, o los elementos de trabajo a la fisonomía humana.<br><br>Representan factor de riesgo los objetos, puestos de trabajo, máquinas, equipos y herramientas cuyo peso, tamaño, forma y diseño pueden provocar sobre-esfuerzo, así como posturas y movimientos inadecuados que traen como consecuencia fatiga física y lesiones osteomusculares."
+        }
+      },
+      {
+        "button": {
+          "text": "Psicosocial",
+          "color": "#0754D9"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "La interacción en el ambiente de trabajo, las condiciones de organización laboral y las necesidades, hábitos, capacidades y demás aspectos personales del trabajador y su entorno social, en un momento dado pueden generar cargas que afectan la salud, el rendimiento en el trabajo y la producción laboral."
+        }
+      },
+      {
+        "button": {
+          "text": "Mecánico",
+          "color": "#2B3B8A"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "Conjunto  de  condiciones inseguras   que   pueden  causar  lesiones  severas, originadas por la carencia de  protecciones,  en  la operación  de  máquinas o manejo de utensilios de oficina. Entre las que están: <br><br>- Cizallamiento <br>- Amputaciones <br>- Aplastamientos <br>- Atrapamientos <br>- Cortes y punciones"
+        }
+      },
+      {
+        "button": {
+          "text": "Locativo",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Son causados por el lugar de trabajo, indistintamente de la labor que se efectúa en ellos. Los factores de riesgo locativo más conocidos son: Falta de señalización, daños estructurales, condiciones inadecuadas del suelo, piso y techos, etc."
+        }
+      },
+      {
+        "button": {
+          "text": "Público",
+          "color": "#1F2A63"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Son todos aquellos peligros a los que estamos expuestos en el diario vivir  y en el desempeño de rutinas cotidianas. Se clasifican en los tres momentos del riesgo público: 1. Preincidente, 2. Mientras se presenta la situación y 3. Después de presentada la situación."
+        }
+      },
+      {
+        "button": {
+          "text": "Eléctrico",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-7.png",
+          "img2": "",
+          "text": "Se refiere a la posibilidad de contacto del cuerpo humano con la corriente eléctrica y que puede resultar en un peligro para la integridad de las personas."
+        }
+      },
+      {
+        "button": {
+          "text": "Tránsito",
+          "color": "#6106D0"
+        },
+        "information": {
+          "img1": "img/18/n-8.png",
+          "img2": "",
+          "text": "Se pueden establecer como principales factores de riesgos de accidentes de tránsito: Velocidad excesiva, Maniobras de alto riesgo por parte de conductores, Entre los mencionados destacaremos especialmente el consumo de alcohol antes de conducir y al uso de celulares mientras se conduce."
+        }
+      },
+      {
+        "button": {
+          "text": "Tecnológico",
+          "color": "#0418DE"
+        },
+        "information": {
+          "img1": "img/18/n-9.png",
+          "img2": "",
+          "text": "Es la probabilidad de que un objeto, material o proceso peligroso, una sustancia tóxica o peligrosa o bien un fenómeno debido a la interacción de estos, ocasione un número determinado de consecuencias a la salud, la economía, el medio ambiente y el desarrollo integral de un sistema.<br><br>- Riesgo por Incendio o explosión.<br>- Riesgo por escapes o derrames.<br>- Riesgo de fuga."
+        }
+      },
+      {
+        "button": {
+          "text": "Natural",
+          "color": "#000D93"
+        },
+        "information": {
+          "img1": "img/18/n-10.png",
+          "img2": "",
+          "text": "Se puede definir como la probabilidad de que un territorio y la sociedad que habita en él, se vean afectados por episodios naturales de rango extraordinario.​ En otras palabras, la vulnerabilidad de una población o región a una amenaza o peligro natural."
+        }
+      }
+    ]
+  },
+
+  "page28": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "COPASST",
+    "text"    : "El Comité Paritario de Seguridad y Salud en el Trabajo constituye un medio importante para promocionar la Seguridad y Salud en todos los niveles, busca acuerdos con las directivas y responsables del sistema en función del logro de metas y objetivos concretos, divulgar y sustentar prácticas saludables y motivar la adquisición de hábitos seguros. <br><br> <b>Conoce las funciones del COPASST</b>",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "Funciones - Parte 1",
+        "color"             : "#FCBB14",
+        "itemInfo": {
+          "title"           : "",
+          "text1"           : "",
+          "text2"           : "- Vigilar el desarrollo de las actividades en seguridad y salud en el trabajo, promover su divulgación y observancia.<br><br>- Servir como organismo de coordinación entre empleador y los trabajadores en la solución de los problemas relativos a la salud ocupacional. Tramitar los reclamos de los trabajadores relacionados con la salud ocupacional.",
+          "colorText"       : "#FCBB14",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Funciones - Parte 2",
+        "color"             : "#2B3B8A",
+        "itemInfo": {
+          "title"           : "",
+          "text1"           : "",
+          "text2"           : "- Visitar periódicamente los lugares de trabajo e inspeccionar los ambientes, máquinas, equipos, aparatos y las operaciones realizadas por el personal de trabajadores en cada área o sección de la empresa e informar al empleador sobre la existencia de factores de riesgo y sugerir las medidas correctivas y de control. <br><br>- Colaborar en el análisis de las causas de los accidentes de trabajo y enfermedades laborales, proponer al empleador las medidas correctivas que haya lugar para evitar su ocurrencia.",
+          "colorText"       : "#2B3B8A",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ]
+  },
+
+  "page29": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "Comité de Convivencia Laboral",
+    "text"    : "Es un organismo asesor conformado por un numero igual de representantes del empleador y de los trabajadores con sus respectivos suplentes, cuya principal función es la de establecer estrategias de conciliación entre las partes cuando exista una queja de acoso laboral; de igual forma el promover actividades preventivas  de acoso laboral para proteger a los trabajadores contra los riesgos psicosociales que afecten su salud en los lugares de trabajo.<br><br><b>Conoce las funciones del Comité de Convivencia Laboral</b><br><br><ul><li>Recibir y dar tramite a quejas con pruebas que las soportan.</li><li>Examinar confidencialmente los casos.</li><li>Escuchar las partes involucradas individualmente.</li><li>Concertar reuniones y espacios de dialogo entre las partes generando compromisos y soluciones efectivas.</li><li>Formular un plan de mejora entre las partes.</li></ul>"
+  },
+
+  "page30": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "SG SST y SS del empleado",
+      "color"       : "#27357E"
+    },
+    "title"   : "Conceptos Básicos",
+    "text"    : "Conoce algunos conceptos básicos que debes conocer para comprender el tema de Seguridad y Salud en el Trabajo.<br><br> Estos te servirán para comprender mejor el curso y para tu día a día en el trabajo.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la imagen para visualizar el carrusel de imágenes.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/10/btnGallery.png"
+      },
+      "gallery": [
+        {
+          "key"       : 1,
+          "img"       : "img/10/n-1.jpg"
+        },
+        {
+          "key"       : 2,
+          "img"       : "img/10/n-2.jpg"
+        },
+        {
+          "key"       : 3,
+          "img"       : "img/10/n-3.jpg"
+        },
+        {
+          "key"       : 4,
+          "img"       : "img/10/n-4.jpg"
+        },
+        {
+          "key"       : 5,
+          "img"       : "img/10/n-5.jpg"
+        }
+      ],
+      "closedModal"   : true
+    }
+  },
+
+  "page31": {
+    "type"            : "endCourse",
+    "message": {
+      "success": {
+        "title"       : "¡Has finalizado el curso de Generalidades!",
+        "subTitle"    : "¡Muchas gracias!",
+        "module"      : "",
+        "courseName"  : "Estamos seguros que tienes nuevos aprendizajes y que pondrás en práctica toda la información que viste a lo largo de este recorrido. <br><br> Haz clic en el botón de finalizar para cerrar el curso y continuar con tu formación"
+      },
+      "error": {
+        "title"       : "¡No has cumplido <br>con el objetivo!",
+        "subTitle"    : "¡Muchos éxitos!",
+        "module"      : "",
+        "courseName"  : "Te invitamos a realizar nuevamente la evaluación, esta vez lo harás mejor. <br><br>Concéntrate en las 7 preguntas que hemos preparado para ti."
+      }
+    },
+    "logoCourse"      : "img/cover/logo-1.png",
+    "logoFooter"      : "img/cover/logo-2.png",
+    "background": {
+      "bg"            : "img/cover/fondo-end.png"
+    },
+    "buttonEnd"       : "Finalizar",
+    "footer": {
+      "label"         : "Seguridad de la información"
+    }
+  },
+
+  "menuCourse": {
+    "type": "menuPage",
+    "Units": [
+      {
+        "unit"          : 1,
+        "title"         : "AMAR ¿Quiénes somos?",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-1.png",
+        "goTo"          : 3,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 2,
+        "title"         : "Servicios",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-2.png",
+        "goTo"          : 4,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 3,
+        "title"         : "Estatutos AMAR",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-4.png",
+        "goTo"          : 18,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 4,
+        "title"         : "Plan estratégico AMAR",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-5.png",
+        "goTo"          : 21,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 5,
+        "title"         : "Código del Buen vestir",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-9.png",
+        "goTo"          : 22,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 6,
+        "title"         : "SG SST y SS del empleado",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-10.png",
+        "goTo"          : 23,
+        "fullVisited"   : false
+      }
+    ],
+    "instruction": {
+      "type"    : "",
+      "text"    : "En este menú navegarás por los distintos temas del curso, haz clic en aquel que está intermitente o palpitando. ",
+      "posY"    : 515,
+      "posX"    : 40,
+      "size"    : 330,
+      "color"   : "#189BDB"
+    }
+  }
+}

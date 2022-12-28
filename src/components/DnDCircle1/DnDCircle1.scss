@@ -1,0 +1,123 @@
+@import "../../resources/colors";
+@import "../../resources/animation.scss";
+
+.DnDCircle1 {
+  position: absolute;
+  width: 800px;
+  height: 340px;
+
+  .dropContent {
+    position: absolute;
+    top: 0px;
+  }
+
+  .dragContent {
+    position: absolute;
+    bottom: -30px;
+  }
+
+  .itemDrop { 
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    // background-color: rgba($blanco, 0.7);
+    // box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+  }
+
+  .itemDrag {
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .bgItemGlobe {
+    background-color: $color1;
+    position: absolute;
+    display: grid;
+    top: -167px;
+    left: -96px;
+    z-index: 4;
+    width: 1022px;
+    height: 648px;
+
+    .itemGlobe {
+      background-color: $blanco;
+      box-shadow: 6px 6px 0px rgba($color13, 0.75);
+      border: 1px solid $color1;
+      align-self: center;
+      justify-self: center;
+      padding: 2em;
+      min-width: 400px;
+      max-width: 480px;
+      min-height: 180px;
+      max-height: 230px;
+
+      .enfasis-1 {
+        background-color: #EAEAEA;
+        border-radius: 10px;
+        padding: 0.5rem;
+      }
+
+      .buttonClose {
+        position: absolute;
+        background-color: rgb(255, 255, 255);
+        border-radius: 50%;
+        padding: 0.25rem 0rem;
+        top: -15px;
+        right: -15px;
+        .iconButton {
+          color: $color10;
+          font-size: 2.3em;
+          transition: all .3s;
+        }
+
+        &:hover {
+          .iconButton {
+            color: $color17;
+          }
+        }
+      }
+    }
+  }
+
+  .exampleContent {
+    .hand {
+      top: -10px;
+      left: 66px;
+      animation: move 3s infinite;
+    }
+
+
+    @keyframes move {
+      0% {
+        transform: translateY(0px) translateX(0px);
+        opacity: 0;
+        animation-timing-function: ease-out;
+      }
+
+      10% {
+        transform: translateY(0px) translateX(0px);
+        opacity: 1;
+        animation-timing-function: ease-out;
+      }
+
+      80% {
+        transform: translateY(-150px) translateX(70px);
+        opacity: 1;
+        animation-timing-function: ease-out;
+      }
+
+      90% {
+        transform: translateY(-150px) translateX(70px);
+        opacity: 1;
+        animation-timing-function: ease-out;
+      }
+      
+      100% {
+        transform: translateY(-150px) translateX(70px);
+        opacity: 0;
+        animation-timing-function: ease-out;
+      }
+    }
+  }
+}

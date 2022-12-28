@@ -1,0 +1,85 @@
+// ------------- COLORES PRINCIPALES
+$color1: #27357E;
+$color2: #1F2A63;
+$color3: #2B3B8A;
+$color4: #149FF0;
+$color5: #0754D9;
+$color6: #07C3D9;
+
+// ------------- COLORES SECUNDARIOS
+$color7: #F0B114;
+$color8: #D69E11;
+$color9: #FCBB14;
+$color10: #E65853;
+$color11: #62C462;
+
+// ------------- COLORES TERCIARIOS
+$color12: #E6E6E6;
+$color13: #BFBFBF;
+$color14: #04386D;
+$color15: #86BF41;
+$color16: #DADADA;
+$color17: #BF4945;
+
+// ------------- COLORES TEXTO
+$titulo1: #27357E;
+$titulo2: #0F0F0F;
+$texto1: #0F0F0F;
+$texto2: #333333;
+
+// ------------- COLORES NEUTROS
+$blanco: #ffffff;
+$negro: #000000;
+
+// SOLO SE DEBEN USAR LAS CLASES PARA CAMBIAR COLORES, EL COLOR POR DEFECTO YA ESTÁ DEFINIDO
+
+.color-1 { color: $color1; }
+.color-2 { color: $color2; }
+.color-3 { color: $color3; }
+.color-4 { color: $color4; }
+.color-5 { color: $color5; }
+.color-6 { color: $color6; }
+
+.color-7 { color: $color7; }
+.color-8 { color: $color8; }
+.color-9 { color: $color9; }
+.color-10 { color: $color10; }
+.color-11 { color: $color11; }
+
+.color-12 { color: $color12; }
+.color-13 { color: $color13; }
+.color-14 { color: $color14; }
+.color-15 { color: $color15; }
+.color-16 { color: $color16; }
+.color-17 { color: $color17; }
+
+.titulo1 { color: $titulo1; }
+.titulo2 { color: $titulo2; }
+.texto1 { color: $texto1; }
+.texto2 { color: $texto2; }
+
+.blanco { color: $blanco; }
+.negro { color: $negro; }
+
+.bgColor-1 { background-color: $color1; }
+.bgColor-2 { background-color: $color2; }
+.bgColor-3 { background-color: $color3; }
+.bgColor-4 { background-color: $color4; }
+.bgColor-5 { background-color: $color5; }
+.bgColor-6 { background-color: $color6; }
+
+.bgColor-7 { background-color: $color7; }
+.bgColor-8 { background-color: $color8; }
+.bgColor-9 { background-color: $color9; }
+.bgColor-10 { background-color: $color10; }
+.bgColor-11 { background-color: $color11; }
+
+.bgColor-12 { background-color: $color12; }
+.bgColor-13 { background-color: $color13; }
+.bgColor-14 { background-color: $color14; }
+.bgColor-15 { background-color: $color15; }
+.bgColor-16 { background-color: $color16; }
+.bgColor-17 { background-color: $color17; }
+
+.blanco { color: $blanco; }
+.negro { color: $negro; }

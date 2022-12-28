@@ -1,0 +1,43 @@
+@import "../../../resources/colors.scss";
+@import "../../../resources/animation.scss";
+
+.page-1 {
+  .boxContent {
+    width: 460px;
+    height: 341px;
+
+    .btnStart {
+      width: 200px;
+      height: 40px;
+      border-radius: 8px;
+      background-color: $color1;
+      color: $blanco;
+      font-size: 1rem;
+      transition: all .5s;
+
+      &:hover {
+        background-color: $color2;
+      }
+    }
+  }
+
+  .buttonBoxInst {
+    width: 480px;
+    padding: 0.8rem 0;
+    .btnItemInst {
+      background-color: $blanco;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      margin: 0 0.2rem;
+      cursor: pointer;
+      transition: all 0.4s;
+      &:hover {
+        background-color: #BDB5B5;
+      }
+    }
+    .btnActive {
+      background-color: $color1;
+    }
+  }
+}

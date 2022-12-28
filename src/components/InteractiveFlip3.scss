@@ -1,0 +1,76 @@
+@import "../resources/colors";
+@import "../resources/animation.scss";
+
+.interactiveFlip3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: stretch;
+  flex-wrap: wrap;
+
+  .itemFlip {
+    .buttonFlip {
+      background-color: $blanco;
+      box-shadow: 6px 6px 0px rgba(#333333, 0.75);
+      border: 1px solid $color8;
+      cursor: pointer;
+      transition: all .4s;
+      padding: 2rem 1rem;
+      height: 160px;
+      width: 160px;
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+      margin-bottom: 1rem;
+  
+      .iconButton {
+        font-size: 3em;
+        transition: all .3s;
+      }
+  
+      &:hover {
+        .iconButton {
+          font-size: 3.5em;
+        }
+      }
+    }
+  
+    .infoFlip {
+      position: absolute;
+      top: 0;
+      background-color: $color8;
+      box-shadow: 6px 6px 0px rgba(#333333, 0.75);
+      padding: 2rem 1rem;
+      height: 160px;
+      width: 160px;
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    // .flip-1, .flip-2, .flip-3 {
+    //   height: 190px;
+    //   width: 190px;
+    //   margin-left: 0.5rem;
+    //   margin-right: 0.5rem;
+    //   margin-bottom: 1rem;
+    // }
+
+    .flip-1 {
+      margin-left: 0rem;
+    }
+    .flip-4 {
+      margin-right: 0rem;
+    }
+
+    // .flip-4, .flip-5 {
+    //   height: 190px;
+    //   width: 293px;
+    //   margin-left: 0.5rem;
+    //   margin-right: 0.5rem;
+    // }
+
+    .flip-8 {
+      margin-right: 0rem;
+    }
+  }
+}

@@ -1,0 +1,54 @@
+@import "../resources/colors";
+@import "../resources/animation.scss";
+
+.Accordion2 {
+  width: 95%;
+  height: 300px;
+  transition: all .4s;
+  overflow: hidden;
+
+  .accordionItem {
+    .accordionButton {
+      padding: 1rem;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all .4s;
+      filter: brightness(1);
+
+      z-index: 1;
+
+      .textButton {
+        writing-mode: vertical-lr;
+        transform: rotate(180deg);
+        pointer-events: none;
+      }
+
+      &:hover {
+        filter: brightness(1.2);
+      }
+    }
+
+    .active {
+      filter: brightness(1.2);
+    }
+
+    .accordionInfo {
+      background-color: #F7F7F7;
+      padding: 2rem;
+      margin-right: -10px;
+      overflow: scroll;
+
+      z-index: 0;
+
+      transition: all .4s;
+    }
+
+    .inInfo {
+      transform: translateX(0px);
+    }
+
+    .outInfo {
+      transform: translateX(-580px);
+    }
+  }
+}

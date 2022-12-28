@@ -1,0 +1,52 @@
+@import "../../resources/colors";
+@import "../../resources/animation.scss";
+
+.DnDIcon1 {
+  width: 95%;
+
+  .contentDrop {
+    width: 90%;
+    height: 350px;
+    margin-top: -120px;
+    padding-left: 3rem;
+    padding-bottom: 5rem;
+
+    .itemDrop {
+      .textItem {
+        color: #fff;
+        height: 26px;
+        width: 29px;
+        margin-right: 0.5rem;
+        border-radius: 20px;
+        padding: 0.2rem 0.3rem;
+      }
+
+      .boxDrop {
+        height: 65px;
+        width: 65px;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+    }
+    .boxDropText {
+      width: 246px;
+      height: 85px;
+      background-color: #F7F7F7;
+      border: 3px solid #FFFFFF;
+      box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+      border-radius: 5px;
+      padding: 1rem;
+    }
+  }
+
+  .contentWords {
+    margin: 0 auto;
+
+    .dragWord {
+      // margin: 0.4rem 0.5rem 0.4rem 0.5rem;
+      .labelDrag {
+        color: #ffffff;
+      }
+    }
+  }
+}

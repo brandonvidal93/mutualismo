@@ -1,0 +1,2988 @@
+{
+  "coverPage": {
+    "type"            : "startPage",
+    "units"           : 6,
+    "title"           : "Seguridad de <br> la información",
+    "subTitle"        : "",
+    "module"          : "",
+    "courseName"      : "Para comenzar, haz clic en el siguiente botón:",
+    "logoCourse"      : "img/cover/logo-1.png",
+    "logoFooter"      : "img/cover/logo-2.png",
+    "background": {
+      "bg"            : "img/cover/fondo-cover.jpg",
+      "bgDnDStart"    : "img/cover/bg-DnD.png"
+    },
+    "footer": {
+      "label"         : "Seguridad de la información"
+    }
+  },
+
+  "page1": {
+    "type"        : "pageInstruction",
+    "title"       : "Antes de iniciar...",
+    "information": [
+      {
+        "text1"   : "Para la realización del curso, ten en cuenta las siguientes recomendaciones:",
+        "img1"    : "img/1/n-1.png"
+      },
+      {
+        "text1"   : "Guarda todo lo que pueda distraerte",
+        "img1"    : "img/1/n-2.png"
+      },
+      {
+        "text1"   : "Apaga tu celular o ponlo en silencio",
+        "img1"    : "img/1/n-3.png"
+      },
+      {
+        "text1"   : "Ten a la mano cuaderno y lápiz donde tomar nota",
+        "img1"    : "img/1/n-4.png"
+      },
+      {
+        "text1"   : "Además, <b>debes leer y navegar</b> toda la información que aparecerá en las diferentes pantallas.",
+        "img1"    : "img/1/n-5.png"
+      },
+      {
+        "text1"   : "Para la navegación contarás con estos 2 botones:",
+        "img1"    : "img/1/n-6-1.png",
+        "img2"    : "img/1/n-6-2.png"
+      },
+      {
+        "text1"   : "El menú del curso lo encontrará en la parte izquierda de la pantalla.",
+        "img1"    : "img/1/n-7.png"
+      },
+      {
+        "text1"   : "",
+        "img1"    : ""
+      }
+    ],
+    "resources": {
+      "bg"        : "img/1/bgPage-1.png"
+    },
+    "instruction": {
+      "type"      : "mouse",
+      "text"      : "Haz clic en los círculos para visualizar todas las recomendaciones.",
+      "posY"      : 50,
+      "posX"      : 660,
+      "size"      : 330,
+      "color"     : "#FFD15C"
+    }
+  },
+
+  "page2": {
+    "type"    : "pageCourse",
+    "title"   : "Hola",
+    "text"    : "En esta era digital la mayor parte de nuestra información se encuentra en línea y por lo general la forma en que trabajamos, aprendemos, nos comunicamos, nos relacionamos, entre otros; dependen de una conexión a la red. Tener conciencia frente a los riesgos que amenazan nuestra información es parte fundamental de los controles que se necesitan para evitar ser víctimas de la inseguridad digital. <br><br>Presta mucha atención a los diferentes temas que desarrollaremos alrededor del curso. <span class = 'color-14'>¡Bienvenidos!</span>",
+    "resources": {
+      "img1": "img/2/npc-1.png"
+    },
+    "multimedia": {
+      "audio": {
+        "src"         : "audio/bienvenida.mp3",
+        "autoPlay"    : true
+      },
+      "subtitles": {
+        "1"           : "En esta era digital la mayor parte de nuestra información se",
+        "3"           : "encuentra en línea y por lo general la forma en que ",
+        "6"           : "trabajamos, aprendemos, nos comunicamos, nos relacionamos,",
+        "10"          : "entre otros; dependen de una conexión a la red.",
+        "13"          : "Tener conciencia frente a los riesgos que amenazan nuestra",
+        "16"          : "información es parte fundamental de los controles que se",
+        "19"          : "necesitan para evitar ser víctimas de la inseguridad digital.",
+        "23"          : "Presta mucha atención a los diferentes temas que ",
+        "25"          : "desarrollaremos alrededor del curso. ¡Bienvenidos!"
+      },
+      "layers": [
+        {
+          "label"     : "Candidatos a cargos",
+          "color"     : "#1FBDED",
+          "time"      : 30
+        },
+        {
+          "label"     : "Empleados, exempleados",
+          "color"     : "#0C62A5",
+          "time"      : 32
+        },
+        {
+          "label"     : "Pensionados",
+          "color"     : "#04386D",
+          "time"      : 34
+        },
+        {
+          "label"     : "Accionistas",
+          "color"     : "#FBB03B",
+          "time"      : 35
+        },
+        {
+          "label"     : "Proveedores",
+          "color"     : "#F15A24",
+          "time"      : 36
+        },
+        {
+          "label"     : "Consumidores",
+          "color"     : "#93278F",
+          "time"      : 38
+        },
+        {
+          "label"     : "Recicladores",
+          "color"     : "#620B5F",
+          "time"      : 39
+        },
+        {
+          "label"     : "Usuarios",
+          "color"     : "#9E0B5D",
+          "time"      : 40
+        },
+        {
+          "label"     : "Clientes",
+          "color"     : "#8CC63F",
+          "time"      : 41
+        }
+      ]
+    },
+    "instruction": {
+      "type"    : "",
+      "text"    : "Luego de escuchar el audio de bienvenida, te invitamos a desplegar el menú que hay al lado izquierdo para comenzar la formación.",
+      "posY"    : 500,
+      "posX"    : 72,
+      "size"    : 500,
+      "color"   : "#189BDB"
+    }
+  },
+
+  "page3": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit1",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Generalidades",
+      "color"       : "#5C2481"
+    },
+    "title"   : "¿De qué se trata la seguridad de la información?",
+    "text"    : "La información es uno de los recursos más relevantes de una organización, pues ésta se encarga de conectar cada una de las áreas del negocio, de unificar los procesos y de guiar la productividad hacia la dirección correcta. <br><br> La seguridad de la información consiste en implementar tecnologías y controles enfocados en las personas, administración de procesos, la infraestructura y las tecnologías, con el fin de reducir y controlar el riesgo de un ataque cibernético que atentan con la confidencialidad, integridad y disponibilidad de la información.",
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "Disponibilidad",
+        "color"             : "#004991",
+        "itemInfo": {
+          "title"           : "Disponibilidad",
+          "text1"           : "Acceso a la información disponible cuando las personas autorizadas la necesiten.",
+          "text2"           : "<b>Ejemplo:</b> la información de la cuenta bancaria debe de estar disponible cuando la necesite y no cuando el banco lo desee.",
+          "colorText"       : "#004991",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Confidencialidad",
+        "color"             : "#683E92",
+        "itemInfo": {
+          "title"           : "Confidencialidad",
+          "text1"           : "La información debe ser accesible sólo por las personas autorizadas. ",
+          "text2"           : "<b>Ejemplo:</b> la información de mi cuenta bancaria no la debe de revisar cualquier tercero sin previa autorización, solamente la puedo consultar yo o las personas que autorice.",
+          "colorText"       : "#683E92",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-3.png",
+        "title"             : "Integridad",
+        "color"             : "#2097D3",
+        "itemInfo": {
+          "title"           : "Integridad",
+          "text1"           : "Información correcta sin modificaciones no autorizadas ni errores. ",
+          "text2"           : "<b>Ejemplo:</b> si en mi cuenta bancaria me consignaron $100, en la consulta de movimientos debo de tener una consignación por $100 y no por $10 o $1000.",
+          "colorText"       : "#2097D3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    }
+  },
+
+  "page4": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Generalidades",
+      "color"       : "#5C2481"
+    },
+    "title"   : "¿Qué motiva a los criminales en la red?",
+    "text"    : "En la siguiente multimedia podrás conocer qué es lo que motiva a los criminales en la red.",
+    "background": {
+      "bg": "img/4/bgPage-4.png"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"   : "img/4/n-1.png",
+        "pos": {
+          "top"       : 55,
+          "left"      : -8
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Fraudes, robo de identidad, extorsiones",
+          "posGlobe": {
+            "posY"    : -50,
+            "posX"    : -10
+          },
+          "color"     : "#93C750"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/4/n-2.png",
+        "pos": {
+          "top"       : -36,
+          "left"      : 168
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Dinero fácil y con el menor riesgo",
+          "posGlobe": {
+            "posY"    : 65,
+            "posX"    : 167
+          },
+          "color"     : "#0A4D94"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/4/n-3.png",
+        "pos": {
+          "top"       : 189,
+          "left"      : 287
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Acceso fácil a la información de las personas",
+          "posGlobe": {
+            "posY"    : 81,
+            "posX"    : 284
+          },
+          "color"     : "#347DB9"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/4/n-4.png",
+        "pos": {
+          "top"       : -32,
+          "left"      : 400
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Un ciberdelito tiene una baja inversión",
+          "posGlobe": {
+            "posY"    : 67,
+            "posX"    : 400
+          },
+          "color"     : "#33A0D6"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/4/n-5.png",
+        "pos": {
+          "top"       : 75,
+          "left"      : 576
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Reconocimiento y popularidad",
+          "posGlobe": {
+            "posY"    : -10,
+            "posX"    : 570
+          },
+          "color"     : "#643B8D"
+        }
+      }
+    ],
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Haz clic en cada ícono para conocer la información.",
+      "posY"          : 50,
+      "posX"          : 660,
+      "size"          : 330,
+      "color"         : "#FFD15C"
+    }
+  },
+
+  "page5": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Generalidades",
+      "color"       : "#5C2481"
+    },
+    "title"   : "¿Qué es vulnerabilidad y amenaza en informática?",
+    "text"    : "Visualiza el siguiente video y conoce cuándo podemos estar vulnerables o en medio de una amenaza informática.",
+    "boxInfo": {
+      "title"         : "Reproducir video",
+      "text"          : "",
+      "imgBg"         : "img/play-1.png"
+    },
+    "modal": {
+      "type"          : "videoModal",
+      "title"         : "",
+      "text"          : "",
+      "buttonModal"   : "",
+      "closedModal"   : true,
+      "urlVideo"      : "https://content.jwplatform.com/videos/ZTIFlNfs-SpzKbqXP.mp4"
+    },
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Haz clic en el reproductor de video para conocer la información.",
+      "posY"          : 50,
+      "posX"          : 660,
+      "size"          : 330,
+      "color"         : "#FFD15C"
+    }
+  },
+
+  "page6": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Generalidades",
+      "color"       : "#5C2481"
+    },
+    "title"   : "¿Quién es el objetivo de un ataque informático?",
+    "text"    : "Para descubrirlo, te invitamos a seguir esta conversación.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Sigue la conversación dando clic en en botón con dirección hacia abajo.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "items": [
+        {
+          "img"       : "img/6/n-1.png",
+          "text"      : "¡Uy! Menos mal que yo no soy objetivo de un ataque informático, eso es para las empresas o los bancos.",
+          "textPos": {
+            "posY"    : 95,
+            "posX"    : 250,
+            "width"   : 180
+          }
+        },
+        {
+          "img"       : "img/6/n-2.png",
+          "text"      : "¿Sigues creyendo que el objetivo de los ciberdelincuentes son grandes empresas o entidades bancarias?",
+          "textPos": {
+            "posY"    : 100,
+            "posX"    : 125,
+            "width"   : 230
+          }
+        },
+        {
+          "img"       : "img/6/n-2.png",
+          "text"      : "Malas noticias, en realidad cualquier persona que maneje información o cualquier dispositivo que esté conectado en una red, es un potencial objetivo para un atacante informático.",
+          "textPos": {
+            "posY"    : 80,
+            "posX"    : 110,
+            "width"   : 270
+          }
+        },
+        {
+          "img"       : "img/6/n-1.png",
+          "text"      : "Si eso es así, tendré que tener mucho cuidado con la información que tengo en mis dispositivos. ",
+          "textPos": {
+            "posY"    : 100,
+            "posX"    : 230,
+            "width"   : 230
+          }
+        },
+        {
+          "img"       : "img/6/n-2.png",
+          "text"      : "Te invito a que conozcas cuáles son las amenazas a las que estamos expuestos. Éstas las verás en el siguiente tema. ",
+          "textPos": {
+            "posY"    : 90,
+            "posX"    : 120,
+            "width"   : 240
+          }
+        }
+      ]
+    }
+  },
+
+  "page7": {
+    "type"        : "pageCourse",
+    "startUnit"   : true,
+    "nameUnit"    : "unit2",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "¿Cuáles son las amenazas más comunes?",
+    "text"    : "En nuestra cotidianidad estamos expuestos a diferentes amenazas, por eso es fundamental que conozcas cuáles son las más comunes para que evites un ataque informático. <br><br>A continuación, descubrirás las 5 amenazas más relevantes. En el desarrollo del curso, te explicaremos en qué consiste cada una de ellas.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son las amenazas.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "type": "icon",
+      "items": [
+        {
+          "id"    : 1,
+          "title" : "Ingeniería social",
+          "text"  : "",
+          "img"   : "img/7/n-1.png"
+        },
+        {
+          "id"    : 2,
+          "title" : "Phishing o suplantación de identidad",
+          "text"  : "",
+          "img"   : "img/7/n-2.png"
+        },
+        {
+          "id"    : 3,
+          "title" : "Smishing",
+          "text"  : "",
+          "img"   : "img/7/n-3.png"
+        },
+        {
+          "id"    : 4,
+          "title" : "Malware (software malicioso)",
+          "text"  : "",
+          "img"   : "img/7/n-4.png"
+        },
+        {
+          "id"    : 5,
+          "title" : "Ransomware",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        }
+      ]
+    }
+  },
+
+  "page8": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "1. Ingeniería social",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Lleva en orden consecutivo cada ícono en donde corresponda para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "dragItems": [
+        {
+          "drag"    : 1,
+          "img"     : "img/8/n-1.png",
+          "text"    : "",
+          "type"    : "4",
+          "data"    : ""
+        },
+        {
+          "drag"    : 2,
+          "img"     : "img/8/n-2.png",
+          "text"    : "",
+          "type"    : "3",
+          "data"    : ""
+        },
+        {
+          "drag"    : 3,
+          "img"     : "img/8/n-3.png",
+          "text"    : "",
+          "type"    : "6",
+          "data"    : ""
+        },
+        {
+          "drag"    : 4,
+          "img"     : "img/8/n-4.png",
+          "text"    : "",
+          "type"    : "1",
+          "data"    : ""
+        },
+        {
+          "drag"    : 5,
+          "img"     : "img/8/n-5.png",
+          "text"    : "",
+          "type"    : "5",
+          "data"    : ""
+        },
+        {
+          "drag"    : 6,
+          "img"     : "img/8/n-6.png",
+          "text"    : "",
+          "type"    : "2",
+          "data"    : ""
+        }
+      ],
+      "dropZone": {
+        "drops": [
+          {
+            "key"       : 1,
+            "img"       : "img/8/n-4.png",
+            "target"    : "4",
+            "size"      : 136,
+            "posY"      : 44,
+            "posX"      : 86,
+            "type"      : "1"
+          },
+          {
+            "key"       : 2,
+            "img"       : "img/8/n-6.png",
+            "target"    : "6",
+            "size"      : 136,
+            "posY"      : 107,
+            "posX"      : 195,
+            "type"      : "2"
+          },
+          {
+            "key"       : 3,
+            "img"       : "img/8/n-2.png",
+            "target"    : "2",
+            "size"      : 136,
+            "posY"      : 44,
+            "posX"      : 304,
+            "type"      : "3"
+          },
+          {
+            "key"       : 4,
+            "img"       : "img/8/n-1.png",
+            "target"    : "1",
+            "size"      : 136,
+            "posY"      : 107,
+            "posX"      : 414,
+            "type"      : "4"
+          },
+          {
+            "key"       : 5,
+            "img"       : "img/8/n-5.png",
+            "target"    : "5",
+            "size"      : 136,
+            "posY"      : 44,
+            "posX"      : 524,
+            "type"      : "5"
+          },
+          {
+            "key"       : 6,
+            "img"       : "img/8/n-3.png",
+            "target"    : "3",
+            "size"      : 136,
+            "posY"      : 107,
+            "posX"      : 633,
+            "type"      : "6"
+          }
+        ],
+        "infoBox": [
+          {
+            "target"        : "4",
+            "title"         : "",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Es un ejercicio de persuasión y manipulación que se apoya de un conjunto de técnicas psicológicas y habilidades sociales"
+          },
+          {
+            "target"        : "6",
+            "title"         : "",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "con el fin de engañar a usuarios incautos y obtener información sensible, infectar sus computadoras con malware (software malicioso)"
+          },
+          {
+            "target"        : "2",
+            "title"         : "",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "o abrir enlaces de sitios infectados sin que su receptor sea consciente de los riesgos."
+          },
+          {
+            "target"        : "1",
+            "title"         : "",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Además, los ciberdelincuentes pueden tratar de aprovecharse de la falta de conocimiento de los usuarios,"
+          },
+          {
+            "target"        : "5",
+            "title"         : "",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "debido a la velocidad a la que avanza la tecnología. "
+          },
+          {
+            "target"        : "3",
+            "title"         : "",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Numerosos consumidores y trabajadores no son conscientes del valor real de los datos personales."
+          }
+        ]
+      },
+      "bg": "img/8/bgPage-8.png",
+      "example": {
+        "hand"    : "img/hand-1.png"
+      }
+    }
+  },
+
+  "page9": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "2. Phishing o suplantación de identidad",
+    "text"    : "Es la estafa más habitual en Internet. Se basa en hacerse pasar por una persona o empresa de confianza para obtener datos nuestros: contraseñas, información bancaria, entre otros. Para ello, el cibercriminal utiliza la ingeniería social para que el engaño sea creíble, es decir, diseñan correos electrónicos muy parecidos al de las empresas. Un correo phishing suele tener las siguientes características:",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Desliza cada número según corresponda para conocer las características.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "dragItems": [
+        {
+          "drag"    : 1,
+          "img"     : "img/9/n-1.png",
+          "text"    : "",
+          "posY"      : 139,
+          "posX"      : 25,
+          "type"    : "1",
+          "color"    : "#1586EA"
+        },
+        {
+          "drag"    : 2,
+          "img"     : "img/9/n-2.png",
+          "text"    : "",
+          "posY"      : 140,
+          "posX"      : 114,
+          "type"    : "2",
+          "color"    : "#1FBDED"
+        },
+        {
+          "drag"    : 3,
+          "img"     : "img/9/n-3.png",
+          "text"    : "",
+          "posY"      : 139,
+          "posX"      : 203,
+          "type"    : "3",
+          "color"    : "#AC0B5A"
+        },
+        {
+          "drag"    : 4,
+          "img"     : "img/9/n-4.png",
+          "text"    : "",
+          "posY"      : 140,
+          "posX"      : 291,
+          "type"    : "4",
+          "color"    : "#0A6837"
+        },
+        {
+          "drag"    : 5,
+          "img"     : "img/9/n-5.png",
+          "text"    : "",
+          "posY"      : 139,
+          "posX"      : 380,
+          "type"    : "5",
+          "color"    : "#521381"
+        }
+      ],
+      "dropZone": {
+        "drops": [
+          {
+            "key"       : 1,
+            "img"       : "img/9/n-1.png",
+            "target"    : "1",
+            "posY"      : 0,
+            "posX"      : 0,
+            "type"      : "1",
+            "color"    : "#1586EA"
+          },
+          {
+            "key"       : 2,
+            "img"       : "img/9/n-2.png",
+            "target"    : "2",
+            "posY"      : -44,
+            "posX"      : 89,
+            "type"      : "2",
+            "color"    : "#1FBDED"
+          },
+          {
+            "key"       : 3,
+            "img"       : "img/9/n-3.png",
+            "target"    : "3",
+            "posY"      : 0,
+            "posX"      : 178,
+            "type"      : "3",
+            "color"    : "#AC0B5A"
+          },
+          {
+            "key"       : 4,
+            "img"       : "img/9/n-4.png",
+            "target"    : "4",
+            "posY"      : -44,
+            "posX"      : 266,
+            "type"      : "4",
+            "color"    : "#0A6837"
+          },
+          {
+            "key"       : 5,
+            "img"       : "img/9/n-5.png",
+            "target"    : "5",
+            "posY"      : 0,
+            "posX"      : 355,
+            "type"      : "5",
+            "color"    : "#521381"
+          }
+        ],
+        "infoBox": [
+          {
+            "target"    : "1",
+            "color"     : "#0E69A5",
+            "text"      : "Solicitan datos personales.",
+            "posY"      : 280,
+            "posX"      : 0,
+            "trian"     : "trian-1"
+          },
+          {
+            "target"    : "2",
+            "color"     : "#19A1D0",
+            "text"      : "Solicitan descargar un archivo para ver una factura, multa, una cita judicial, entre otros.",
+            "posY"      : -30,
+            "posX"      : 90,
+            "trian"     : "trian-2"
+          },
+          {
+            "target"    : "3",
+            "color"     : "#E31F83",
+            "text"      : "Solicitan hacer clic en un enlace que conduce a una página web fraudulenta o falsa.",
+            "posY"      : 290,
+            "posX"      : 160,
+            "trian"     : "trian-3"
+          },
+          {
+            "target"    : "4",
+            "color"     : "#0A6837",
+            "text"      : "El correo tiene tono de urgencia.",
+            "posY"      : -20,
+            "posX"      : 240,
+            "trian"     : "trian-4"
+          },
+          {
+            "target"    : "5",
+            "color"     : "#662D91",
+            "text"      : "Los escenarios de ataque phishing no se limitan al correo electrónico. Es posible ser atacado mediante mensajería instantánea o por llamada telefónica haciéndose pasar por una persona de confianza.",
+            "posY"      : 285,
+            "posX"      : 0,
+            "trian"     : "trian-5"
+          }
+        ]
+      },
+      "resources": {
+        "bg1": "img/9/arrow-up.png",
+        "bg2": "img/9/arrow-down.png"
+      }
+    }
+  },
+
+  "page10": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "2. Phishing o suplantación de identidad",
+    "text"    : "El phishing también está presente en páginas Web fraudulentas a las que puedes acceder con facilidad porque han conseguido aparecer en los resultados de un motor de búsqueda como Google o porque se encuentran en el perfil de un usuario de una red social. Por todo lo anterior, la mejor prevención para el phishing se basa en desconfiar del contenido que recibimos a través del correo electrónico, mensajería instantánea, redes sociales e incluso desconfiar cuando alguien nos llama para pedirnos información privada por teléfono. <br><br> Si te llegas a encontrar algunos de estos casos no abras el correo y no ingreses a estos sitios web inseguros.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la siguiente imagen y visualiza los ejemplos de suplantación en el correo electrónico y páginas web.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/10/btnGallery.png"
+      },
+      "gallery": [
+        {
+          "key"       : 1,
+          "img"       : "img/10/n-1.jpg"
+        },
+        {
+          "key"       : 2,
+          "img"       : "img/10/n-2.jpg"
+        },
+        {
+          "key"       : 3,
+          "img"       : "img/10/n-3.jpg"
+        }
+      ],
+      "closedModal"   : true
+    }
+  },
+
+  "page11": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "3. Smishing",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada una de las flechas para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "items": [
+        {
+          "imgBg": "img/11/n-1.png",
+          "img": "",
+          "info": "Estafa por medio de mensajes SMS (mensajes de texto), donde se solicitan datos, se pide llamar a un número o ingresar a un sitio web.",
+          "width": 210,
+          "color": "#2097D3",
+          "button": {
+            "posY": 80,
+            "posX": -28
+          }
+        },
+        {
+          "imgBg": "img/11/n-2.png",
+          "img": "",
+          "info": "Esta estafa tiene como objetivo redirigir al usuario a una página Web falsa con el fin de obtener datos personales, información bancaria o infectar su dispositivo móvil.",
+          "width": 210,
+          "color": "#04366A",
+          "button": {
+            "posY": 80,
+            "posX": -28
+          }
+        },
+        {
+          "imgBg": "img/11/n-3.png",
+          "img": "",
+          "info": "En algunas ocasiones se pide llamar a un número en donde se le solicita cierta información con técnicas de ingeniería social.",
+          "width": 210,
+          "color": "#89C240",
+          "button": {
+            "posY": 80,
+            "posX": -28
+          }
+        },
+        {
+          "imgBg": "img/11/n-4.png",
+          "img": "img/11/img-1.png",
+          "info": "",
+          "width": 210,
+          "color": "#683E92",
+          "button": {
+            "posY": 80,
+            "posX": -28
+          }
+        }
+      ]
+    }
+  },
+
+  "page12": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "4. Malware (software malicioso)",
+    "text"    : "Programas utilizados por los cibercriminales para infectar y tomar el control de computadores y dispositivos móviles.",
+    "img"     : "img/12/img-1.png"
+  },
+
+  "page13": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "5. Ransomware",
+    "text"    : "Desliza el ícono con clic sostenido y suéltalo en el espacio en blanco. Al hacerlo, podrás descubrir en qué consiste la amenaza Ransomware.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Falta instrucción",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "dragItems": [
+        {
+          "drag"    : 1,
+          "img"     : "img/13/n-1.png",
+          "text"    : "",
+          "type"    : "1",
+          "data"    : "",
+          "posY"    : 53,
+          "posX"    : -257
+        }
+      ],
+      "dropZone": {
+        "drops": [
+          {
+            "key"       : 1,
+            "img"       : "img/13/nd-1.png",
+            "target"    : "1",
+            "posY"      : 16,
+            "posX"      : 29,
+            "type"      : "1",
+            "imgPos": {
+              "Y"       : -4,
+              "X"       : -6
+            }
+          }
+        ],
+        "infoBox": [
+          {
+            "target"        : "1",
+            "title"         : "",
+            "colorTitle"    : "",
+            "img"           : "img/13/img-1.png",
+            "text"          : "Es un tipo de malware (software malicioso) que infecta tu computadora y muestra mensajes que exigen el pago de dinero para restablecer el funcionamiento del sistema. Este tipo de malware se usa para para ganar dinero utilizando técnicas de engaño a través de enlaces maliciosos incluidos en un mensaje de correo electrónico, mensajes de texto o sitio web. El ransomware tiene la capacidad de bloquear la pantalla de una computadora o cifrar archivos importantes predeterminados con una contraseña."
+          }
+        ]
+      },
+      "bg": "img/13/bgPage-13.png"
+    }
+  },
+
+  "page14": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Protégete de las amenazas informáticas",
+    "text"    : "Haz clic en cada uno de los números en orden consecutivo para conocer la información.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Falta instrucción",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "background": {
+      "bg": "img/14/bgPage-14.png"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"   : "img/14/n-1.png",
+        "pos": {
+          "top"       : 0,
+          "left"      : 112
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Los cibercriminales usan una combinación de métodos de ingeniería social, phishing (suplantación de identidad)  y técnicas de implementación de malware (software malicioso) para atraer la atención de las víctimas y maximizar las posibilidades de infectar las computadoras y dispositivos de los usuarios y extraer información.",
+          "posGlobe": {
+            "posY"    : 60,
+            "posX"    : 280
+          },
+          "color"     : "#86BF41",
+          "trian"     : "trian-1"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/14/n-2.png",
+        "pos": {
+          "top"       : 203,
+          "left"      : -7
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "La mejor defensa es el sentido común.",
+          "posGlobe": {
+            "posY"    : 195,
+            "posX"    : 47
+          },
+          "color"     : "#683E92",
+          "trian"     : "trian-2"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/14/n-3.png",
+        "pos": {
+          "top"       : 203,
+          "left"      : 233
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Si un correo electrónico, sitio web o mensaje parece ser extraño o muy bueno para ser cierto… ¡PUEDE SER UN ATAQUE DE PHISHING!",
+          "posGlobe": {
+            "posY"    : 131,
+            "posX"    : 294
+          },
+          "color"     : "#189BDB",
+          "trian"     : "trian-3"
+        }
+      }
+    ]
+  },
+
+  "page15": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-2.png",
+      "textHeader"  : "Amenazas",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Valida tus conocimientos",
+    "text"    : "De acuerdo con el tema visto sobre las vulnerabilidades y amenazas, identifica el elemento con su respectivo concepto. ",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Con clic sostenido lleva el ícono donde corresponda.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "dragItems": [
+        {
+          "drag"    : 1,
+          "img"     : "img/15/n-1.png",
+          "text"    : "Ingeniería social",
+          "type"    : "7",
+          "data"    : ""
+        },
+        {
+          "drag"    : 2,
+          "img"     : "img/15/n-2.png",
+          "text"    : "Phishing",
+          "type"    : "2",
+          "data"    : ""
+        },
+        {
+          "drag"    : 3,
+          "img"     : "img/15/n-3.png",
+          "text"    : "Smishing",
+          "type"    : "1",
+          "data"    : ""
+        },
+        {
+          "drag"    : 4,
+          "img"     : "img/15/n-4.png",
+          "text"    : "Vulnerabilidad",
+          "type"    : "6",
+          "data"    : ""
+        },
+        {
+          "drag"    : 5,
+          "img"     : "img/15/n-5.png",
+          "text"    : "Ransomware",
+          "type"    : "3",
+          "data"    : ""
+        },
+        {
+          "drag"    : 6,
+          "img"     : "img/15/n-6.png",
+          "text"    : "Malware",
+          "type"    : "5",
+          "data"    : ""
+        },
+        {
+          "drag"    : 7,
+          "img"     : "img/15/n-7.png",
+          "text"    : "Amenaza",
+          "type"    : "4",
+          "data"    : ""
+        }
+      ],
+      "dropZone": {
+        "drops": [
+          {
+            "key"       : 1,
+            "img"       : "img/15/n-3.png",
+            "text"      : "Estafa por medio de mensajes SMS (mensajes de texto)",
+            "target"    : "3",
+            "size"      : 136,
+            "posY"      : 44,
+            "posX"      : 86,
+            "type"      : "1"
+          },
+          {
+            "key"       : 2,
+            "img"       : "img/15/n-2.png",
+            "text"      : "Hacerse pasar por una persona o empresa de confianza para obtener datos nuestros",
+            "target"    : "2",
+            "size"      : 136,
+            "posY"      : 107,
+            "posX"      : 195,
+            "type"      : "2"
+          },
+          {
+            "key"       : 3,
+            "img"       : "img/15/n-5.png",
+            "text"      : "Infecta tu computadora y muestra mensajes que exigen el pago de dinero para restablecer el funcionamiento del sistema",
+            "target"    : "5",
+            "size"      : 136,
+            "posY"      : 44,
+            "posX"      : 304,
+            "type"      : "3"
+          },
+          {
+            "key"       : 4,
+            "img"       : "img/15/n-7.png",
+            "text"      : "Es toda acción que se aprovecha de las vulnerabilidades tecnológicas, de los procesos y de las personas para atentar contra la seguridad de un sistema de información",
+            "target"    : "7",
+            "size"      : 136,
+            "posY"      : 107,
+            "posX"      : 414,
+            "type"      : "4"
+          },
+          {
+            "key"       : 5,
+            "img"       : "img/15/n-6.png",
+            "text"      : "Programas utilizados por los cibercriminales para infectar y tomar el control de computadores y dispositivos móviles",
+            "target"    : "6",
+            "size"      : 136,
+            "posY"      : 44,
+            "posX"      : 524,
+            "type"      : "5"
+          },
+          {
+            "key"       : 6,
+            "img"       : "img/15/n-4.png",
+            "text"      : "Son las debilidades en los sistemas, procesos y personas que ponen en riesgo la seguridad de la información y las operaciones",
+            "target"    : "4",
+            "size"      : 136,
+            "posY"      : 107,
+            "posX"      : 633,
+            "type"      : "6"
+          },
+          {
+            "key"       : 7,
+            "img"       : "img/15/n-1.png",
+            "text"      : "Conjunto de técnicas psicológicas y habilidades sociales con el fin de engañar a usuarios incautos",
+            "target"    : "1",
+            "size"      : 136,
+            "posY"      : 107,
+            "posX"      : 633,
+            "type"      : "7"
+          }
+        ],
+        "infoBox": [
+          {
+            "target"        : "1",
+            "title"         : "¡Bien hecho!",
+            "colorTitle"    : "",
+            "subTitle"      : "",
+            "text"          : "Has recordado y asociado correctamente cada una de las amenazas de acuerdo con su definición."
+          }
+        ]
+      },
+      "bg": "img/8/bgPage-8.png"
+    }
+  },
+
+  "page16": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit3",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-3.png",
+      "textHeader"  : "Dispositivos móviles",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Dispositivos móviles",
+    "text"    : "Visualiza el siguiente video y conoce la seguridad de la información en los dispositivos móviles.",
+    "boxInfo": {
+      "title"         : "Reproducir video",
+      "text"          : "",
+      "imgBg"         : "img/play-1.png"
+    },
+    "modal": {
+      "type"          : "videoModal",
+      "title"         : "",
+      "text"          : "",
+      "buttonModal"   : "",
+      "closedModal"   : true,
+      "urlVideo"      : "https://content.jwplatform.com/videos/CH2R3POg-SpzKbqXP.mp4"
+    },
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Haz clic en el reproductor de video para conocer la información.",
+      "posY"          : 50,
+      "posX"          : 660,
+      "size"          : 330,
+      "color"         : "#FFD15C"
+    }
+  },
+
+  "page17": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-3.png",
+      "textHeader"  : "Dispositivos móviles",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Sugerencias para el uso de dispositivos móviles",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en los botones para conocer la información",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "background": {
+      "bg": "img/17/bgPage-17.png"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"   : "img/17/n-1.png",
+        "pos": {
+          "top"       : 18,
+          "left"      : 237
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Evita conectarte a redes desconocidas.",
+          "posGlobe": {
+            "posY"    : 70,
+            "posX"    : 380
+          },
+          "color"     : "#93C750"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-2.png",
+        "pos": {
+          "top"       : 179,
+          "left"      : 430
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Descarga aplicaciones únicamente desde fuentes confiables y antes de descargarlas verifica los comentarios y calificación. ",
+          "posGlobe": {
+            "posY"    : 217,
+            "posX"    : 47
+          },
+          "color"     : "#0A4D94"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-3.png",
+        "pos": {
+          "top"       : 343,
+          "left"      : 236
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Instala un antivirus.",
+          "posGlobe": {
+            "posY"    : 401,
+            "posX"    : 374
+          },
+          "color"     : "#347DB9"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-4.png",
+        "pos": {
+          "top"       : 503,
+          "left"      : 430
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Activa funcionalidades de autenticación y cifrado.",
+          "posGlobe": {
+            "posY"    : 559,
+            "posX"    : 50
+          },
+          "color"     : "#33A0D6"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-5.png",
+        "pos": {
+          "top"       : 667,
+          "left"      : 236
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Haz regularmente copias de seguridad.",
+          "posGlobe": {
+            "posY"    : 712,
+            "posX"    : 374
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-6.png",
+        "pos": {
+          "top"       : 826,
+          "left"      : 431
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Evita abrir enlaces y archivos virales que circulan en redes  sociales, pueden contener malware.",
+          "posGlobe": {
+            "posY"    : 873,
+            "posX"    : 63
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-7.png",
+        "pos": {
+          "top"       : 989,
+          "left"      : 237
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Configura la opción de bloqueo de pantalla por inactividad y contraseña para desbloquearlo.",
+          "posGlobe": {
+            "posY"    : 1023,
+            "posX"    : 373
+          },
+          "color"     : "#643B8D"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-8.png",
+        "pos": {
+          "top"       : 1148,
+          "left"      : 431
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Mantén actualizado el sistema operativo y las aplicaciones",
+          "posGlobe": {
+            "posY"    : 1200,
+            "posX"    : 83
+          },
+          "color"     : "#643B8D"
+        }
+      }
+    ]
+  },
+
+  "page18": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit4",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Estaciones de trabajo",
+    "text"    : "Ten presente estas indicaciones para implementarlas en tu equipo de cómputo.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "Bloquea tu equipo",
+          "color": "#04386D"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Bloquea tu equipo cuando te levantes de tu puesto de trabajo."
+        }
+      },
+      {
+        "button": {
+          "text": "Cierra la sesión",
+          "color": "#0C62A5"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Cierra la sesión cuando termines de usarlo"
+        }
+      },
+      {
+        "button": {
+          "text": "Contraseñas",
+          "color": "#189BDB"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "No permitas que el navegador recuerde las contraseñas."
+        }
+      },
+      {
+        "button": {
+          "text": "Redes desconocidas",
+          "color": "#89C240"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "Evita conectarte a redes desconocidas."
+        }
+      },
+      {
+        "button": {
+          "text": "Dispositivos",
+          "color": "#D3046E"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "No utilices dispositivos USB desconocidos y compra marcas confiables en lugares garantizados."
+        }
+      },
+      {
+        "button": {
+          "text": "Descargas e instalaciones",
+          "color": "#93278F"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Para descargar e instalar aplicaciones apóyate con el <b>Centro de Atención al Usuario</b>, si necesitas hacerlo en tu equipo personal realiza la descarga en el sitio del fabricante y usa licencias legales."
+        }
+      }
+    ]
+  },
+
+  "page19": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Contraseñas",
+    "text"    : "Mecanismo diseñado para proteger el acceso a las diferentes cuentas de aplicaciones, como correo electrónico, redes sociales, cuantas bancarias, computadores, entre otras. El mal uso de las contraseñas es igual a dejar las llaves pegadas en la cerradura externa de la puerta de la casa. <br><br>Las contraseñas protegen tu identidad y es información que solamente debe conocer el propietario. <br><br>A continuación, te presentamos algunos tips para el manejo de las contraseñas.",
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Haz clic en los botones para conocer la información",
+      "posY"          : 50,
+      "posX"          : 660,
+      "size"          : 330,
+      "color"         : "#FFD15C"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/19/n-1.png",
+        "title"             : "Disponibilidad",
+        "posY"              : -150,
+        "posX"              : -180,
+        "itemInfo": {
+          "title"           : "01",
+          "text1"           : "Cámbiala con frecuencia.",
+          "text2"           : "",
+          "colorText"       : "#023974",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/19/n-2.png",
+        "title"             : "",
+        "posY"              : -38,
+        "posX"              : -180,
+        "itemInfo": {
+          "title"           : "02",
+          "text1"           : "No utilices computadoras públicas para iniciar sesión con cuentas personales o corporativas.",
+          "text2"           : "",
+          "colorText"       : "#074991",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/19/n-3.png",
+        "title"             : "",
+        "posY"              : 88,
+        "posX"              : -180,
+        "itemInfo": {
+          "title"           : "03",
+          "text1"           : "No repitas la contraseña cuando un sistema te pida cambiarla.",
+          "text2"           : "",
+          "colorText"       : "#2171B3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/19/n-4.png",
+        "title"             : "",
+        "posY"              : 88,
+        "posX"              : -56,
+        "itemInfo": {
+          "title"           : "04",
+          "text1"           : "No las escribas en papel o en documentos digitales a la vista de otras personas.",
+          "text2"           : "",
+          "colorText"       : "#2097D3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/19/n-5.png",
+        "title"             : "",
+        "posY"              : -38,
+        "posX"              : -46,
+        "itemInfo": {
+          "title"           : "05",
+          "text1"           : "No la compartas con nadie.",
+          "text2"           : "",
+          "colorText"       : "#89C240",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/19/n-6.png",
+        "title"             : "",
+        "posY"              : -150,
+        "posX"              : -46,
+        "itemInfo": {
+          "title"           : "06",
+          "text1"           : "Aprovecha los nuevos métodos de seguridad como autenticación en dos pasos, verificación de huella dactilar o reconocimiento facial.",
+          "text2"           : "",
+          "colorText"       : "#683E92",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ]
+  },
+
+  "page20": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Seguridad en las conversaciones",
+    "text"    : "Ser cauto y utilizar un tono de voz adecuado cuando se comparte información a través de conversaciones. Evita hablar de temas sensibles en estos escenarios:",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en los círculos inferiores para conocer los demás ítems",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": [
+      {
+        "text1"   : "En el transporte público",
+        "img1"    : "img/20/n-1.png",
+        "color"   : "#93278F",
+        "bg"      : "img/20/bg-1.png",
+        "bgPosY"  : 7,
+        "bgPosX"  : 425
+      },
+      {
+        "text1"   : "En los pasillos",
+        "img1"    : "img/20/n-2.png",
+        "color"   : "#033164",
+        "bg"      : "img/20/bg-2.png",
+        "bgPosY"  : 7,
+        "bgPosX"  : 360
+      },
+      {
+        "text1"   : "En los ascensores",
+        "img1"    : "img/20/n-3.png",
+        "color"   : "#09539A",
+        "bg"      : "img/20/bg-3.png",
+        "bgPosY"  : 7,
+        "bgPosX"  : 339
+      },
+      {
+        "text1"   : "Lugares públicos",
+        "img1"    : "img/20/n-4.png",
+        "color"   : "#2171B3",
+        "bg"      : "img/20/bg-4.png",
+        "bgPosY"  : 7,
+        "bgPosX"  : 315
+      },
+      {
+        "text1"   : "Al teléfono",
+        "img1"    : "img/20/n-5.png",
+        "color"   : "#89C240",
+        "bg"      : "img/20/bg-5.png",
+        "bgPosY"  : 7,
+        "bgPosX"  : 297
+      },
+      {
+        "text1"   : "Sala de reuniones",
+        "img1"    : "img/20/n-6.png",
+        "color"   : "#2097D3",
+        "bg"      : "img/20/bg-6.png",
+        "bgPosY"  : 7,
+        "bgPosX"  : 275
+      },
+      {
+        "text1"   : "<b>Ejemplo:</b> acabo de retirar de mi cuenta bancaria $2.000 dólares y en una conversación en el transporte público le cuento a mi compañero que llevo esa suma de dinero en el bolsillo, ¿qué pasaría si un delincuente que va en ese mismo transporte escucha la conversación?",
+        "img1"    : "",
+        "color"   : "#F8B32A",
+        "bg"      : "img/20/bg-7.png",
+        "bgPosY"  : 7,
+        "bgPosX"  : 265
+      }
+    ]
+  },
+
+  "page21": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Respaldo de la información",
+    "text"    : "",
+    "multimedia": {
+      "audio": {
+        "src"             : "audio/resp-informacion.mp3",
+        "autoPlay"        : true
+      },
+      "subtitles": {
+        "3"               : "Tener un respaldo actualizado minimiza el impacto de pérdida de la información en caso de",
+        "7"               : "alguna falla, robo o infección del dispositivo.",
+        "11"              : "Dentro de la Compañía, la información debe ser almacenada",
+        "14"              : "en el One Drive corporativo."
+      },
+      "layers": [
+        [{
+            "label"       : "",
+            "labelSide"   : "bottom",
+            "icon"        : "img/21/n-1.png",
+            "time"        : 3,
+            "size"        : 216,
+            "position": {
+              "yPosition" : 113,
+              "xPosition" : 36
+            }
+          },
+          {
+            "label"       : "",
+            "labelSide"   : "bottom",
+            "icon"        : "img/21/n-2.png",
+            "time"        : 4,
+            "size"        : 296,
+            "position": {
+              "yPosition" : 17,
+              "xPosition" : 27
+            }
+          },
+          {
+            "icon"        : "img/21/n-3.png",
+            "time"        : 7,
+            "size"        : 164,
+            "position": {
+              "yPosition" : 110,
+              "xPosition" : 251
+            }
+          },
+          {
+            "label"       : "",
+            "labelSide"   : "bottom",
+            "icon"        : "img/21/n-4.png",
+            "time"        : 11,
+            "size"        : 283,
+            "position": {
+              "yPosition" : 18,
+              "xPosition" : 345
+            }
+          },
+          {
+            "label"       : "",
+            "labelSide"   : "bottom",
+            "time"        : 13,
+            "size"        : 345,
+            "icon"        : "img/21/n-5.png",
+            "position": {
+              "yPosition" : 113,
+              "xPosition" : 417
+            }
+          }
+        ]
+      ]
+    }
+  },
+
+  "page22": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Redes WiFi públicas y sus riesgos",
+    "text"    : "Este tipo de redes son atractivas para los consumidores porque nos proporcionan una manera fácil de conectarnos a internet, sin embargo también es atractivo para los ciberdelincuentes debido a que éstas no requieren autenticación para establecer una conexión. <br><br>Visualiza el siguiente video y conoce los riesgos de las redes WiFi públicas.",
+    "boxInfo": {
+      "title"         : "Reproducir video",
+      "text"          : "",
+      "imgBg"         : "img/play-1.png"
+    },
+    "modal": {
+      "type"          : "videoModal",
+      "title"         : "",
+      "text"          : "",
+      "buttonModal"   : "",
+      "closedModal"   : true,
+      "urlVideo"      : "https://content.jwplatform.com/videos/76sTesIf-SpzKbqXP.mp4"
+    },
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Visualiza el siguiente video y conoce los riesgos de las redes WiFi públicas.",
+      "posY"          : 50,
+      "posX"          : 660,
+      "size"          : 330,
+      "color"         : "#FFD15C"
+    }
+  },
+
+  "page23": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Puesto de trabajo",
+    "text"    : "Proteger documentos en papel y dispositivos de almacenamiento removibles, a fin de reducir los riesgos de acceso no autorizado, pérdida y daño de la información.",
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Haz clic en cada uno de los botones para ver las recomendaciones.",
+      "posY"          : 50,
+      "posX"          : 660,
+      "size"          : 330,
+      "color"         : "#FFD15C"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/23/n-1.png",
+        "title"             : "Disponibilidad",
+        "posY"              : 230,
+        "posX"              : -10,
+        "itemInfo": {
+          "title"           : "01",
+          "text1"           : "No dejes en el escritorio llaves, identificación o medio de acceso que tengas bajo tu responsabilidad.",
+          "text2"           : "",
+          "colorText"       : "#023974",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/23/n-2.png",
+        "title"             : "",
+        "posY"              : 50,
+        "posX"              : -10,
+        "itemInfo": {
+          "title"           : "02",
+          "text1"           : "No dejes visible en pantalla información reservada y/o confidencial.",
+          "text2"           : "",
+          "colorText"       : "#074991",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/23/n-3.png",
+        "title"             : "",
+        "posY"              : -30,
+        "posX"              : 137,
+        "itemInfo": {
+          "title"           : "03",
+          "text1"           : "Recoge siempre los documentos que mandes a imprimir, principalmente si la impresora es compartida.",
+          "text2"           : "",
+          "colorText"       : "#2171B3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/23/n-4.png",
+        "title"             : "",
+        "posY"              : 50,
+        "posX"              : 284,
+        "itemInfo": {
+          "title"           : "04",
+          "text1"           : "No pegues notas en el monitor o en un espacio visible con información reservada y/o confidencial.",
+          "text2"           : "",
+          "colorText"       : "#2097D3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/23/n-5.png",
+        "title"             : "",
+        "posY"              : 230,
+        "posX"              : 284,
+        "itemInfo": {
+          "title"           : "05",
+          "text1"           : "Resguarda documentos impresos y medios de almacenamiento con información reservada y/o confidencial bajo llave.",
+          "text2"           : "",
+          "colorText"       : "#89C240",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/23/n-6.png",
+        "title"             : "",
+        "posY"              : 310,
+        "posX"              : 135,
+        "itemInfo": {
+          "title"           : "06",
+          "text1"           : "Bloquea tus equipos cuando te ausentes.",
+          "text2"           : "",
+          "colorText"       : "#683E92",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "resources": {
+      "bgImg": "img/23/bgPage-23.png"
+    }
+  },
+
+  "page24": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Redes sociales",
+    "text"    : "“Si no eres capaz de decirlo o hacerlo en un escenario, no lo digas ni lo hagas en las redes sociales”.",
+    "boxInfo": {
+      "title"         : "Reproducir video",
+      "text"          : "",
+      "imgBg"         : "img/play-1.png"
+    },
+    "modal": {
+      "type"          : "videoModal",
+      "title"         : "",
+      "text"          : "",
+      "buttonModal"   : "",
+      "closedModal"   : true,
+      "urlVideo"      : "https://content.jwplatform.com/videos/noKRF1Ae-SpzKbqXP.mp4"
+    },
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Visualiza el siguiente video para conocer las razones y la importancia de proteger nuestros datos en las redes sociales.",
+      "posY"          : 50,
+      "posX"          : 660,
+      "size"          : 330,
+      "color"         : "#FFD15C"
+    }
+  },
+
+  "page25": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Política de Seguridad de la Información",
+    "text"    : "La política de seguridad de la información es un plan de acción o un conjunto de buenas prácticas que se deben de tomar y aplicar para afrontar los diferentes riesgos que puede sufrir los activos de información (documentos, estaciones de trabajo, equipos de comunicaciones, aplicaciones, sistemas, entre otros). Su objetivo es proporcionar una guía para el adecuado uso de estos activos.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en los signos de interrogación para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "background": {
+      "bg": "img/25/bgPage-25.png"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"   : "img/14/n-1.png",
+        "pos": {
+          "top"       : 0,
+          "left"      : 205
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>¿Qué amenazas o riesgos pueden atentar contra la información?</b> <br>· Catástrofes naturales <br>· Amenazas físicas <br>· Fraude informático <br>· Errores humanos <br>· Software ilegal <br>· Intrusión",
+          "posGlobe": {
+            "posY"    : -200,
+            "posX"    : 190
+          },
+          "color"     : "#074991",
+          "trian"     : "trian-1"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/14/n-2.png",
+        "pos": {
+          "top"       : 170,
+          "left"      : 365
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "<b>¿Y cómo prevenir estas amenazas o mitigar el riesgo?</b> <br> Con la Política de Seguridad, a través de: <br>· Copias de respaldo <br>· Software legal<br>· Seguridad en las comunicaciones.",
+          "posGlobe": {
+            "posY"    : 10,
+            "posX"    : 257
+          },
+          "color"     : "#2097D3",
+          "trian"     : "trian-2"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/14/n-3.png",
+        "pos": {
+          "top"       : 0,
+          "left"      : 530
+        },
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "· Reporte de incidentes de la información al área de TI <br>· Correcto uso de recursos informáticos.<br>· Implementación de aplicaciones seguras.<br>· Protección de contraseñas.<br>· Cumplimiento de procesos<br>· Controles informáticos.",
+          "posGlobe": {
+            "posY"    : -179,
+            "posX"    : 334
+          },
+          "color"     : "#683E92",
+          "trian"     : "trian-3"
+        }
+      }
+    ]
+  },
+
+  "page26": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Consecuencias por el mal uso",
+    "text"    : "La evolución del entorno ha obligado a que las personas y compañías digitalicen su información cada vez más, sin embargo, la digitalización trae consigo riesgos que pueden impactarla negativamente. El inadecuado manejo de la información puede ocasionar a las compañías o personas las siguientes consecuencias:",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón para conocerlas.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": [
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Daño reputacional",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 20
+          },
+          "color"     : "#E31F83",
+          "trian"     : "trian-1"
+        }
+      },
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Daño económico",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 188
+          },
+          "color"     : "#683E92",
+          "trian"     : "trian-2"
+        }
+      },
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Multas regulatorias",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 357
+          },
+          "color"     : "#2097D3",
+          "trian"     : "trian-3"
+        }
+      },
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Robo de identidad",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 490
+          },
+          "color"     : "#2171B3",
+          "trian"     : "trian-4"
+        }
+      },
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Daño en la integridad de personas",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 684
+          },
+          "color"     : "#09539A",
+          "trian"     : "trian-5"
+        }
+      },
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Paros en la producción y procesos de la Compañía",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 853
+          },
+          "color"     : "#04386D",
+          "trian"     : "trian-6"
+        }
+      },
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Disminución de confianza de clientes",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 1020
+          },
+          "color"     : "#89C240",
+          "trian"     : "trian-7"
+        }
+      },
+      {
+        "itemInfo": {
+          "title"     : "",
+          "text"      : "Extorsiones",
+          "posGlobe": {
+            "posY"    : 170,
+            "posX"    : 1081
+          },
+          "color"     : "#F8B32A",
+          "trian"     : "trian-8"
+        }
+      }
+    ]
+  },
+
+  "page27": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Recomendaciones finales",
+    "text"    : "Para ir cerrando el curso, te queremos compartir algunas recomendaciones finales que son importantes y que debes considerar.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Lleva cada número a la pantalla del computador para conocer cada una de las recomendaciones.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "dragItem": [
+        {
+          "id": 1,
+          "text": "La tecnología por sí sola no puede proteger tu información.",
+          "imgSource": "",
+          "img": "img/27/n-1.png",
+          "type": "1"
+        },
+        {
+          "id": 2,
+          "text": "La manera más fácil es engañarte.",
+          "imgSource": "",
+          "img": "img/27/n-2.png",
+          "type": "1"
+        },
+        {
+          "id": 3,
+          "text": "La mejor defensa contra los atacantes eres tú mismo.",
+          "imgSource": "",
+          "img": "img/27/n-3.png",
+          "type": "1"
+        },
+        {
+          "id": 4,
+          "text": "Siempre utiliza software licenciado y actualízalo.",
+          "imgSource": "",
+          "img": "img/27/n-4.png",
+          "type": "1"
+        },
+        {
+          "id": 5,
+          "text": "Gestiona bien tus contraseñas.",
+          "imgSource": "",
+          "img": "img/27/n-5.png",
+          "type": "1"
+        },
+        {
+          "id": 6,
+          "text": "Asegúrate de contar con respaldo de tu información.",
+          "imgSource": "",
+          "img": "img/27/n-6.png",
+          "type": "1"
+        },
+        {
+          "id": 7,
+          "text": "Desconfía de redes desconocidas o WiFi de sitios públicos.",
+          "imgSource": "",
+          "img": "img/27/n-7.png",
+          "type": "1"
+        },
+        {
+          "id": 8,
+          "text": "Cifra tu información siempre que puedas.",
+          "imgSource": "",
+          "img": "img/27/n-8.png",
+          "type": "1"
+        },
+        {
+          "id": 9,
+          "text": "Para hacer uso de la banca en línea, siempre verifica que la URL comience con HTTPS.",
+          "imgSource": "",
+          "img": "img/27/n-9.png",
+          "type": "1"
+        },
+        {
+          "id": 10,
+          "text": "",
+          "imgSource": "img/27/img-10.png",
+          "img": "img/27/n-10.png",
+          "type": "1"
+        }
+      ],
+      "dropZone": {
+        "drops": [
+          {
+            "key": 1,
+            "size": 44,
+            "posY": 38,
+            "posX": -8,
+            "type": "1",
+            "bgDrop": "img/27/drop-1.png"
+          }
+        ]
+      },
+      "resources": {
+        "bgImg": "img/27/bgPage-27.png"
+      }
+    }
+  },
+
+  "page28": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-4.png",
+      "textHeader"  : "Seguridad de la información",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Valida tus conocimientos",
+    "text"    : "De acuerdo con el tema visto sobre las amenazas, identifícalas en la siguiente actividad.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Coloca el mouse sobre cada número para ver el ítem, luego, arrastra el número a la opción que le corresponda en los signos de interrogación que hay al lado izquierdo.",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "dragItem": [
+        {
+          "id"          : 1,
+          "text"        : "Sugerencia para el uso del móvil",
+          "textPosY"    : -23,
+          "textPosX"    : -130,
+          "img"         : "",
+          "color"       : "#FEC72E",
+          "type"        : "1",
+          "posY"        : 34,
+          "posX"        : 51
+        },
+        {
+          "id"          : 2,
+          "text"        : "Contraseña",
+          "textPosY"    : -25,
+          "textPosX"    : 210,
+          "img"         : "",
+          "color"       : "#FD8223",
+          "type"        : "2",
+          "posY"        : 34,
+          "posX"        : 199
+        },
+        {
+          "id"          : 3,
+          "text"        : "Conversaciones",
+          "textPosY"    : 67,
+          "textPosX"    : 240,
+          "img"         : "",
+          "color"       : "#C70E62",
+          "type"        : "3",
+          "posY"        : 125,
+          "posX"        : 234
+        },
+        {
+          "id"          : 4,
+          "text"        : "Respaldo de información",
+          "textPosY"    : 283,
+          "textPosX"    : 109,
+          "img"         : "",
+          "color"       : "#6C1BC7",
+          "type"        : "4",
+          "posY"        : 215,
+          "posX"        : 199
+        },
+        {
+          "id"          : 5,
+          "text"        : "Redes sociales",
+          "textPosY"    : 285,
+          "textPosX"    : -40,
+          "img"         : "",
+          "color"       : "#189BDB",
+          "type"        : "5",
+          "posY"        : 215,
+          "posX"        : 51
+        },
+        {
+          "id"          : 6,
+          "text"        : "Estaciones de trabajo",
+          "textPosY"    : 130,
+          "textPosX"    : -172,
+          "img"         : "",
+          "color"       : "#A7BF25",
+          "type"        : "6",
+          "posY"        : 125,
+          "posX"        : 16
+        }
+      ],
+      "dropZone": {
+        "drops": [
+          {
+            "key"       : 1,
+            "box"       : "<div class = 'boxDrop'></div>",
+            "text"      : "Guarda copias de seguridad en el OneDrive Empresarial",
+            "type"      : "4"
+          },
+          {
+            "key"       : 2,
+            "box"       : "<div class = 'boxDrop'></div>",
+            "text"      : "No compartas información en lugares públicos ",
+            "type"      : "3"
+          },
+          {
+            "key"       : 3,
+            "box"       : "<div class = 'boxDrop'></div>",
+            "text"      : "Cámbiala con frecuencia",
+            "type"      : "2"
+          },
+          {
+            "key"       : 4,
+            "box"       : "<div class = 'boxDrop'></div>",
+            "text"      : "Evita conectarte a redes desconocidas.",
+            "type"      : "1"
+          },
+          {
+            "key"       : 5,
+            "box"       : "<div class = 'boxDrop'></div>",
+            "text"      : "No permitas que el navegador recuerde las contraseñas",
+            "type"      : "6"
+          },
+          {
+            "key"       : 6,
+            "box"       : "<div class = 'boxDrop'></div>",
+            "text"      : "Cuida muy bien la información y contenido de lo que publicas ",
+            "type"      : "5"
+          }
+        ]
+      },
+      "resources": {
+        "bgImg"         : "img/28/bgPage-28.png"
+      }
+    }
+  },
+
+  "page29": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit5",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-5.png",
+      "textHeader"  : "Centro de Atención al <br>Usuario (CAU)",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Canales de contacto",
+    "text"    : "En el Centro de Atención al Usuario evolucionamos nuestros medios de contacto, con el fin de fortalecer la comunicación con los usuarios y ofrecerles un servicio más oportuno. <br><br> Nuestro nuevo modelo de servicio nos permite escuchar y conocer tus solicitudes a través de diferentes medios, sin embargo, si tu requerimiento es urgente y necesitas una pronta respuesta, te recomendamos utilizar las líneas telefónicas, estamos disponible los 7 días a la semana, las 24 horas del día, durante todo el año. <br><br>A continuación, conoce nuestros canales de contacto en el siguiente folleto.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la imagen para ver el folleto",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/29/btn-1.png"
+      },
+      "gallery": [
+        {
+          "key"       : 1,
+          "img"       : "img/29/img-1.png"
+        },
+        {
+          "key"       : 2,
+          "img"       : "img/29/img-2.png"
+        }
+      ],
+      "closedModal"   : true,
+      "audio": {
+        "src"         : "audio/bienvenida.mp3",
+        "autoPlay"    : true
+      },
+      "subtitles": {
+        "1"           : "En esta era digital la mayor parte de nuestra información se",
+        "3"           : "encuentra en línea y por lo general la forma en que ",
+        "6"           : "trabajamos, aprendemos, nos comunicamos, nos ",
+        "9"           : "relacionamos, entre otros; dependen de una conexión a la red.",
+        "13"          : "Tener conciencia frente a los riesgos que amenazan nuestra",
+        "16"          : "información es el mejor control que se necesita para evitar ser ",
+        "21"          : "víctimas de la inseguridad digital.",
+        "23"          : "Presta mucha atención a los diferentes temas que ",
+        "25"          : "desarrollaremos alrededor del curso. ¡Bienvenidos!"
+      },
+      "layers": [
+        {
+          "label"     : "Candidatos a cargos",
+          "color"     : "#1FBDED",
+          "time"      : 30
+        },
+        {
+          "label"     : "Empleados, exempleados",
+          "color"     : "#0C62A5",
+          "time"      : 32
+        },
+        {
+          "label"     : "Pensionados",
+          "color"     : "#04386D",
+          "time"      : 34
+        },
+        {
+          "label"     : "Accionistas",
+          "color"     : "#FBB03B",
+          "time"      : 35
+        },
+        {
+          "label"     : "Proveedores",
+          "color"     : "#F15A24",
+          "time"      : 36
+        },
+        {
+          "label"     : "Consumidores",
+          "color"     : "#93278F",
+          "time"      : 38
+        },
+        {
+          "label"     : "Recicladores",
+          "color"     : "#620B5F",
+          "time"      : 39
+        },
+        {
+          "label"     : "Usuarios",
+          "color"     : "#9E0B5D",
+          "time"      : 40
+        },
+        {
+          "label"     : "Clientes",
+          "color"     : "#8CC63F",
+          "time"      : 41
+        }
+      ]
+    }
+  },
+
+  "page30": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-5.png",
+      "textHeader"  : "Centro de Atención al <br>Usuario (CAU)",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Seguimiento a mis casos",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la siguiente imagen y visualiza la información",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/30/btn-1.png"
+      },
+      "gallery": [
+        {
+          "key"   : 1,
+          "img"   : "img/30/img-1.png",
+          "link"  : "https://api.whatsapp.com/send?phone=+573232230394"
+        }
+      ],
+      "closedModal"   : true
+    }
+  },
+
+  "page31": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-5.png",
+      "textHeader"  : "Centro de Atención al <br>Usuario (CAU)",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Conducto regular para las PQR y felicitaciones",
+    "text"    : "Es muy importante para nosotros conocer tus peticiones, quejas y reclamos para ofrecerte un mejor servicio,  por lo tanto, te invitamos a conocer los canales habilitados, tu opinión es muy importante: <br><br><b>Correo electrónico:</b> <span class = 'correo'>sugerenciascau@grupofamilia.com</span><br><br> <b>Portal de Autoservicio:</b> Ingresa al portal del CAU a través de la Intranet Corporativa.",
+    "img": "img/31/CAU.PNG",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la siguiente imagen y visualiza la información",
+      "posY"    : 50,
+      "posX"    : 660,
+      "size"    : 330,
+      "color"   : "#FFD15C"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/31/btn-1.png"
+      },
+      "gallery": [
+        {
+          "key"   : 1,
+          "img"   : "img/31/img-1.png",
+          "link"  : "https://api.whatsapp.com/send?phone=+573232230394"
+        }
+      ],
+      "closedModal"   : true
+    }
+  },
+
+  "page32": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit6",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-6.png",
+      "textHeader"  : "Evaluación final del curso",
+      "color"       : "#5C2481"
+    },
+    "title"   : "",
+    "text"    : "Te invitamos a realizar la evaluación final del curso. <br> <br>Responde a continuación las preguntas para que evaluemos el aprendizaje que hemos logrado en esta formación.",
+    "button": "Realizar prueba final",
+    "img": "img/32/img-1.png"
+  },
+
+  "page33": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-6.png",
+      "textHeader"  : "Evaluación final del curso",
+      "color"       : "#5C2481"
+    },
+    "title"   : "Evaluación final",
+    "text"    : "",
+    "multimedia": {
+      "modal": {
+        "check": {
+          "title"         : "¡Muy bien!",
+          "text"          : "Aprobaste exitosamente la evaluación de conocimientos. Has demostrado tu compromiso e interés por conocer sobre este tema, continúa con esta actitud positiva y obtendrás grandes resultados.",
+          "img"           : "img/33/check.png"
+        },
+        "error": {
+          "title"         : "¡Inténtalo nuevamente!",
+          "text"          : "No lograste superar el porcentaje. Te invitamos a realizar nuevamente la evaluación final, si lo requieres puedes volver al contenido y reforzar los conocimientos. Esta vez lo harás mejor.",
+          "img"           : "img/33/error.png"
+        }
+      },
+      "questions": [
+        {
+          "type"          : "single",
+          "instruction"   : "Selecciona la respuesta correcta.",
+          "statement"     : "<b>1.</b> ¿Qué motiva a los criminales en la red?",
+          "options": [
+            {
+              "type"      : "A",
+              "text"      : "Fraudes, robo de identidad, extorsiones",
+              "value"     : false,
+              "color"     : "#189BDB"
+            },
+            {
+              "type"      : "B",
+              "text"      : "Dinero fácil y con el menor riesgo",
+              "value"     : false,
+              "color"     : "#86BF41"
+            },
+            {
+              "type"      : "C",
+              "text"      : "Acceso a cualquier persona",
+              "value"     : false,
+              "color"     : "#E21485"
+            },
+            {
+              "type"      : "D",
+              "text"      : "Baja inversión",
+              "value"     : false,
+              "color"     : "#E21485"
+            },
+            {
+              "type"      : "E",
+              "text"      : "Reconocimiento y popularidad",
+              "value"     : false,
+              "color"     : "#E21485"
+            },
+            {
+              "type"      : "F",
+              "text"      : "Todas las anteriores",
+              "value"     : true,
+              "color"     : "#E21485"
+            }
+          ]
+        },
+        {
+          "type"          : "single",
+          "instruction"   : "Selecciona la respuesta correcta.",
+          "statement"     : "<b>2.</b> ¿Cuál es el canal más efectivo para reportar problemas con mi computador al CAU?",
+          "options": [
+            {
+              "type"      : "A",
+              "text"      : "Llamar al jefe",
+              "value"     : false,
+              "color"     : "#FBB03B"
+            },
+            {
+              "type"      : "B",
+              "text"      : "Usar el canal de la línea de atención telefónica",
+              "value"     : true,
+              "color"     : "#93278F"
+            },
+            {
+              "type"      : "C",
+              "text"      : "Mandar un correo al CAU",
+              "value"     : false,
+              "color"     : "#D4145A"
+            },
+            {
+              "type"      : "D",
+              "text"      : "Reportarlo a la línea de transparencia",
+              "value"     : false,
+              "color"     : "#D4145A"
+            }
+          ]
+        },
+        {
+          "type"          : "single",
+          "instruction"   : "Selecciona la respuesta correcta.",
+          "statement"     : "<b>3.</b> ¿Quién es el objetivo de un atacante informático?",
+          "options": [
+            {
+              "type"      : "A",
+              "text"      : "Solo entidades bancarias",
+              "value"     : false,
+              "color"     : "#D4145A"
+            },
+            {
+              "type"      : "B",
+              "text"      : "Cualquier persona que maneje información o un dispositivo que esté conectado en una red",
+              "value"     : true,
+              "color"     : "#F15A24"
+            },
+            {
+              "type"      : "C",
+              "text"      : "Sólo grandes empresas",
+              "value"     : false,
+              "color"     : "#0C62A5"
+            },
+            {
+              "type"      : "D",
+              "text"      : "Ninguna de las anteriores",
+              "value"     : false,
+              "color"     : "#0C62A5"
+            }
+          ]
+        },
+        {
+          "type"          : "single",
+          "instruction"   : "Selecciona la respuesta correcta.",
+          "statement"     : "<b>4.</b> Debo revisar el estado de mis casos, ¿qué herramienta puedo utilizar?",
+          "options": [
+            {
+              "type"      : "A",
+              "text"      : "Utilizar el conducto regular para poner una sugerencia",
+              "value"     : false,
+              "color"     : "#F3B229"
+            },
+            {
+              "type"      : "B",
+              "text"      : "Ingresar al portal “Cómo van mis casos en el CAU”",
+              "value"     : true,
+              "color"     : "#04386D"
+            },
+            {
+              "type"      : "C",
+              "text"      : "Llamar a la dirección de TI",
+              "value"     : false,
+              "color"     : "#E21485"
+            },
+            {
+              "type"      : "D",
+              "text"      : "Preguntar al jefe inmediato",
+              "value"     : false,
+              "color"     : "#E21485"
+            }
+          ]
+        },
+        {
+          "type"          : "single",
+          "instruction"   : "Selecciona la respuesta correcta.",
+          "statement"     : "<b>5.</b> ¿En dónde debo almacenar la información dentro de mi PC?",
+          "options": [
+            {
+              "type"      : "A",
+              "text"      : "En el escritorio",
+              "value"     : false,
+              "color"     : "#1C9BDB"
+            },
+            {
+              "type"      : "B",
+              "text"      : "En la papelera de reciclaje",
+              "value"     : false,
+              "color"     : "#04386D"
+            },
+            {
+              "type"      : "C",
+              "text"      : "En una memoria USB",
+              "value"     : false,
+              "color"     : "#93278F"
+            },
+            {
+              "type"      : "D",
+              "text"      : "En OneDrive empresarial",
+              "value"     : true,
+              "color"     : "#93278F"
+            }
+          ]
+        },
+        {
+          "type"          : "single",
+          "instruction"   : "Selecciona la respuesta correcta.",
+          "statement"     : "<b>6.</b> Si recibo un correo sospechoso a mi cuenta corporativa, ¿qué debo hacer?",
+          "options": [
+            {
+              "type"      : "A",
+              "text"      : "Descargar el archivo adjunto y abrirlo en mi computador",
+              "value"     : false,
+              "color"     : "#0D62A5"
+            },
+            {
+              "type"      : "B",
+              "text"      : "Darle clic de inmediato al vínculo adjunto",
+              "value"     : false,
+              "color"     : "#04386D"
+            },
+            {
+              "type"      : "C",
+              "text"      : "Comunicarme con el Área de Riesgos de la Compañía",
+              "value"     : false,
+              "color"     : "#FBB03B"
+            },
+            {
+              "type"      : "D",
+              "text"      : "Llamar al CAU o utilizar el portal del CAU para reportarlo",
+              "value"     : true,
+              "color"     : "#189BDB"
+            }
+          ]
+        },
+        {
+          "type"          : "FV",
+          "instruction"   : "7. Lee atentamente el siguiente enunciado y responde si es verdadero o falso de acuerdo al conocimiento adquirido.",
+          "statement"     : "La seguridad de la información consiste en implementar tecnologías y controles enfocados en las personas, administración de procesos, la infraestructura y las tecnologías, con el fin de reducir y controlar el riesgo de un ataque cibernético que atentan con su confidencialidad, integridad y disponibilidad.",
+          "options": [
+            {
+              "type"      : "VR",
+              "text"      : "Verdadero",
+              "value"     : true,
+              "color"     : "#0D62A5"
+            },
+            {
+              "type"      : "FR",
+              "text"      : "Falso",
+              "value"     : false,
+              "color"     : "#04386D"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "page34": {
+    "type"            : "endCourse",
+    "message": {
+      "success": {
+        "title"       : "¡Has llegado al final de <br>este recorrido!",
+        "subTitle"    : "¡Muchas gracias!",
+        "module"      : "",
+        "courseName"  : "Estamos seguros que tienes nuevos aprendizajes y que pondrás en práctica las recomendaciones que hemos entregado a lo largo del curso y así evitar ser víctima de un ciberdelincuente. <br><br>Recuerda que con tus buenas prácticas protegemos lo nuestro."
+      },
+      "error": {
+        "title"       : "¡No has cumplido <br>con el objetivo!",
+        "subTitle"    : "¡Muchos éxitos!",
+        "module"      : "",
+        "courseName"  : "Te invitamos a realizar nuevamente la evaluación, esta vez lo harás mejor. <br><br>Concéntrate en las 7 preguntas que hemos preparado para ti."
+      }
+    },
+    "logoCourse"      : "img/cover/logo-1.png",
+    "logoFooter"      : "img/cover/logo-2.png",
+    "background": {
+      "bg"            : "img/cover/fondo-end.png"
+    },
+    "buttonEnd"       : "Finalizar",
+    "footer": {
+      "label"         : "Seguridad de la información"
+    }
+  },
+
+  "menuCourse": {
+    "type": "menuPage",
+    "Units": [
+      {
+        "unit"          : 1,
+        "title"         : "Generalidades",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-1.png",
+        "goTo"          : 3,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 2,
+        "title"         : "Amenazas",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-2.png",
+        "goTo"          : 7,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 3,
+        "title"         : "Dispositivos móviles",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-3.png",
+        "goTo"          : 16,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 4,
+        "title"         : "Seguridad de la información",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-4.png",
+        "goTo"          : 18,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 5,
+        "title"         : "Centro de Atención al Usuario (CAU)",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-5.png",
+        "goTo"          : 29,
+        "fullVisited"   : false
+      },
+      {
+        "unit"          : 6,
+        "title"         : "Evaluación final del curso",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-6.png",
+        "goTo"          : 32,
+        "fullVisited"   : false
+      }
+    ],
+    "instruction": {
+      "type"    : "",
+      "text"    : "En este menú navegarás por los distintos temas del curso, haz clic en aquel que está intermitente o palpitando. ",
+      "posY"    : 515,
+      "posX"    : 40,
+      "size"    : 330,
+      "color"   : "#189BDB"
+    }
+  }
+}
+
+
+,
+      {
+        "button": {
+          "text": "CAPITULO VIII",
+          "color": "#6106D0"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Haz realidad tu sueño de viajar. Te financiamos viajes nacionales e Internacionales. Excelentes convenios de Turismo. <b>Hasta 7 SMMLV</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO IX",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO X",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO XI",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO XII",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
+        }
+      },
+      {
+        "button": {
+          "text": "CAPITULO XIII",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
+        }
+      }

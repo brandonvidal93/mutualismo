@@ -1,0 +1,110 @@
+@import "./colors.scss";
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.8);
+    animation-timing-function: ease-out;
+    opacity: 1;
+  }
+  70% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.8);
+    animation-timing-function: ease-out;
+    opacity: 1;
+  }
+}
+
+@keyframes pulse-2 {
+  0% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+    opacity: 1;
+  }
+  70% {
+    transform: scale(1.2);
+    animation-timing-function: ease-out;
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+    opacity: 1;
+  }
+}
+
+@keyframes bounce-alert {
+  0% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+    opacity: 1;
+  }
+  38% {
+    transform: scale(0.7);
+    animation-timing-function: ease-in;
+  }
+  55% {
+    transform: scale(1.2);
+    animation-timing-function: ease-out;
+  }
+  79% {
+    transform: scale(0.84);
+    animation-timing-function: ease-in;
+  }
+  89% {
+    transform: scale(1.1);
+    animation-timing-function: ease-out;
+  }
+  95% {
+    transform: scale(0.95);
+    animation-timing-function: ease-in;
+  }
+  100% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+  }
+}
+
+@keyframes open-modal {
+  0% {
+    // transform: translateZ(-1400px) translateY(800px);
+    opacity: 0;
+  }
+  100% {
+    // transform: translateZ(0) translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes bounceLeft {
+  0%, 20%, 50%, 80%, 100% {
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+  40% {
+    -ms-transform: translateX(30px);
+    transform: translateX(30px);
+  }
+  60% {
+    -ms-transform: translateX(15px);
+    transform: translateX(15px);
+  }
+}
+
+@keyframes bounceDown {
+  0%, 20%, 50%, 80%, 100% {
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -ms-transform: translateY(10px);
+    transform: translateY(10px);
+  }
+  60% {
+    -ms-transform: translateY(5px);
+    transform: translateY(5px);
+  }
+}

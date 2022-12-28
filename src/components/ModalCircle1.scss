@@ -1,0 +1,82 @@
+ @import "../resources/colors";
+@import "../resources/animation.scss";
+
+.ModalCircle1 {
+
+  .circleItems {
+    .itemButton {
+      .circleButton {
+        background-color: transparent;
+        color: $color4;
+        font-size: 1.5em;
+        transition: all .3s;
+      } 
+    }
+    .itemLabel {
+      background-color: $blanco;
+      box-shadow: 0 0px 10px rgba(0, 0, 0, 0.2);
+      border-radius: 50px;
+      border-width: 3px;
+      border-style: solid;
+      .textItem {
+        display: inline;
+      }
+    }
+    .itemLabelL {
+      margin-left: -50px;
+    }
+    .itemLabelR {
+      margin-right: -50px;
+    }
+  }
+
+  .bgItemGlobe {
+    background-color: $color1;
+    position: absolute;
+    display: grid;
+    top: -307px;
+    left: -160px;
+    z-index: 4;
+    width: 1022px;
+    height: 668px;
+
+    .itemGlobe {
+      background-color: $blanco;
+      box-shadow: 6px 6px 0px rgba($color13, 0.75);
+      border: 1px solid $color1;
+      align-self: center;
+      justify-self: center;
+      padding: 2rem 0.5rem;
+      min-width: 430px;
+      max-width: 500px;
+      min-height: 180px;
+      max-height: 320px;
+
+      .enfasis-1 {
+        background-color: #EAEAEA;
+        border-radius: 10px;
+        padding: 0.5rem;
+      }
+
+      .buttonClose {
+        position: absolute;
+        background-color: rgb(255, 255, 255);
+        border-radius: 50%;
+        padding: 0.25rem 0rem;
+        top: -15px;
+        right: -15px;
+        .iconButton {
+          color: $color10;
+          font-size: 2.3em;
+          transition: all .3s;
+        }
+
+        &:hover {
+          .iconButton {
+            color: $color17;
+          }
+        }
+      }
+    }
+  }
+}

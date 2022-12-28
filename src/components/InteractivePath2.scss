@@ -1,0 +1,33 @@
+@import "../resources/colors";
+@import "../resources/animation.scss";
+
+.interactivePath2 {
+  .btnItem {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0);
+
+    .iconButton {
+      font-size: 2.8em;
+      transition: all .3s;
+    }
+  }
+
+  .btnDisabled {
+    pointer-events: none;
+    .iconButton {
+      .circleIcon {
+        color: #CACACA!important;
+        
+      }
+    }
+  }
+
+  .boxInfo {
+    border-radius: 10px;
+    height: 210px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 0.2rem;
+    margin-right: 0.6rem;
+  }
+}

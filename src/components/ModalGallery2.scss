@@ -1,0 +1,93 @@
+@import "../resources/colors";
+@import "../resources/animation.scss";
+
+.ModalGallery2 {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 1022px;
+  height: 648px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(#29427D, 1);
+  z-index: 4;
+  transition: all .2s;
+
+  .itemGallery {
+    background-color: #F7F7F7;
+    border: 10px solid $blanco;
+    padding: 1rem;
+    border-radius: 15px;
+    width: 802px;
+    height: 572px;
+
+    .buttonSlide {
+      background-color: rgba(0, 0, 0, 0);
+
+      .iconButton {
+        font-size: 2.5em;
+        color: #CACACA;
+        transition: all .3s;
+      }
+
+      &:hover {
+        .iconButton {
+          color: $texto2;
+        }
+      }
+    }
+  }
+
+  .navigationGallery {
+    .buttonSlide {
+      background-color: rgba(0, 0, 0, 0);
+
+      .iconButton {
+        font-size: 2.5em;
+        color: #CACACA;
+        transition: all .3s;
+      }
+
+      &:hover {
+        .iconButton {
+          color: $texto2;
+        }
+      }
+    }
+
+    .itemsNav {
+      width: 110px;
+      background-color: #F7F7F7;
+      border: 3px solid $blanco;
+      padding: 0.5rem;
+      border-radius: 2px;
+      width: 115px;
+      height: 80px;
+    }
+
+    .active {
+      background-color: $color16;
+    }
+  }
+
+  .buttonClose {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 50%;
+    padding: 0.4rem 0.2rem;
+    .iconButton {
+      color: red;
+      font-size: 2.3em;
+      transition: all .3s;
+    }
+
+    &:hover {
+      .iconButton {
+        color: #cf0000;
+      }
+    }
+  }
+}

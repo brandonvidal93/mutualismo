@@ -1,0 +1,24 @@
+@import "../../../resources/colors.scss";
+@import "../../../resources/animation.scss";
+
+.endCourse {
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+  height: 650px;
+
+  .title-course {
+    border-bottom: $color7 solid 3px;
+  }
+
+  .buttonEnd {
+    background-color: $color1;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 0.7rem 3rem;
+    transition: all .3s;
+    &:hover {
+      background-color: #04386D;
+    }
+  }
+}

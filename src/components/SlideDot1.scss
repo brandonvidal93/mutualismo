@@ -1,0 +1,37 @@
+@import "../resources/colors";
+@import "../resources/animation.scss";
+
+.SlideDot1 {
+  background-repeat: no-repeat;
+
+  .dotContent {
+    width: 260px;
+    height: 253px;
+    padding: 1rem;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+  }
+
+  .buttonBox{
+    // width: 480px;
+    // padding: 0.8rem 0;
+
+    .btnItem {
+      background-color: #DADADA;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      margin: 0 0.2rem;
+      cursor: pointer;
+      transition: all 0.4s;
+      &:hover {
+        background-color: #BDB5B5;
+      }
+    }
+    .btnActive {
+      background-color: #189BDB;
+    }
+  }
+}

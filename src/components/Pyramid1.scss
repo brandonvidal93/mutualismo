@@ -1,0 +1,138 @@
+ @import "../resources/colors";
+@import "../resources/animation.scss";
+
+.Pyramid1 {
+  height: 385px;
+  width: 580px;
+
+  .circleItems {
+    position: absolute;
+
+    .circleButton {
+      background-color: transparent;
+      color: $color4;
+      font-size: 1.5em;
+      transition: all .3s;
+    }
+  }
+
+  .bgItemGlobe {
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    width: 100%;
+    height: 420px;
+
+    .itemGlobe {
+      box-shadow: 0 0px 10px rgba(0, 0, 0, 0.2);
+      position: absolute;
+      background-color: #F7F7F7;
+      border-radius: 15px;
+      border: 3px solid;
+      padding: 1em 2.5em 1em 1em;
+
+      .buttonClose {
+        position: absolute;
+        border-radius: 50%;
+        top: 2px;
+        right: 0px;
+        .iconButton {
+          color: red;
+          font-size: 2.3em;
+          transition: all .3s;
+        }
+
+        &:hover {
+          .iconButton {
+            color: #cf0000;
+          }
+        }
+      }
+    }
+
+    .trian-1 {
+      &:before {
+        content: "";
+        display: block;
+        width: 0;
+        height: 0;
+        border-left: 20px solid transparent;
+        border-bottom: 20px solid #86BF41;
+        border-right: 20px solid transparent;
+        position: absolute;
+        top: 23px;
+        left: -30px;
+        transform: rotate(-90deg);
+      }
+      &:after {
+        content: "";
+        display: block;
+        width: 0;
+        height: 0;
+        border-left: 16px solid transparent;
+        border-bottom: 16px solid #F7F7F7;
+        border-right: 16px solid transparent;
+        position: absolute;
+        top: 25px;
+        left: -23px;
+        transform: rotate(-90deg);
+      }
+    }
+
+    .trian-2 {
+      &:before {
+        content: "";
+        display: block;
+        width: 0;
+        height: 0;
+        border-left: 20px solid transparent;
+        border-top: 20px solid #683E92;
+        border-right: 20px solid transparent;
+        position: absolute;
+        top: 100%;
+        left: 30px;
+      }
+      &:after {
+        content: "";
+        display: block;
+        width: 0;
+        height: 0;
+        border-left: 16px solid transparent;
+        border-top: 16px solid #F7F7F7;
+        border-right: 16px solid transparent;
+        position: absolute;
+        top: 100%;
+        left: 34px;
+      }
+    }
+
+    .trian-3 {
+      &:before {
+        content: "";
+        display: block;
+        width: 0;
+        height: 0;
+        border-left: 20px solid transparent;
+        border-top: 20px solid #189BDB;
+        border-right: 20px solid transparent;
+        position: absolute;
+        top: 100%;
+        left: 30px;
+      }
+      &:after {
+        content: "";
+        display: block;
+        width: 0;
+        height: 0;
+        border-left: 16px solid transparent;
+        border-top: 16px solid #F7F7F7;
+        border-right: 16px solid transparent;
+        position: absolute;
+        top: 100%;
+        left: 34px;
+      }
+    }
+  }
+}

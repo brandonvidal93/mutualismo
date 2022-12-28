@@ -1,0 +1,39 @@
+@import "../resources/colors";
+@import "../resources/animation.scss";
+
+.interactiveSubtitle {
+  // height: 420px;
+
+  .playerBox {
+    // bottom: -8px;
+    // left: 70px;
+    // position: absolute;
+
+    .buttonBox {
+
+      .buttonPlayer {
+        background-color: rgba(0, 0, 0, 0);
+        font-size: 2.1em;
+        color: $color14;
+
+        .iconButton {
+          transition: all .3s;
+
+          &:hover {
+            color: $color1;
+          }
+        }
+      }
+    }
+
+    .trackLabelBox {
+
+      .labelBox {
+        background-color: $blanco;
+        width: 450px;
+        border-radius: 50px;
+        border: 1px solid #707070;
+      }
+    }
+  }
+}

@@ -1,0 +1,547 @@
+@import "../../resources/colors.scss";
+@import "../../resources/animation.scss";
+
+.pageContent {
+  height: 650px;
+  position: absolute;
+  width: 100%;
+  top: 0px;
+  left: 0;
+  z-index: 1;
+  background: url('../../assets/img/backgrounds/fondo-curso.jpg');
+
+  // LI
+  .li-1 {
+    list-style-type: none;
+    margin-left: 15px;
+
+    &:before {
+      content: '\25CF';
+      color: $color2;
+      display: inline-block;
+      margin-right: 5px;
+    }
+  }
+
+  // HR
+  .line-1 {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid $color4;
+  }
+
+  .line-2 {
+    border: none;
+    border-top: 1px solid #FF6A3D;
+    width: 100%;
+  }
+
+  .line-3 {
+    border: none;
+    border-top: 1px solid $color1;
+    width: 100%;
+  }
+
+  .line-4 {
+    border: none;
+    border-top: 1px solid #00D7FF;
+    width: 100%;
+  }
+
+  .line-5 {
+    border: none;
+    border-top: 1px solid $blanco;
+    width: 50%;
+  }
+
+  .link-decN {
+    text-decoration: none;
+  }
+
+  .link-1 {
+    background-color: #FF6A3D;
+    padding: .7em;
+    border-radius: 23px;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .correo {
+    border: 2px solid #5298c9;
+    border-radius: 7px;
+    padding: 0.2rem 0.3rem;
+  }
+
+  .labelInstruction {
+    background-color: #F8F8F8;
+    padding: 0.3rem 1rem;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  .buttonStart {
+    width: 120px;
+    border: 1px solid $color4;
+    border-radius: 20px;
+    background-color: $color4;
+    color: $blanco;
+    transition: all .5s;
+
+    &:hover {
+      background-color: $color2;
+      border: 1px solid $color2;
+    }
+  }
+
+  .section-1 {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .scrollBox-1 {
+    height: 296px;
+    width: 86%;
+    // border: 1px solid black;
+    overflow-y: scroll;
+  }
+
+  .two-column {
+    width: 100%;
+    height: 350px;
+
+    .column-1 { width: 45%; }
+
+    .column-2 { width: 52%; }
+
+    .buttonVideo {
+      background-color: rgba(0, 0, 0, 0);
+      transition: all .3s;
+      &:hover {
+        transform: scale(.9);
+      }
+    }
+
+    .buttonModal {
+      background-color: #ffffff;
+      border: 1px solid $color4;
+      color: $color2;
+      padding: .7em;
+      border-radius: 20px;
+      transition: all .3s;
+      &:hover {
+        background-color: $color2;
+        border: 1px solid $color4;
+        color: $color4;
+      }
+    }
+  }
+
+  .buttonVideo {
+    background-color: rgba(0, 0, 0, 0);
+    transition: all .3s;
+    transform: scale(1);
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+
+  .buttonVideo2 {
+    background-color: #1F77B2;
+    color: #fff;
+    transition: all .3s;
+    transform: scale(.9);
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+    &:hover {
+      transform: scale(1);
+    }
+  }
+
+  .buttonModal {
+    background-color: #ffffff;
+    border: 1px solid $color4;
+    color: $color2;
+    padding: .7em;
+    border-radius: 20px;
+    transition: all .3s;
+    &:hover {
+      background-color: $color2;
+      border: 1px solid $color4;
+      color: $color4;
+    }
+  }
+
+  .buttonModal-2 {
+    background-color: $color4;
+    border: 1px solid $color4;
+    color: $blanco;
+    padding: .5rem 1.2rem;
+    border-radius: 20px;
+    transition: all .3s;
+    &:hover {
+      background-color: $color2;
+      border: 1px solid $color2;
+      color: $blanco;
+    }
+  }
+
+  .buttonQuiz {
+    background-color: $color1;
+    color: #ffffff;
+    border-radius: 15px;
+    font-size: 1.2em;
+    font-weight: 300;
+    font-style: italic;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    transition: all .3s;
+    &:hover {
+      background-color: #04386D;
+    }
+  }
+
+  .buttonEnd {
+    width: 120px;
+    border: 1px solid $color4;
+    border-radius: 20px;
+    background-color: $color4;
+    color: $blanco;
+    transition: all .5s;
+
+    &:hover {
+      background-color: $color2;
+      border: 1px solid $color2;
+    }
+  }
+
+  .boxInfo-1 {
+    padding: 0.5em;
+  }
+
+  .contentBox {
+    width: auto;
+    margin: 0 auto;
+
+    .buttonModal {
+      background-color: $color4;
+      border: 10px solid $color4;
+      border-radius: 50%;
+      width: 165px;
+      height: 165px;
+      transition: all .4s;
+
+      &:hover {
+        background-color: $color4;
+        border: 10px solid $color4;
+        box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+      }
+    }
+
+    .buttonModal-2 {
+      background-color: $color4;
+      // border: 10px solid $color4;
+      border-radius: 2px;
+      width: 195px;
+      height: 200px;
+      transition: all .4s;
+      box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+      border-top-width: 5px;
+      border-top-style: solid;
+
+      &:hover {
+        // background-color: $color4;
+        // border: 10px solid $color4;
+        box-shadow: 0 8px 8px rgba(0, 0, 0, 0.3);
+      }
+    }
+
+    .visited {
+      background-color: $color2!important;
+      border: 10px solid $color2!important;
+    }
+  }
+
+  .buttonGlobe {
+    // background-color: $color12;
+    color: $color4;
+    padding: 1em;
+    border-radius: 7px;
+    &:before {
+      content: '';
+      position: absolute;
+      top: -15px;
+      left: 10px;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 15px 0 0 15px;
+      // border-color: transparent transparent transparent $color12;
+    }
+  }
+
+  .imageCenter {
+    margin: 0 auto;
+  }
+
+  .restrict {
+    position: absolute;
+    bottom: -51px;
+    right: 34px;
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .restrict-2 {
+    position: absolute;
+    top: -50px;
+    right: 9px;
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .restrict-3 {
+    position: absolute;
+    bottom: 24px;
+    left: 60px;
+    width: 128px;
+    height: 41px;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .tg {
+    border-collapse:collapse;
+    border-spacing:0;
+    td {
+      padding:10px 5px;
+      border-style:solid;
+      border-width:1px;
+      overflow:hidden;
+      word-break:normal;
+      border-color:black;
+    }
+
+    th {
+      padding:10px 5px;
+      border-style:solid;
+      border-width:1px;
+      overflow:hidden;
+      word-break:normal;
+      border-color:black;
+    }
+
+    .tg-left{
+      border-color:#ffffff;
+      text-align:left;
+      vertical-align:top
+    }
+    .tg-right{
+      border-color:#ffffff;
+      text-align:right;
+      vertical-align:top
+    }
+  }
+
+  .itemList {
+    .iconList {
+      transform: rotate(45deg);
+    }
+
+    .textList {
+      padding: 0.6rem 1.2rem;
+      border-radius: 50px;
+      background-color: $color6;
+    }
+  }
+
+  .imageNPC {
+    top: -15px;
+    right: 105px;
+  }
+
+  .imageNPC-2 {
+    top: 120px;
+    right: 89px;
+  }
+
+  .imageNPC-3 {
+    top: 130px;
+    right: 150px;
+  }
+
+  .headerTitle {
+    .textHeader {
+      // background-color: #f8f8f8;
+      // box-shadow: 0 0px 10px rgba(0, 0, 0, 0.1);
+      padding: 1rem 1.3rem 1rem 2.8rem;
+      margin-left: -40px;
+      border-radius: 100px;
+    }
+  }
+
+  // .bgHexagon {
+  //   background: url('../../assets/img/backgrounds/bgPage-11.png');
+  //   background-repeat: no-repeat;
+  //   background-position: center;
+  //   background-position-y: 110px;
+  // }
+
+  // .bgLine-1 {
+  //   background: url('../../assets/img/backgrounds/linea-1.png');
+  //   background-repeat: no-repeat;
+  //   background-position: center;
+  // }
+
+  .boxStyle-1 {
+    background-color: #F8F8F8;
+    border: 3px solid $blanco;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 1.5rem;
+  }
+
+  .boxContent {
+    width: 213px;
+    height: 341px;
+
+    .buttonStart {
+      width: 160px;
+      height: 50px;
+      border: 1px solid $color4;
+      border-radius: 15px;
+      background-color: $color4;
+      color: $blanco;
+      font-weight: 700;
+      font-size: 1.4em;
+      transition: all .5s;
+
+      &:hover {
+        background-color: $color2;
+        border: 1px solid $color2;
+      }
+    }
+  }
+
+  .modalInstruction {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(#29427D, 1);
+    z-index: 4;
+    transition: all .4s;
+    .bgCircle {
+      width: 310px;
+      height: 310px;
+      border-radius: 50%;
+      border: 5px solid #FFFFFF;
+      background-color: #056EA3;
+
+      .buttonClose {
+        background-color: rgba(255, 255, 255, 0);
+        border: 1px solid $blanco;
+        padding: 0.1rem 1.5rem;
+        border-radius: 15px;
+        transition: all 0.4s;
+        &:hover {
+          background-color: $blanco;
+          border: 1px solid $blanco;
+          color: #056EA3;
+        }
+      }
+    }
+  }
+}
+
+.startPage {
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+  height: 650px;
+
+  .title-course {
+    border-bottom: $color7 solid 3px;
+  }
+
+  .buttonQuiz {
+    background-color: $color1;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 1.2em;
+    font-weight: 300;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    transition: all .3s;
+    &:hover {
+      background-color: #04386D;
+    }
+  }
+}
+
+.endCourse {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 650px;
+  z-index: 1;
+
+  .imageLogo {
+    position: absolute;
+    top: 280px;
+    left: 110px;
+  }
+
+  .buttonEnd {
+    border: 3px solid $blanco;
+    border-radius: 50px;
+    background-color: $color7;
+    color: $blanco;
+    transition: all .5s;
+    padding: 0.5rem 1.7rem;
+  }
+
+  .guideNavigation {
+    position: absolute;
+    top: -250px;
+    right: -100px;
+    width: 487px;
+    height: 487px;
+    border-radius: 50%;
+    background-color: $color2;
+    animation: pulse 3s infinite;
+
+
+    &:hover { animation: none; }
+
+    .guideBox {
+      overflow: hidden;
+      width: 250px;
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      margin: 220px 0 0 100px;
+      padding: 18px 10px;
+
+      .buttonModal {
+        width: 160px;
+        border: 1px solid $color4;
+        border-radius: 15px;
+        background: none;
+        color: $color4;
+        transition: all .4s;
+
+        &:hover {
+          background: $color4;
+          color: $color1;
+        }
+      }
+    }
+  }
+}

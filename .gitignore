@@ -1,0 +1,8 @@
+# Código gitignore para evitar procesar los directorios de las dependencias
+node_modules/
+versiones/
+build/
+SCORM/
+
+# Archivos de Mac
+*.DS_Store
