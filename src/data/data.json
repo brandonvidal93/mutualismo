@@ -2,12 +2,12 @@
   "coverPage": {
     "type"            : "startPage",
     "units"           : 8,
-    "title"           : "Generalidades",
+    "title"           : "Amando el Mutualismo",
     "subTitle"        : "Gestión del Talento Humano",
     "module"          : "",
     "courseName"      : "Para comenzar, haz clic en el siguiente botón:",
     "footer": {
-      "label"         : "Seguridad de la información"
+      "label"         : "Amando el Mutualismo"
     }
   },
 
@@ -53,7 +53,7 @@
   "page2": {
     "type"    : "pageCourse",
     "title"   : "Hola",
-    "text"    : "Para <b>AMAR</b> es muy gratificante que esté entre nosotros, en nombre de todos queremos expresarle una calurosa Bienvenida.<br><br>A partir de hoy inicia proceso de <b>Inducción</b>, lo invitamos a conocernos y a quedarse con nosotros.<br><br><span class = 'F2 fw-7'>¡Comencemos!</span>",
+    "text"    : "En este curso aprenderás sobre la economía solidaria y el mutualismo, así como los principios y valores que rigen a las mutuales. <br><br>Estos son los objetivos del curso:<br><br>❖ Ubicar el mutualismo dentro contexto de la economía Solidaria.<br>❖ Diferenciar conceptos sobre : doctrina, principios y valores.<br>❖ Conocer los principios y valores del mutualismo.<br>❖ Establecer las diferencias entre las mutuales y otras organizaciones con ánimo de lucro que prestan servicios similares a las mutuales, así como de las del sector solidario.<br>❖ Conocer el marco jurídico de las Asociaciones Mutuales.<br>❖ Caracterizar la asociación mutual en su doble dimensión.<br><br><b class='F1-5'>¡Comencemos!</b>",
     "instruction": {
       "type"    : "",
       "text"    : "Luego de leer la bienvenida, te invitamos a desplegar el menú que hay al lado izquierdo para comenzar la formación.",

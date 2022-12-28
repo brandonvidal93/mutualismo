@@ -16,9 +16,9 @@ const Page2 = ({dataPage, checkEnabledUnit}) => {
   return (
     <div className='pageContent page-2 animated fadeIn'>
       <img alt = 'Imagen' className = 'imageNPC pAbs' src = { ImgBienvenida }/>
-      <div className = 'c-4 mT-7 mL-7 animated fadeIn'>
+      <div className = 'c-4 mT-5 mL-7 animated fadeIn'>
         {
-          dataPage.title ? <h1 className = 'mB-3 F3' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h1> : null
+          dataPage.title ? <h1 className = 'mB-1 F3' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h1> : null
         }
         {
           dataPage.text ? <p className = 'mB-2 fw-3' dangerouslySetInnerHTML = {{ __html: dataPage.text }}></p> : null

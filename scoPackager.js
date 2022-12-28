@@ -4,7 +4,7 @@ var path = require('path');
   const config = {
     version: '1.2',
     organization: 'AMAR',
-    title: 'Generalidades - Parte 1',
+    title: 'Mutualismo',
     language: 'en-ES',
     masteryScore: 100,
     startingPage: 'index.html',
@@ -14,7 +14,7 @@ var path = require('path');
       zip: false,
       author: 'IUSH',
       outputFolder: path.join(__dirname, 'scorm_packages'),
-      description: 'Generalidades - Parte 1',
+      description: 'Mutualismo',
       keywords: ['scorm', 'test', 'course'],
       typicalDuration: 'PT0H5M0S',
       rights: `©${new Date().getFullYear()} AMAR`,
