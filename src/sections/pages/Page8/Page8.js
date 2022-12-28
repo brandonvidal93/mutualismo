@@ -30,7 +30,7 @@ const Page8 = ({dataPage, checkEndActivity}) => {
           }
         </div>
 
-        <div className = 'mL-10 mT-2 d-Flex j-C'>
+        <div className = 'mL-8 mT-2 d-Flex j-C'>
           <Accordion1 dataPage = { dataPage } isEnded = { isEnded } />
         </div>
       </div>

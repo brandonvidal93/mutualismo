@@ -310,8 +310,8 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "2. Crédito - Beneficios y Requisitos generales",
-    "text"    : "",
+    "title"   : "Clasificación de las organizaciones solidarias",
+    "text"    : "<b>Organizaciones de la Economía Solidaria:</b> son el conjunto de organizaciones que siendo de iniciativa privada, tienen como fin el beneficio colectivo o social y no tienen como fundamento el enriquecimiento o la posesión y crecimiento del capital económico individual, sino que se inclinan por el mejoramiento de las condiciones de vida de sus asociados.",
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en cada botón vertical para conocer la información.",
@@ -323,24 +323,24 @@
     "multimedia": [
       {
         "button": {
-          "text": "Beneficios",
+          "text": "Organizaciones solidarias",
           "color": "#D69E11"
         },
         "information": {
           "img1": "img/18/n-1.png",
           "img2": "img/18/nTeclas-1.png",
-          "text": "<ul><li>Servicio y asesoría personalizada.</li><li>Excelentes Tasas de Interés.</li><li>Cuotas fijas.</li><li>Amplios plazos de financiación.</li><li>Créditos sin Deudor Solidario<b>*</b>.</li><li>Agilidad en las respuestas.</li><b>*Aplican las demás que estén dentro de las políticas internas<br>de Otorgamiento de Crédito de la Mutual.</b>"
+          "text": "❖Precooperativas.<br>❖Cooperativas.<br>❖Instituciones. Auxiliares de la Economía Solidaria.<br>❖Fondos de Empleados.<br>❖Asociaciones Mutualistas.<br>❖Empresas solidarias de salud.<br>❖Empresas comunitarias.<br>❖Organismos de segundo y tercer grado que agrupen cooperativas u <br>otras formas asociativas y solidarias"
         }
       },
       {
         "button": {
-          "text": "Requisitos generales",
+          "text": "Organizaciones solidarias",
           "color": "#E65853"
         },
         "information": {
           "img1": "img/18/n-2.png",
           "img2": "",
-          "text": "<ul><li>Ser asociado activo y estar al día en el cumplimiento de sus obligaciones.</li><li>Presentar solicitud a través de los medios dispuestos por la Mutual.</li><li>Demostrar capacidad de pago.</li>"
+          "text": "❖Empresas de servicios en las formas de administraciones Públicas Cooperativas<br> y todas aquellas formas asociativas que cumplan con lo establecido en la Ley 454<br> de 1998: principios, fines, características y demás lineamientos en el marco del <br>sistema de la economía solidaria."
         }
       }
     ]
@@ -353,8 +353,8 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "3. Tarjeta Débito",
-    "text"    : "<b>Beneficios de la tarjeta:</b><br><br><ul><li>Uso Nacional e Internacional (VISA).</li><li>Compras POS (Datáfonos) en establecimientos comerciales a <b>$0</b> costo.</li><li>Disponibilidad de efectivo las 24 horas.</li><li>Cuota de manejo más baja del mercado y unificada.</li><li>Acceso al cupo rotativo como tarjeta doble bolsillo.</li><li>Tasa de interés muy competitiva.</li>",
+    "title"   : "La Asociación Mutual",
+    "text"    : "Elementos que la originan:",
     "instruction": {
       "type"    : "",
       "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
