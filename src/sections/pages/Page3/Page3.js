@@ -1,7 +1,7 @@
 import React from 'react';
 import './Page3.scss';
 
-import Instruction from '../../../components/Instruction';
+// import Instruction from '../../../components/Instruction';
 
 import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image from '../../../assets/img/3/1.png';

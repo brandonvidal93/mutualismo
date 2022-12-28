@@ -83,7 +83,7 @@ class Footer extends Component {
       return(
         <div className = 'buttonPannel'>
           <button
-            className = { 'buttonNav ' + (actualIndex === 1 || actualIndex === 4 || actualIndex === 18 || Object.values(data)[actualIndex].startUnit === true ? 'disabled': '') }
+            className = { 'buttonNav ' + (actualIndex === 1 || Object.values(data)[actualIndex].startUnit === true ? 'disabled': '') }
             id = 'btnNavLeft'
             onClick = { this.navigationCourse }>
             <FontAwesomeIcon

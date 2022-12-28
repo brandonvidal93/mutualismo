@@ -52,15 +52,19 @@ class Content extends Component {
       case 2: return( <Page2 dataPage = { data.page2 } endActivities = { endActivities[2] } checkEndActivity = { checkEndActivity } checkEnabledUnit = { checkEnabledUnit } /> );
 
       // UNIDAD 1 ---------------------------------------------------------------------------
-      // QUIENES SOMOS ----------------------------------------------------------------------
-      case 3: return( <Page3 dataPage = { data.page3 } endActivities = { endActivities[3] } checkEndActivity = { checkEndActivity } checkEnabledUnit = { checkEnabledUnit } checkEndUnit = { checkEndUnit } /> );
+      // AMANDO EL MUTUALISMO ---------------------------------------------------------------
+      case 3: return( <Page3 dataPage = { data.page3 } /> );
+      
+      case 4: return( <Page4 dataPage = { data.page4 } /> );
+      
+      case 5: return( <Page5 dataPage = { data.page5 }  /> );
+      
+      
       // FIN UNIDAD 1 -----------------------------------------------------------------------
 
       // UNIDAD 2 ---------------------------------------------------------------------------
       // SERVICIOS   ---------------------------------------------------------------------------
-      case 4: return( <Page4 dataPage = { data.page4 } endActivities = { endActivities[4] } checkEndActivity = { checkEndActivity } /> );
 
-      case 5: return( <Page5 dataPage = { data.page5 } endActivities = { endActivities[5] } checkEndActivity = { checkEndActivity } /> );
 
       case 6: return( <Page6 dataPage = { data.page6 } endActivities = { endActivities[6] } checkEndActivity = { checkEndActivity } /> );
 

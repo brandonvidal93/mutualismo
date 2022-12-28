@@ -87,57 +87,20 @@
 
   "page4": {
     "type": "pageCourse",
-    "startUnit"   : true,
-    "nameUnit"    : "unit2",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "¿Cuáles son nuestros servicios?",
+    "title"   : "El mutualismo dentro del contexto económico",
     "text"    : "",
     "instruction": {
-      "type"    : "mouse",
-      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los servicios.",
-      "posY"    : 33,
-      "posX"    : 0,
-      "size"    : 330,
-      "color"   : "#F0B114"
-    },
-    "multimedia": {
-      "type": "icon",
-      "items": [
-        {
-          "id"    : 1,
-          "title" : "Ahorro",
-          "text"  : "",
-          "img"   : "img/7/n-1.png"
-        },
-        {
-          "id"    : 2,
-          "title" : "Crédito",
-          "text"  : "",
-          "img"   : "img/7/n-2.png"
-        },
-        {
-          "id"    : 3,
-          "title" : "Protección<br>exequial",
-          "text"  : "",
-          "img"   : "img/7/n-3.png"
-        },
-        {
-          "id"    : 4,
-          "title" : "Turismo",
-          "text"  : "",
-          "img"   : "img/7/n-4.png"
-        },
-        {
-          "id"    : 5,
-          "title" : "Seguros",
-          "text"  : "",
-          "img"   : "img/7/n-5.png"
-        }
-      ]
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
     }
   },
 
@@ -145,239 +108,18 @@
     "type": "pageCourse",
     "headerPage": {
       "imgHeader"   : "img/menuCourse/n-1.png",
-      "textHeader"  : "Servicios",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "1. Ahorro",
-    "text"    : "",
+    "title"   : "¿Es posible la economía solidaría?",
+    "text"    : "La evolución de la economía como ciencia social, ha dado lugar al surgimiento de modelos económicos alternativos entre los cuales se encuentra la Economía Solidaria, a partir de la cual se busca rescatar todas aquellas experiencias que demuestran en los hechos; cómo es posible, además de deseable, producir, distribuir, consumir y acumular con sentido solidario.<br><br><b class='F1-5'>La Economía Solidaria</b><br><br>Se denomina Economía Solidaria al sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas, identificadas por prácticas autogestionarias, solidarias, democráticas y humanistas, sin ánimo de lucro, por el desarrollo integral del ser humano como sujeto, actor y fin de la economía.",
     "instruction": {
-      "type"    : "mouse",
-      "text"    : "Lleva en orden consecutivo cada ícono en donde corresponda para conocer la información.",
-      "posY"    : 33,
-      "posX"    : 0,
-      "size"    : 380,
-      "color"   : "#F0B114"
-    },
-    "multimedia": {
-      "dragItems": [
-        {
-          "drag"    : 1,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "1",
-          "data"    : ""
-        },
-        {
-          "drag"    : 2,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "2",
-          "data"    : ""
-        },
-        {
-          "drag"    : 3,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "3",
-          "data"    : ""
-        },
-        {
-          "drag"    : 4,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "4",
-          "data"    : ""
-        },
-        {
-          "drag"    : 5,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "5",
-          "data"    : ""
-        },
-        {
-          "drag"    : 6,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "6",
-          "data"    : ""
-        },
-        {
-          "drag"    : 7,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "7",
-          "data"    : ""
-        },
-        {
-          "drag"    : 8,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "8",
-          "data"    : ""
-        },
-        {
-          "drag"    : 9,
-          "img"     : "",
-          "text"    : "",
-          "type"    : "9",
-          "data"    : ""
-        }
-      ],
-      "dropZone": {
-        "drops": [
-          {
-            "key"       : 1,
-            "img"       : "",
-            "target"    : "1",
-            "size"      : 136,
-            "posY"      : 138,
-            "posX"      : 113,
-            "type"      : "1"
-          },
-          {
-            "key"       : 2,
-            "img"       : "",
-            "target"    : "2",
-            "size"      : 136,
-            "posY"      : 32,
-            "posX"      : 175,
-            "type"      : "2"
-          },
-          {
-            "key"       : 3,
-            "img"       : "",
-            "target"    : "3",
-            "size"      : 136,
-            "posY"      : 138,
-            "posX"      : 238,
-            "type"      : "3"
-          },
-          {
-            "key"       : 4,
-            "img"       : "",
-            "target"    : "4",
-            "size"      : 136,
-            "posY"      : 32,
-            "posX"      : 298,
-            "type"      : "4"
-          },
-          {
-            "key"       : 5,
-            "img"       : "",
-            "target"    : "5",
-            "size"      : 136,
-            "posY"      : 138,
-            "posX"      : 359,
-            "type"      : "5"
-          },
-          {
-            "key"       : 6,
-            "img"       : "",
-            "target"    : "6",
-            "size"      : 136,
-            "posY"      : 32,
-            "posX"      : 422,
-            "type"      : "6"
-          },
-          {
-            "key"       : 7,
-            "img"       : "",
-            "target"    : "7",
-            "size"      : 136,
-            "posY"      : 138,
-            "posX"      : 482,
-            "type"      : "7"
-          },
-          {
-            "key"       : 8,
-            "img"       : "",
-            "target"    : "8",
-            "size"      : 136,
-            "posY"      : 32,
-            "posX"      : 545,
-            "type"      : "8"
-          },
-          {
-            "key"       : 9,
-            "img"       : "",
-            "target"    : "9",
-            "size"      : 136,
-            "posY"      : 138,
-            "posX"      : 606,
-            "type"      : "9"
-          }
-        ],
-        "infoBox": [
-          {
-            "target"        : "1",
-            "title"         : "Ahorro Permanente",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Es el ahorro destinado para tu vivienda, abre tu cuenta con un monto mínimo del <b>3%</b> sobre el <b>SMMLV</b>, obtén excelente tasa de rentabilidad, y muchos beneficios.<br><br><b>*Apertura con un monto mínimo de $30.000</b>."
-          },
-          {
-            "target"        : "2",
-            "title"         : "Gana Diario",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Si quieres tener disponibilidad inmediata de tus recursos, rentabilidad diaria, agilidad y comodidad, este ahorro es tu mejor opción.<br><br><b>*Apertura con un monto mínimo de $70.000</b>."
-          },
-          {
-            "target"        : "3",
-            "title"         : "CDAT",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Ahorro a término fijo, Alta rentabilidad, <b>montos mínimos de $150.000</b>, inversión a largo plazo (<b>mínimo 90 días</b>) y seguridad; son características de esta línea de ahorro en la cual podrás incrementar tus recursos."
-          },
-          {
-            "target"        : "4",
-            "title"         : "Ahorro Programado",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Ahorra para lo que quieras, como lo quieras.<br>Programa tus vacaciones, educación, compras, celebraciones y mucho más, con cuotas semanales, quincenales o mensuales a <b>plazos de 6, 12, 18 y 24 meses</b> y montos desde <b>$15.000</b>.<br>¡Verás que obtendrás más de lo que esperas!"
-          },
-          {
-            "target"        : "5",
-            "title"         : "Ahorro Congregacional",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Pensamos en el beneficio de la comunidad pentecostal, ábrelo con mínimo <b>$70.000</b>. Genera rentabilidad diaria y disponibilidad de recursos todo el tiempo. Beneficia tu congregación con alta rentabilidad bajo las diferentes líneas de ahorro."
-          },
-          {
-            "target"        : "6",
-            "title"         : "Ahorro Amiguito",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Para los pequeños que piensan en grande. Ahorro para <b>menores de 18 años</b> de edad que pueden tener disponibilidad de recursos a la mano, apertura desde <b>$15.000</b>."
-          },
-          {
-            "target"        : "7",
-            "title"         : "Ahorro Mujer",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Ahorro sin fecha de vencimiento destinado para aquellas asociadas casadas que buscan crear, incrementar y fortalecer su patrimonio, logrando una visión y prevención de eventualidades futuras. Ábrelo desde <b>$70.000</b>."
-          },
-          {
-            "target"        : "8",
-            "title"         : "Mi Capital Futuro",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Un futuro Seguro tiene el Ahorro como su mejor aliado, Ahorro libre destino para tus proyectos a mediano y largo plazo.Ábrelo desde <b>$70.000</b>.<br><br><b>*Plazo mínimo 36 meses.</b>"
-          },
-          {
-            "target"        : "9",
-            "title"         : "Ahorro al terminar de pagar el crédito",
-            "colorTitle"    : "",
-            "subTitle"      : "",
-            "text"          : "Durante el tiempo que dure el crédito, realizas un ahorro sin pensarlo y se entregará al finalizar la obligación."
-          }          
-        ]
-      },
-      "bg": "",
-      "example": {
-        "hand"    : ""
-      }
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
     }
   },
 
@@ -385,7 +127,7 @@
     "type": "pageCourse",
     "headerPage": {
       "imgHeader"   : "img/menuCourse/n-1.png",
-      "textHeader"  : "Servicios",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "¿Cuáles son los beneficios que tengo al ahorrar con AMAR? ",
@@ -544,8 +286,8 @@
   "page7": {
     "type"        : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "2. Crédito",
@@ -664,8 +406,8 @@
   "page8": {
     "type"        : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "2. Crédito - Beneficios y Requisitos generales",
@@ -707,8 +449,8 @@
   "page9": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "3. Tarjeta Débito",
@@ -726,8 +468,8 @@
   "page10": {
     "type": "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "4. Red de Salud",
@@ -786,8 +528,8 @@
   "page11": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "5. Protección Exequial",
@@ -808,8 +550,8 @@
   "page12": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "5. Protección Exequial - Mascotas",
@@ -862,8 +604,8 @@
   "page13": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "6. Giros con la Red Efecty",
@@ -882,8 +624,8 @@
   "page14": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "7. Seguridad Social",
@@ -935,8 +677,8 @@
   "page15": {
     "type"        : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "8. Seguros",
@@ -1011,8 +753,8 @@
   "page16": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "9. Seguros Obligatorio",
@@ -1030,8 +772,8 @@
   "page17": {
     "type": "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Servicios",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "10. Programas de Educación",
@@ -1104,8 +846,8 @@
     "startUnit"   : true,
     "nameUnit"    : "unit3",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-3.png",
-      "textHeader"  : "Estatutos AMAR",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "¿Qué son los estatutos de una empresa?",
@@ -1123,8 +865,8 @@
   "page19": {
     "type"        : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Estatutos AMAR",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Estatutos de AMAR",
@@ -1221,8 +963,8 @@
   "page20": {
     "type"        : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "Estatutos AMAR",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Estatutos de AMAR",
