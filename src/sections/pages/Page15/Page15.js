@@ -1,6 +1,6 @@
 import React from 'react';
 import Instruction from '../../../components/Instruction';
-import Accordion1 from '../../../components/Accordion1';
+import Accordion2 from '../../../components/Accordion2';
 
 import HeaderImage from '../../../assets/img/15/n-2.png';
 
@@ -31,7 +31,7 @@ const Page15 = ({dataPage, checkEndActivity}) => {
         </div>
 
         <div className = 'mL-3 mT-2 d-Flex j-C'>
-          <Accordion1 dataPage = { dataPage } isEnded = { isEnded } />
+          <Accordion2 dataPage = { dataPage } isEnded = { isEnded } />
         </div>
       </div>
 

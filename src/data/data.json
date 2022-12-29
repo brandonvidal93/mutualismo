@@ -591,8 +591,8 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "8. Seguros",
-    "text"    : "Buscamos contribuir al mejoramiento de la calidad de vida de nuestros asociados, por eso AMAR ofrece las siguientes líneas de crédito.",
+    "title"   : "Los Valores",
+    "text"    : "",
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en cada botón vertical para conocer la información.",
@@ -604,57 +604,68 @@
     "multimedia": [
       {
         "button": {
-          "text": "Seguros de Vida",
+          "text": "Conceptos",
           "color": "#FCBB14"
         },
         "information": {
           "img1": "img/18/n-1.png",
           "img2": "img/18/nTeclas-1.png",
-          "text": "Adquiere pólizas individuales y colectivas, cubrimientos por muerte o invalidez, incapacidad total y permanente, enfermedades graves, <b>con pagos mensuales y con amparos de $ 10.500.000 hasta $300.000.000</b>. Tu elijes la prima a pagar. (*aplican condiciones y restricciones)."
+          "text": "Los conceptos de valor y de costo tienen connotaciones similares; cuando algo tiene valor es porque cuesta. Los valores se traducen de inmediato en actitudes y es actuando como mostramos qué valor tenemos. Son los valores de las cosas lo que hace que nos gusten y muchas veces pagamos por el valor que las cosas tienen en si. <br><br>Los valores son algo que toca con la mente, con el sentimiento y con la conducta. Es decir con la cabeza, con el corazón y con la mano, la inteligencia nos indica que alguna cosa tiene valor, que vale la pena; el sentimiento nos inclina hacia esa cosa con afecto, nos indica que ese algo es valioso, y ,finalmente la voluntad nos lleva a desear y mantener esa cosa, es decir a obrar en concordancia con ella.<br><br>Los valores se forman con disciplina, con rigor, con orientaciones, con seriedad, con honestidad, con responsabilidad, con equidad, con altruismo, con capacidad de compromiso, con respeto a los demás, con amor al trabajo y otras cosas más que, sólo el ejemplo sabe dar."
         }
       },
       {
         "button": {
-          "text": "Accidentes Personales",
+          "text": "Filosóficos",
           "color": "#E65853"
         },
         "information": {
           "img1": "img/18/n-2.png",
           "img2": "",
-          "text": "Esta póliza le brinda una cobertura muy favorable para la estabilidad familiar en caso de sufrir un accidente o presentarse una eventualidad."
+          "text": "Derechos humanos, libertad primacía del trabajo sobre el capital."
         }
       },
       {
         "button": {
-          "text": "Asistencia en Viajes",
+          "text": "Económicos",
           "color": "#62C462"
         },
         "information": {
           "img1": "img/18/n-3.png",
           "img2": "",
-          "text": "Programa tus viajes, paseos, retiros, campamentos y demás salidas con tranquilidad y seguridad. <br>- Solo por <b>$2.500</b> el día por persona). <br>- Cubrimiento a nivel nacional. <br>- Hasta por <b>$35.000.000</b>."
+          "text": "No ánimo de lucro, distribución social del excedente, eficiencia económica y administrativa."
         }
       },
       {
         "button": {
-          "text": "Asistencia Temporal",
+          "text": "Éticos",
           "color": "#07C3D9"
         },
         "information": {
           "img1": "img/18/n-4.png",
           "img2": "",
-          "text": "Para trabajos ocasionales que requieras asegurarte a ti o tus trabajadores.<br>- Solo por <b>$7.000</b> el día (por persona).<br>- Cubrimiento a nivel nacional.<br>- Hasta <b>$15.000.000</b>."
+          "text": "Responsabilidad, lealtad y justicia."
         }
       },
       {
         "button": {
-          "text": "Seguros de Vehículo",
+          "text": "Políticos",
           "color": "#149FF0"
         },
         "information": {
           "img1": "img/18/n-5.png",
           "img2": "",
-          "text": "<br>- Tasas preferenciales en la póliza. <br>- Con el respaldo de las mejores entidades. <br>- Responsabilidad civil. <br>- Cubrimientos por perdida parcial o total. <br>- Atención las 24 horas del día."
+          "text": "Democracia, participación, autonomía y pluralidad."
+        }
+      },
+      {
+        "button": {
+          "text": "Sociales",
+          "color": "#F0B114"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Solidaridad y cooperación."
         }
       }
     ]
@@ -667,11 +678,11 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "9. Seguros Obligatorio",
-    "text"    : "<span class='F1'><b>Compra tu SOAT con nosotros y obtén:</b></span><br><br>- Participa por sorteo de bonos de $100.000. <br>- Apican TyC por la compra de tu SOAT.<br>- Obten el 10% de descuento por ley.<br>- Evita multas y sanciones.",
+    "title"   : "Normatividad",
+    "text"    : "Constitución Nacional 1991<br>ARTS: 57, 58 ,60 Y 333<br>Leyes:<br>Ley 79 DE 1988<br>Ley 454 DE 1998<br>Ley 2143 DE 2021<br>Circulares:<br>Básica Jurídica<br>Básica Contable y Financiera<br>Estatutos<br>Reglamentos",
     "instruction": {
       "type"    : "",
-      "text"    : "Lee atentamente toda la información sobre el Segur o Obligatorio de Accidentes de Tránsito (SOAT).",
+      "text"    : "Lee atentamente toda la información sobre la normatividad de la Mutualidad AMAR.",
       "posY"      : 33,
       "posX"      : 0,
       "size"      : 390,
