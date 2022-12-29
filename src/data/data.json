@@ -1124,7 +1124,7 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "Identificación de Riesgos",
+    "title"   : "Instrucciones para el desarrollo de las actividades",
     "text"    : "",
     "instruction": {
       "type"    : "mouse",
@@ -1137,123 +1137,134 @@
     "multimedia": [
       {
         "button": {
-          "text": "Biológico",
+          "text": "PASO 1",
           "color": "#07C3D9"
         },
         "information": {
           "img1": "img/18/n-1.png",
           "img2": "img/18/nTeclas-1.png",
-          "text": "En este caso encontramos un grupo de agentes orgánicos, animados o inanimados como los hongos, virus, bacterias, parásitos, pelos, plumas, polen (entre otros), presentes en determinados ambientes laborales, que pueden desencadenar enfermedades infectocontagiosas, reacciones alérgicas o intoxicaciones al ingresar al organismo."
+          "text": "El acta de la reunión deberá contener, como mínimo, en su cuerpo:<br><br>• Número de acta<br>• Tipo de asamblea (ordinaria o extraordinaria)<br>• Fecha, hora y lugar de la reunión<br>• Forma y antelación de la convocatoria y órgano que convoca de acuerdo con los estatutos<br>• Número de asociados convocados y número de asociados o delegados asistentes<br>• Constancia del quórum deliberatorio<br>• Orden del día<br>• Asuntos tratados<br>• Nombramientos efectuados bajo el sistema de elección establecido en los estatutos<br>• Decisiones adoptadas y el número de votos a favor, en contra, en blanco o nulos<br>• Constancias presentadas por los asistentes<br>• Fecha y hora de la clausura, entre otros"
         }
       },
       {
         "button": {
-          "text": "Físico",
+          "text": "PASO 2",
           "color": "#149FF0"
         },
         "information": {
           "img1": "img/18/n-2.png",
           "img2": "",
-          "text": "Se refiere a todos aquellos factores ambientales que dependen de las propiedades físicas de los cuerpos, tales como carga física, ruido, iluminación, radiación ionizante, radiación no ionizante, temperatura elevada y vibración, que actúan sobre los tejidos y órganos del cuerpo del trabajador y que pueden producir efectos nocivos, de acuerdo con la intensidad y tiempo de exposición de los mismos."
+          "text": "Para todo tipo de asamblea, la junta de control social o el órgano que haga sus veces, deberá:<br><br>- Verificar el listado de asociados hábiles e inhábiles y <br>- Publicar la lista de estos últimos de conformidad con los estatutos.<br>• La lista deberá ser suscrita por los miembros de dicho órgano y en ella se dejará constancia de la fecha de publicación.<br>• Si algún miembro del órgano de vigilancia no está de acuerdo con el listado de asociados hábiles o inhábiles, deberá dejar constancia en tal sentido con las observaciones que tenga sobre el particular."
         }
       },
       {
         "button": {
-          "text": "Ergonómico",
+          "text": "PASO 3",
           "color": "#149FF0"
         },
         "information": {
           "img1": "img/18/n-3.png",
           "img2": "",
-          "text": "Involucra todos aquellos agentes o situaciones que tienen que ver con la adecuación del trabajo, o los elementos de trabajo a la fisonomía humana.<br><br>Representan factor de riesgo los objetos, puestos de trabajo, máquinas, equipos y herramientas cuyo peso, tamaño, forma y diseño pueden provocar sobre-esfuerzo, así como posturas y movimientos inadecuados que traen como consecuencia fatiga física y lesiones osteomusculares."
+          "text": "Cuando la asamblea se realice por el sistema de delegados, deberá allegarse a la Superintendencia el reglamento para su elección y las actas de escrutinio correspondientes a la misma."
         }
       },
       {
         "button": {
-          "text": "Psicosocial",
+          "text": "PASO 4",
           "color": "#0754D9"
         },
         "information": {
           "img1": "img/18/n-4.png",
           "img2": "",
-          "text": "La interacción en el ambiente de trabajo, las condiciones de organización laboral y las necesidades, hábitos, capacidades y demás aspectos personales del trabajador y su entorno social, en un momento dado pueden generar cargas que afectan la salud, el rendimiento en el trabajo y la producción laboral."
+          "text": "Cuando en la asamblea se apruebe una reforma estatutaria o se elijan miembros de los órganos de administración y vigilancia, es preciso dejar constancia en el acta sobre:<br><br>• El número de asociados presentes en el momento de someter a aprobación la reforma estatutaria o en el momento de la elección.<br>• Número de votos obtenidos por la lista o candidato (dependiendo del sistema de elección).<br>• Número de cargos a proveer, discriminando si se trata de suplentes o principales por cada órgano y periodo para el cual corresponde la elección."
         }
       },
       {
         "button": {
-          "text": "Mecánico",
+          "text": "PASO 5",
           "color": "#2B3B8A"
         },
         "information": {
           "img1": "img/18/n-5.png",
           "img2": "",
-          "text": "Conjunto  de  condiciones inseguras   que   pueden  causar  lesiones  severas, originadas por la carencia de  protecciones,  en  la operación  de  máquinas o manejo de utensilios de oficina. Entre las que están: <br><br>- Cizallamiento <br>- Amputaciones <br>- Aplastamientos <br>- Atrapamientos <br>- Cortes y punciones"
+          "text": "Una vez concluida la asamblea y elaborada el acta, ésta debe ser firmada por quienes hayan actuado como presidente y secretario y por todos los asociados elegidos como integrantes de la comisión para la aprobación del acta."
         }
       },
       {
         "button": {
-          "text": "Locativo",
+          "text": "PASO 6",
           "color": "#27357E"
         },
         "information": {
           "img1": "img/18/n-6.png",
           "img2": "",
-          "text": "Son causados por el lugar de trabajo, indistintamente de la labor que se efectúa en ellos. Los factores de riesgo locativo más conocidos son: Falta de señalización, daños estructurales, condiciones inadecuadas del suelo, piso y techos, etc."
+          "text": "Las actas correspondientes a reuniones de asamblea general y del consejo de administración serán sentadas, dentro del menor tiempo posible, en los libros respectivos. <br><br>• Estos libros deberán ser inscritos ante las correspondientes cámaras de comercio así como los actos y documentos que legalmente deben inscribirse.<br>• Dichos actos y documentos deben enviarse a la Superintendencia para el control de legalidad posterior."
         }
       },
       {
         "button": {
-          "text": "Público",
+          "text": "PASO 7",
           "color": "#1F2A63"
         },
         "information": {
           "img1": "img/18/n-6.png",
           "img2": "",
-          "text": "Son todos aquellos peligros a los que estamos expuestos en el diario vivir  y en el desempeño de rutinas cotidianas. Se clasifican en los tres momentos del riesgo público: 1. Preincidente, 2. Mientras se presenta la situación y 3. Después de presentada la situación."
+          "text": "Para todos los efectos, las copias de las actas que se presenten ante la Superintendencia de la Economía Solidaria, deberán ser:<br><br>- Fotocopias tomadas del libro inscrito en cámara de comercio<br>- Extractos de la parte pertinente; en ambos casos, certificados por el secretario de la reunión o, en su defecto, por el representante legal."
         }
       },
       {
         "button": {
-          "text": "Eléctrico",
+          "text": "PASO 8",
           "color": "#2D05E8"
         },
         "information": {
           "img1": "img/18/n-7.png",
           "img2": "",
-          "text": "Se refiere a la posibilidad de contacto del cuerpo humano con la corriente eléctrica y que puede resultar en un peligro para la integridad de las personas."
+          "text": "Si el sistema de elección adoptado, según los estatutos, es el de listas o planchas se aplicará el cuociente electoral, en los términos previstos en el artículo 197 del Código de Comercio.<br><br>• Se determinará dividiendo el número total de los votos válidos emitidos por el de las personas que hayan de elegirse.<br>• El escrutinio se comenzará por la lista que hubiere obtenido mayor número de votos y así en orden descendente.<br>• De cada lista se declararán elegidos tantos nombres cuantas veces quepa el cuociente en el número de votos emitidos por la misma, y si quedaren puestos por proveer, éstos corresponderán a los residuos más altos, escrutándolos en el mismo orden descendente.<br>• En caso de empate de los residuos decidirá la suerte.<br>• Los votos en blanco sólo se computarán para determinar el cuociente electoral.<br>• Cuando los suplentes fueren numéricos podrán reemplazar a los principales elegidos de la misma lista.<br>• Las personas elegidas no podrán ser reemplazadas en elecciones parciales, sin proceder a nueva elección por el sistema del cuociente electoral a menos que las vacantes se provean por unanimidad."
         }
       },
       {
         "button": {
-          "text": "Tránsito",
+          "text": "PASO 9",
           "color": "#6106D0"
         },
         "information": {
           "img1": "img/18/n-8.png",
           "img2": "",
-          "text": "Se pueden establecer como principales factores de riesgos de accidentes de tránsito: Velocidad excesiva, Maniobras de alto riesgo por parte de conductores, Entre los mencionados destacaremos especialmente el consumo de alcohol antes de conducir y al uso de celulares mientras se conduce."
+          "text": "Sin perjuicio de lo establecido en los estatutos o en los reglamentos de las entidades solidarias supervisadas en cuanto a la elección de órganos o cuerpos plurales, la Superintendencia sugiere: <br><br>- Que las listas o planchas contengan igual número de candidatos al de cargos a proveer (principales y suplentes), es decir, si son cinco los cargos a proveer, las listas deberían contener igual número de candidatos y si el número de principales y suplentes es diferente, la elección debería hacerse por separado (ejemplo: 7 principales 3 suplentes)."
         }
       },
       {
         "button": {
-          "text": "Tecnológico",
+          "text": "PASO 10",
           "color": "#0418DE"
         },
         "information": {
           "img1": "img/18/n-9.png",
           "img2": "",
-          "text": "Es la probabilidad de que un objeto, material o proceso peligroso, una sustancia tóxica o peligrosa o bien un fenómeno debido a la interacción de estos, ocasione un número determinado de consecuencias a la salud, la economía, el medio ambiente y el desarrollo integral de un sistema.<br><br>- Riesgo por Incendio o explosión.<br>- Riesgo por escapes o derrames.<br>- Riesgo de fuga."
+          "text": "En este sistema se deben tener en cuenta en forma exacta los “decimales”, en el caso que se presenten, tanto al obtener el resultado del cuociente electoral, así como para las personas elegidas por “cuociente” o por “residuo”, en la forma prevista en el artículo 197 del Código de Comercio.<br>- No están permitidas las aproximaciones cuando la cifra contiene decimales, por exceso o por defecto. (ejemplo, 10,4 - 92,8 - 14,2)."
         }
       },
       {
         "button": {
-          "text": "Natural",
+          "text": "PASO 11",
           "color": "#000D93"
         },
         "information": {
           "img1": "img/18/n-10.png",
           "img2": "",
-          "text": "Se puede definir como la probabilidad de que un territorio y la sociedad que habita en él, se vean afectados por episodios naturales de rango extraordinario.​ En otras palabras, la vulnerabilidad de una población o región a una amenaza o peligro natural."
+          "text": "En virtud del principio de información a los asociados, resulta conveniente que se informe a todos ellos la fecha en que se va a convocar a asamblea, con el fin de facilitar su participación en la misma."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 12",
+          "color": "#00085C"
+        },
+        "information": {
+          "img1": "img/18/n-10.png",
+          "img2": "",
+          "text": "Se recomienda a las entidades supervisadas, ajustar sus estatutos en el sentido de establecer en números absolutos las mayorías mínimas requeridas para la toma de decisiones, especialmente, cuando los cuerpos plurales de administración y vigilancia están integrados por números impares.<br><br>- Por ejemplo, si un consejo de administración o junta directiva está conformado por siete (7) miembros, en lugar de establecer que el quórum deliberatorio es “la mitad más uno de los miembros”, lo que correspondería matemáticamente a 4,5 y por aproximación a 5 de ellos, resulta más conveniente, para evitar interpretaciones equivocadas, establecer el número exacto con el cual se deben aprobar las decisiones , por ejemplo, 4 ó 5, según lo que considere adecuado la entidad respectiva."
         }
       }
     ]
@@ -1266,8 +1277,8 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "COPASST",
-    "text"    : "El Comité Paritario de Seguridad y Salud en el Trabajo constituye un medio importante para promocionar la Seguridad y Salud en todos los niveles, busca acuerdos con las directivas y responsables del sistema en función del logro de metas y objetivos concretos, divulgar y sustentar prácticas saludables y motivar la adquisición de hábitos seguros. <br><br> <b>Conoce las funciones del COPASST</b>",
+    "title"   : "LA JUNTA DIRECTIVA",
+    "text"    : "Es el Órgano de dirección de la mutual subordinado a la Asamblea General y Responsable de la eficiencia y eficacia De la gestión administrativa.<br><br><b>Estatutos establecen:</b><br>- El numero de integrantes.<br>- Causales de remoción. <br>- Periodo y funciones.",
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en cada ícono para conocer la información.",
@@ -1279,29 +1290,13 @@
     "multimedia": [
       {
         "urlImgBtn"         : "img/3/n-1.png",
-        "title"             : "Funciones - Parte 1",
+        "title"             : "Funciones",
         "color"             : "#FCBB14",
         "itemInfo": {
-          "title"           : "",
+          "title"           : "Funciones",
           "text1"           : "",
-          "text2"           : "- Vigilar el desarrollo de las actividades en seguridad y salud en el trabajo, promover su divulgación y observancia.<br><br>- Servir como organismo de coordinación entre empleador y los trabajadores en la solución de los problemas relativos a la salud ocupacional. Tramitar los reclamos de los trabajadores relacionados con la salud ocupacional.",
+          "text2"           : "• Elaborar plan de acción.<br>• Aprobar el presupuesto.<br>• Reglamentar estatutos y servicios.<br>• Formular políticas.<br>• Dirigir la educación MUTUAL.<br>• Definir la estructura y asignaciones.<br>• Nombrar el gerente.<br>• Aprobar la admisión y retiro de asociados.<br>• Aprobar Estados Financieros.<br>• Convocar a Asamblea General.<br>• Decidir la afiliación a otros organismos.",
           "colorText"       : "#FCBB14",
-          "buttonClose": {
-            "closedModal"   : true,
-            "posY"          : 35,
-            "posX"          : 82
-          }
-        }
-      },
-      {
-        "urlImgBtn"         : "img/3/n-2.png",
-        "title"             : "Funciones - Parte 2",
-        "color"             : "#2B3B8A",
-        "itemInfo": {
-          "title"           : "",
-          "text1"           : "",
-          "text2"           : "- Visitar periódicamente los lugares de trabajo e inspeccionar los ambientes, máquinas, equipos, aparatos y las operaciones realizadas por el personal de trabajadores en cada área o sección de la empresa e informar al empleador sobre la existencia de factores de riesgo y sugerir las medidas correctivas y de control. <br><br>- Colaborar en el análisis de las causas de los accidentes de trabajo y enfermedades laborales, proponer al empleador las medidas correctivas que haya lugar para evitar su ocurrencia.",
-          "colorText"       : "#2B3B8A",
           "buttonClose": {
             "closedModal"   : true,
             "posY"          : 35,
@@ -1319,8 +1314,8 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "Comité de Convivencia Laboral",
-    "text"    : "Es un organismo asesor conformado por un numero igual de representantes del empleador y de los trabajadores con sus respectivos suplentes, cuya principal función es la de establecer estrategias de conciliación entre las partes cuando exista una queja de acoso laboral; de igual forma el promover actividades preventivas  de acoso laboral para proteger a los trabajadores contra los riesgos psicosociales que afecten su salud en los lugares de trabajo.<br><br><b>Conoce las funciones del Comité de Convivencia Laboral</b><br><br><ul><li>Recibir y dar tramite a quejas con pruebas que las soportan.</li><li>Examinar confidencialmente los casos.</li><li>Escuchar las partes involucradas individualmente.</li><li>Concertar reuniones y espacios de dialogo entre las partes generando compromisos y soluciones efectivas.</li><li>Formular un plan de mejora entre las partes.</li></ul>"
+    "title"   : "EL REPRESENTANTE LEGAL",
+    "text"    : "Es el ejecutor de las decisiones de la Asamblea General y de la Junta Directiva.<br><br><b>FUNCIONES</b><br>Dirigir el Personal <br>- Presentar el Presupuesto y Estados Financieros. <br>- Ordenar los gastos, Contribuir en la elaboración de planes y programas.<br>- Representar legalmente la MUTUAL."
   },
 
   "page30": {
@@ -1330,8 +1325,8 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "Conceptos Básicos",
-    "text"    : "Conoce algunos conceptos básicos que debes conocer para comprender el tema de Seguridad y Salud en el Trabajo.<br><br> Estos te servirán para comprender mejor el curso y para tu día a día en el trabajo.",
+    "title"   : "EL CONTROL SOCIAL",
+    "text"    : "Está relacionado con el componente asociación de la Mutual<br><br>Hace referencia al control de resultados sociales, al de los procedimientos para el logro de dichos resultados, así como a los derechos y obligaciones de los asociados.<br>Corresponde a la Junta de Control social",
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en la imagen para visualizar el carrusel de imágenes.",
@@ -1362,10 +1357,6 @@
         {
           "key"       : 4,
           "img"       : "img/10/n-4.jpg"
-        },
-        {
-          "key"       : 5,
-          "img"       : "img/10/n-5.jpg"
         }
       ],
       "closedModal"   : true

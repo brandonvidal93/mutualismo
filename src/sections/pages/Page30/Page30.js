@@ -9,12 +9,11 @@ import Img1 from '../../../assets/img/30/1.png';
 import Img2 from '../../../assets/img/30/2.png';
 import Img3 from '../../../assets/img/30/3.png';
 import Img4 from '../../../assets/img/30/4.png';
-import Img5 from '../../../assets/img/30/5.png';
 
 const Page30 = ({dataPage, checkEndActivity, checkEndUnit, checkEnabledUnit}) => {
   const [openModal, setOpenModal] = useState(false);
 
-  const imgArray = [Img1, Img2, Img3, Img4, Img5];
+  const imgArray = [Img1, Img2, Img3, Img4];
 
   // FUNCION PARA ABRIR MODAL
   const showModal = () => {

@@ -86,9 +86,9 @@ class ModalGallery2 extends Component {
                 return(
                   item.link ? 
                   <a href = { item.link } target = '_blank' rel='noopener noreferrer'>
-                    <img alt = 'Imagen' className = { 'imgGallery c-10 ' + (item.key !== 1 ? 'dNone': '') } id = { 'imgGal-' + item.key } key = { item.key} src = { item.img }/>
+                    <img alt = 'Imagen' className = { 'imgGallery ' + (item.key !== 1 ? 'dNone': '') } id = { 'imgGal-' + item.key } key = { item.key} src = { item.img }/>
                   </a> : 
-                  <img alt = 'Imagen' className = { 'imgGallery c-10 ' + (item.key !== 1 ? 'dNone': '') } id = { 'imgGal-' + item.key } key = { item.key} src = { item.img }/>
+                  <img alt = 'Imagen' className = { 'imgGallery ' + (item.key !== 1 ? 'dNone': '') } id = { 'imgGal-' + item.key } key = { item.key} src = { item.img }/>
                 );
               })
             }

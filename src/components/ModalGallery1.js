@@ -71,7 +71,7 @@ class ModalGallery1 extends Component {
             {
               dataPage.multimedia.gallery.map((item, i) => {
                 return(
-                  <img alt = 'Imagen' className = { 'imgGallery c-10 ' + (item.key !== 1 ? 'dNone': '') } id = { 'imgGal-' + item.key } key = { item.key} src = { arrayImage[i] }/>
+                  <img alt = 'Imagen' className = { 'imgGallery ' + (item.key !== 1 ? 'dNone': '') } id = { 'imgGal-' + item.key } key = { item.key} src = { arrayImage[i] }/>
                 );
               })
             }
