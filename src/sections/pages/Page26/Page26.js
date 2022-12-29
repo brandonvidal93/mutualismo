@@ -5,10 +5,10 @@ import ModalCircle1 from '../../../components/ModalCircle1';
 
 import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image1 from '../../../assets/img/12/1.png';
-import Image2 from '../../../assets/img/12/2.png';
+// import Image2 from '../../../assets/img/12/2.png';
 
 const Page26 = ({dataPage, checkEndActivity}) => {
-  const [imageArray] = useState([Image1, Image2]);
+  const [imageArray] = useState([Image1, Image1]);
 
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD
   const isEnded = (end) => {

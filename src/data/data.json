@@ -1071,7 +1071,7 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "SG SST y SS del empleado",
+    "title"   : "Retos del Mutualismo",
     "text"    : "",
     "instruction": {
       "type"    : "mouse",
@@ -1084,12 +1084,12 @@
     "multimedia": [
       {
         "urlImgBtn"         : "img/3/n-1.png",
-        "title"             : "SG-SST",
+        "title"             : "Retos",
         "color"             : "#FCBB14",
         "itemInfo": {
-          "title"           : "Sistema de gestión de la seguridad y salud en el trabajo",
-          "text1"           : "Art 1, Ley 1562 de 2012",
-          "text2"           : "Consiste en el desarrollo de un proceso lógico y por etapas, basado en la mejora continua y que incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoría y las acciones de mejora con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y salud en el trabajo.",
+          "title"           : "Retos - Parte 1",
+          "text1"           : "",
+          "text2"           : "- Innovación en la prestación de los servicios ahorro y crédito.<br>- Mejorar en tecnología.<br>- Formación de nuevos lideres y capacitación a los actuales.<br>- Integrarse para aprovechar fortalezas. <br>- Contribuir con la disminución del hambre y con la erradicación de la pobreza.<br>- Trabajar para contribuir el desarrollo sostenible, trabajando con los empleados, asociados y sus familias , la localidad y comunidad en general para mejorar su calidad de vida.",
           "colorText"       : "#FCBB14",
           "buttonClose": {
             "closedModal"   : true,
@@ -1100,12 +1100,12 @@
       },
       {
         "urlImgBtn"         : "img/3/n-2.png",
-        "title"             : "Higiene y Seguridad Industrial",
+        "title"             : "Retos - Parte 2",
         "color"             : "#2B3B8A",
         "itemInfo": {
-          "title"           : "Reglamento de Higiene y Seguridad Industrial",
+          "title"           : "Retos",
           "text1"           : "",
-          "text2"           : "<b>AMAR</b> y sus trabajadores darán estricto cumplimiento a las disposiciones legales, así como las normas técnicas e internas que se adopten para la implantación de las actividades de Medicina Preventiva y del Trabajo, Higiene y Seguridad Industrial, que sean concordantes con el presente Reglamento y con el programa de SST. <br><br>Está exhibido en  las carteleras o bolsillos de las agencias y cuyos contenidos se dan a conocer a todos los trabajadores en el momento de su ingreso.",
+          "text2"           : "- Establecer indicadores de la gestión social que nos permitan medir los resultados y el impacto de la gestión social anual es decir su balance social paralelamente con el balance económico que nos permita mirar si estamos siendo socialmente responsables.<br>- Arrancar a nuestros asociados de los agiotistas y gota a gota reemplazándolo por el crédito productivo.<br>- Aplicación de la Equidad de género.<br>- Vinculación de la juventud al mutualismo y a sus programas como beneficiarios<br>- Defensa del agua como un derecho fundamental.",
           "colorText"       : "#2B3B8A",
           "buttonClose": {
             "closedModal"   : true,
