@@ -18,15 +18,20 @@ const Page25 = ({dataPage}) => {
         <img alt = 'Imagen' className = '' src = { HeaderImage }/>
       </div>
 
-      <img alt = 'Imagen' className = 'imageNPC pAbs' src = { Image }/>
+      {/* <img alt = 'Imagen' className = 'imageNPC pAbs' src = { Image }/> */}
       
-      <div className = 'c-10 animated fadeIn'>
-        <div className = 'mL-7 c-4 mT-1 mR-2'> 
+      <div className = 'c-10 animated fadeIn d-Flex'>
+        <div className = 'mL-7 c-4 mT-1'> 
           {
             dataPage.title ? <h2 className = 'mB-1' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
           }
           {
             dataPage.text ? <p className = 'mB-1 fw-3' dangerouslySetInnerHTML = {{ __html: dataPage.text }}></p> : null
+          }
+        </div>
+        <div className = 'mL-2 c-4 mT-4 mR-2'> 
+          {
+            dataPage.text2 ? <p className = 'mB-1 fw-3' dangerouslySetInnerHTML = {{ __html: dataPage.text2 }}></p> : null
           }
         </div>
       </div>
