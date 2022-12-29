@@ -2986,3 +2986,77 @@
           "text": "Tenemos los mejores convenios en celulares, electrodomésticos, computadores, vídeo juegos, hogar y mucho más. <b>#Alkomprar #Auteco #SerComunicaciones</b>"
         }
       }
+
+
+
+      "page178": {
+        "type": "pageCourse",
+        "headerPage": {
+          "imgHeader"   : "img/menuCourse/n-1.png",
+          "textHeader"  : "Amando el Mutualismo",
+          "color"       : "#27357E"
+        },
+        "title"   : "10. Programas de Educación",
+        "text"    : "La educación es uno de los factores que más influyen en el avance y progreso de personas y sociedades, Por ello AMAR le da la oportunidad de capacitarse y mejorar sus condiciones profesionales.<br><span class='F1'><b>Conoce nuestros programas de educación:</b></span>",
+        "instruction": {
+          "type"    : "mouse",
+          "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los programas de educación que tenemos.",
+          "posY"    : 33,
+          "posX"    : 0,
+          "size"    : 380,
+          "color"   : "#F0B114"
+        },
+        "multimedia": {
+          "type": "icon",
+          "items": [
+            {
+              "id"    : 1,
+              "title" : "Curso de manipulación de alimentos",
+              "text"  : "",
+              "img"   : "img/7/n-1.png"
+            },
+            {
+              "id"    : 2,
+              "title" : "Cursos de inteligencia financiera y finanzas personales",
+              "text"  : "",
+              "img"   : "img/7/n-2.png"
+            },
+            {
+              "id"    : 3,
+              "title" : "Cursos de modistería",
+              "text"  : "",
+              "img"   : "img/7/n-3.png"
+            },
+            {
+              "id"    : 4,
+              "title" : "Cursos de ujieres (recepción)",
+              "text"  : "",
+              "img"   : "img/7/n-4.png"
+            },
+            {
+              "id"    : 5,
+              "title" : "Talleres de música",
+              "text"  : "",
+              "img"   : "img/7/n-5.png"
+            },
+            {
+              "id"    : 6,
+              "title" : "Taller de manualidades",
+              "text"  : "",
+              "img"   : "img/7/n-5.png"
+            },
+            {
+              "id"    : 7,
+              "title" : "Charlas de nutrición",
+              "text"  : "",
+              "img"   : "img/7/n-5.png"
+            },
+            {
+              "id"    : 8,
+              "title" : "Protocolo de asegurabilidad para la iglesia",
+              "text"  : "",
+              "img"   : "img/7/n-5.png"
+            }
+          ]
+        }
+      },

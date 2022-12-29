@@ -3,7 +3,7 @@ import './Page18.scss';
 
 import Instruction from '../../../components/Instruction';
 
-import HeaderImage from '../../../assets/img/18/n-4.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image from '../../../assets/img/18/1.png';
 
 const Page18 = ({dataPage}) => {

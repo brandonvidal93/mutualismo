@@ -67,20 +67,8 @@ class Content extends Component {
 
       case 9: return( <Page9 dataPage = { data.page9 } /> );
 
-      
-
-      // FIN UNIDAD 1 -----------------------------------------------------------------------
-
-      // UNIDAD 2 ---------------------------------------------------------------------------
-      // SERVICIOS   ---------------------------------------------------------------------------
-
-
-
-
-
-
       case 10: return( <Page10 dataPage = { data.page10 } endActivities = { endActivities[10] } checkEndActivity = { checkEndActivity } /> );
-
+      
       case 11: return( <Page11 dataPage = { data.page11 } /> );
 
       case 12: return( <Page12 dataPage = { data.page12 } endActivities = { endActivities[12] } checkEndActivity = { checkEndActivity } /> );
@@ -90,15 +78,18 @@ class Content extends Component {
       case 14: return( <Page14 dataPage = { data.page14 } endActivities = { endActivities[14] } checkEndActivity = { checkEndActivity } /> );
 
       case 15: return( <Page15 dataPage = { data.page15 } endActivities = { endActivities[15] } checkEndActivity = { checkEndActivity } /> );
-
-      case 16: return( <Page16 dataPage = { data.page16 } /> );
       
-      case 17: return( <Page17 dataPage = { data.page17 } endActivities = { endActivities[17] } checkEndActivity = { checkEndActivity } checkEnabledUnit = { checkEnabledUnit } checkEndUnit = { checkEndUnit } /> );
-      // // FIN UNIDAD 2 -----------------------------------------------------------------------
+      case 16: return( <Page16 dataPage = { data.page16 } /> );
+
+      case 17: return( <Page16 dataPage = { data.page17 } /> );
+
+      case 18: return( <Page18 dataPage = { data.page18 } /> );
+
+
+      // FIN UNIDAD 1 -----------------------------------------------------------------------
 
       // UNIDAD 3 ------------------------------------------------------------------------------
-      // ESTATUTOS   ---------------------------------------------------------------------------
-      case 18: return( <Page18 dataPage = { data.page18 } /> );
+      // ESTATUTOS   --------------------------------------------------------------------------
 
       case 19: return( <Page19 dataPage = { data.page19 } endActivities = { endActivities[19] } checkEndActivity = { checkEndActivity } /> );
 

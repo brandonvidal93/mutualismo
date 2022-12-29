@@ -3,7 +3,7 @@ import './Page16.scss';
 
 import Instruction from '../../../components/Instruction';
 
-import HeaderImage from '../../../assets/img/16/n-2.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image from '../../../assets/img/16/1.png';
 
 const Page16 = ({dataPage}) => {
@@ -18,10 +18,10 @@ const Page16 = ({dataPage}) => {
         <img alt = 'Imagen' className = '' src = { HeaderImage }/>
       </div>
 
-      <img alt = 'Imagen' className = 'imageNPC pAbs' src = { Image }/>
+      <img alt = 'Imagen' className = 'imageNPC c-35 pAbs' src = { Image }/>
       
       <div className = 'c-10 animated fadeIn'>
-        <div className = 'mL-7 c-10 mT-025 mR-2'> 
+        <div className = 'mL-7 c-35 mT-025 mR-2'> 
           {
             dataPage.title ? <h2 className = 'mB-2' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
           }

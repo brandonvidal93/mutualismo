@@ -4,7 +4,7 @@ import './Page14.scss';
 import Instruction from '../../../components/Instruction';
 import ModalCircle4 from '../../../components/ModalCircle4';
 
-import HeaderImage from '../../../assets/img/14/n-2.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image1 from '../../../assets/img/14/1.png';
 import Image2 from '../../../assets/img/14/2.png';
 import Image3 from '../../../assets/img/14/3.png';

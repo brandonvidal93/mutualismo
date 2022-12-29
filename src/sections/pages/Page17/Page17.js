@@ -3,7 +3,7 @@ import React from 'react';
 import Instruction from '../../../components/Instruction';
 import InteractiveFlip3 from '../../../components/InteractiveFlip3';
 
-import HeaderImage from '../../../assets/img/4/n-2.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 
 const Page17 = ({dataPage, checkEndActivity, checkEndUnit, checkEnabledUnit}) => {
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD

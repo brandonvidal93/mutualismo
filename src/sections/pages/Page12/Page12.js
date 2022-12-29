@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import Instruction from '../../../components/Instruction';
 import ModalCircle1 from '../../../components/ModalCircle1';
 
-import HeaderImage from '../../../assets/img/12/n-2.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image1 from '../../../assets/img/12/1.png';
 import Image2 from '../../../assets/img/12/2.png';
 
