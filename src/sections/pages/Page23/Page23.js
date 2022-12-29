@@ -21,7 +21,7 @@ const Page23 = ({dataPage}) => {
       <img alt = 'Imagen' className = 'imageNPC pAbs' src = { Image }/>
       
       <div className = 'c-10 animated fadeIn'>
-        <div className = 'mL-7 c-4 mT-4 mR-2'> 
+        <div className = 'mL-7 c-45 mR-2'> 
           {
             dataPage.title ? <h2 className = 'mB-1' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
           }

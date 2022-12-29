@@ -872,8 +872,8 @@
   "page21": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-3.png",
-      "textHeader"  : "Plan estratégico AMAR",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Funciones de la Gestión",
@@ -960,12 +960,12 @@
   "page22": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-3.png",
-      "textHeader"  : "Código del Buen vestir",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "Objetivo",
-    "text"    : "Establecer los lineamientos necesarios para que los colaboradores hagan uso adecuado del uniforme Corporativo, el mismo que contribuye a la identificación institucional, proyectando a nuestros asociados, usuarios y a externos una buena imagen.<br><br>Sin duda alguna la imagen institucional de una empresa está respaldada por la imagen que proyectan sus colaboradores, y se percibe a través de su presentación personal y trato brindado a las personas con quienes interactúan.",
+    "title"   : "RÉGIMEN ECONÓMICO DE LA MUTUAL",
+    "text"    : "El régimen económico de la Mutual es el de economía mixta, es decir, la Mutual es una entidad de derecho privado, con personalidad jurídica y patrimonio propio, que se rige por las normas del derecho privado y por las disposiciones legales y reglamentarias que le sean aplicables.",
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en la imagen para visualizar el carrusel de imágenes.",
@@ -1000,26 +1000,6 @@
         {
           "key"       : 5,
           "img"       : "img/10/n-5.jpg"
-        },
-        {
-          "key"       : 6,
-          "img"       : "img/10/n-6.jpg"
-        },
-        {
-          "key"       : 7,
-          "img"       : "img/10/n-7.jpg"
-        },
-        {
-          "key"       : 8,
-          "img"       : "img/10/n-8.jpg"
-        },
-        {
-          "key"       : 9,
-          "img"       : "img/10/n-9.jpg"
-        },
-        {
-          "key"       : 10,
-          "img"       : "img/10/n-10.jpg"
         }
       ],
       "closedModal"   : true
@@ -1029,12 +1009,12 @@
   "page23": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "Introducción",
-    "text"    : "En cumplimiento a lo establecido en la ley 1562 de 2012, el Decreto 1072 de 2015, La Resolución 0312 de 2019 y demás  normas vigentes en materia de Seguridad y Salud en el Trabajo (SGSST) en Colombia, la Asociación Mutual Amigo Real ha estructurado el sistema  de gestión de SST, cuyo objetivo principal es propiciar el mejoramiento continuo así como el control de las condiciones laborales y de los riesgos y peligros presentes en los lugares de trabajo.",
+    "title"   : "Características de la mutual",
+    "text"    : "Que funcione bajo los principios de :<br><br>- Autonomía, Adhesión voluntaria, Participación democrática.<br>- Neutralidad política, religiosa ,ideológica y racial, solidaridad,<br>- ayuda mutua e integración.<br>- Que establezca contribuciones económicas a sus asociados para la prestación de sus servicios.<br>- Que el número de asociados y el patrimonio sea variable e ilimitado.<br>- Que realice permanentemente actividades de educación mutual.<br>- Que sean organizaciones sin ánimo de lucro, por eso establecen la no devolución de las contribuciones de los asociados y la irrepartibilidad del remanente patrimonial en caso de liquidación , destinando sus excedentes, a la prestación de servicios de carácter social y al crecimiento de las reservas y fondos.<br>- Que su duración sea indefinida.<br>- Que promueva la participación e integración con otras entidades que tengan como finalidad promover el desarrollo integral del hombre.",
     "instruction": {
       "type"    : "",
       "text"    : "",
@@ -1048,8 +1028,8 @@
   "page24": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Objetivos",
@@ -1067,8 +1047,8 @@
   "page25": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Política de SG-SST",
@@ -1086,8 +1066,8 @@
   "page26": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "SG SST y SS del empleado",
@@ -1139,8 +1119,8 @@
   "page27": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Identificación de Riesgos",
@@ -1281,8 +1261,8 @@
   "page28": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "COPASST",
@@ -1334,8 +1314,8 @@
   "page29": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Comité de Convivencia Laboral",
@@ -1345,8 +1325,8 @@
   "page30": {
     "type"    : "pageCourse",
     "headerPage": {
-      "imgHeader"   : "img/menuCourse/n-2.png",
-      "textHeader"  : "SG SST y SS del empleado",
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
     "title"   : "Conceptos Básicos",
