@@ -5,7 +5,7 @@ import React from 'react';
 
 import './Page29.scss'
 
-import HeaderImage from '../../../assets/img/menuCourse/n-10.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image from '../../../assets/img/29/1.png';
 // import Image1 from '../../../assets/img/28/1.png';
 

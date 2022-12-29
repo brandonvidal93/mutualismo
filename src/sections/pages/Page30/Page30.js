@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import Instruction from '../../../components/Instruction';
 import ModalGallery1 from '../../../components/ModalGallery1';
 
-import HeaderImage from '../../../assets/img/menuCourse/n-10.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import ButtonImagen from '../../../assets/img/30/n-1.png';
 import Img1 from '../../../assets/img/30/1.png';
 import Img2 from '../../../assets/img/30/2.png';

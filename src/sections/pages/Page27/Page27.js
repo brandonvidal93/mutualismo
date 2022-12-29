@@ -2,7 +2,7 @@ import React from 'react';
 import Instruction from '../../../components/Instruction';
 import Accordion2 from '../../../components/Accordion2';
 
-import HeaderImage from '../../../assets/img/menuCourse/n-10.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 
 const Page27 = ({dataPage, checkEndActivity}) => {
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD

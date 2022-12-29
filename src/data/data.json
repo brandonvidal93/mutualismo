@@ -876,8 +876,8 @@
       "textHeader"  : "Plan estratégico AMAR",
       "color"       : "#27357E"
     },
-    "title"   : "PLANEACION ESTRATÉGICA AMAR",
-    "text"    : "El propósito de una planeación estratégica, es establecer las directrices que deben seguir todos los procesos de una empresa, con el fin de que todas sus actuaciones se encuentren alineadas hacia un mismo objetivo.",
+    "title"   : "Funciones de la Gestión",
+    "text"    : "Es la configuración de procesos sociales con el propósito de alcanzar objetivos",
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en los botones para conocer la información.",
@@ -897,8 +897,8 @@
           "left"      : 10
         },
         "itemInfo": {
-          "title"     : "OBJETIVO GENERAL DE LA PLANEACIÓN ESTRATÉGICA DE AMAR",
-          "text"      : "Mejorar la calidad de vida de nuestros asociados, usuarios y grupos familiares; fomentando la solidaridad para lograr el bienestar integral de la comunidad y generar acciones concretas para lograr el establecimiento de igualdad de oportunidades, por medio de servicios de excelente calidad.",
+          "title"     : "Dirigir",
+          "text"      : "Para dirigir, se necesita tener aptitud, se debe estar convencido de lo que se quiere, de a donde se quiere llegar, y además, contar con la capacidad de convencer a los demás.",
           "posGlobe": {
             "posY"    : 42,
             "posX"    : 144
@@ -913,10 +913,10 @@
           "left"      : 710
         },
         "itemInfo": {
-          "title"     : "OBJETIVOS ESTRATÉGICOS DE AMAR",
-          "text"      : "",
+          "title"     : "Control Social",
+          "text"      : "Función mediante la cual los asociados, en forma directa o mediante un órgano definido para ello, aseguran el logro de resultados sociales para Cumplir el Objeto Social y Preservar la Identidad Institucional.",
           "posGlobe": {
-            "posY"    : 247,
+            "posY"    : 212,
             "posX"    : 144
           },
           "color"     : "#0A4D94"
@@ -929,10 +929,10 @@
           "left"      : 10
         },
         "itemInfo": {
-          "title"     : "",
-          "text"      : "▪ Gestionar en tiempo y forma los trámites y/o servicios solicitados.<br>▪ Mantener una estructura financiera apropiada que permita una rentabilidad de los productos de la MUTUAL.<br>▪ Garantizar la adecuada administración por riesgos en todos los procesos de la MUTUAL, teniendo como referencia la normatividad existente y aplicable.",
+          "title"     : "El Control",
+          "text"      : "Acción de verificar el cumplimiento de los planes establecidos y la aplicación de Correctivos que permitan el alcance de los Objetivos propuestos. Implica seguimiento, vigilancia oportuna y permanente sobre el cumplimiento de las funciones y responsabilidades en el complejo organizacional.",
           "posGlobe": {
-            "posY"    : 387,
+            "posY"    : 384,
             "posX"    : 139
           },
           "color"     : "#347DB9"
@@ -941,209 +941,17 @@
       {
         "urlImgBtn"   : "img/17/n-4.png",
         "pos": {
-          "top"       : 533,
+          "top"       : 553,
           "left"      : 710
         },
         "itemInfo": {
-          "title"     : "",
-          "text"      : "▪ Hacer del mejoramiento continuo una práctica cotidiana que conlleve al logro de la excelencia administrativa y operacional de la MUTUAL.<br>▪ Convertir la tecnología en un aliado estratégico de la entidad para que sea el soporte de todos los procesos de negocio.<br>▪ Segmentar el mercado objetivo de la MUTUAL para diseñar productos acordes a sus necesidades.",
+          "title"     : "Administración y Control Social",
+          "text"      : "En las Mutuales existe el control administrativo y financiero a través de las auditorias internas o revisorías fiscales externas, que consiste esencialmente en el análisis y credibilidad de la información contable, tiene su campo de acción en el componente empresarial y es diferente al control social.",
           "posGlobe": {
-            "posY"    : 553,
-            "posX"    : 110
+            "posY"    : 578,
+            "posX"    : 119
           },
           "color"     : "#33A0D6"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-5.png",
-        "pos": {
-          "top"       : 717,
-          "left"      : 10
-        },
-        "itemInfo": {
-          "title"     : "",
-          "text"      : "▪ Diagnosticar el mercado, la competencia y los clientes, para mejorar el conocimiento y las acciones necesarias para lograr un mejor posicionamiento de la MUTUAL.<br>▪ Asegurar un nivel de satisfacción de asociados y usuarios por encima del 70 %, anualmente.",
-          "posGlobe": {
-            "posY"    : 754,
-            "posX"    : 150
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-6.png",
-        "pos": {
-          "top"       : 884,
-          "left"      : 710
-        },
-        "itemInfo": {
-          "title"     : "PERSPECTIVAS DE LA PLANEACIÓN ESTRATÉGICA DE AMAR",
-          "text"      : "AMAR trazó su planeación estratégica, tiendo como base 5 perspectivas donde quiere enfocar su crecimiento empresarial y ver cristalizado el buen desempeño de los procesos:",
-          "posGlobe": {
-            "posY"    : 913,
-            "posX"    : 103
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-7.png",
-        "pos": {
-          "top"       : 1065,
-          "left"      : 10
-        },
-        "itemInfo": {
-          "title"     : "",
-          "text"      : "<b>Perspectiva financiera – empresarial:</b> Solidez y optimización de los recursos financieros, humanos y tecnológicos al interior de la Mutual.<br><b>Perspectiva de productos y servicios:</b> Con énfasis en la satisfacción por la prestación de los servicios prestados y el proceso de mercadeo y comercialización de los productos y servicios ofrecidos por la Mutual.",
-          "posGlobe": {
-            "posY"    : 1083,
-            "posX"    : 143
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-8.png",
-        "pos": {
-          "top"       : 1258,
-          "left"      : 710
-        },
-        "itemInfo": {
-          "title"     : "",
-          "text"      : "<b>Perspectiva de aprendizaje y conocimiento:</b> Énfasis en la autogestión y el control interno y el fortalecimiento del talento humano.<br><b>Perspectiva de Procesos Internos:</b> Mantenimiento y mejoramiento continuo de la estructura de procesos.",
-          "posGlobe": {
-            "posY"    : 1287,
-            "posX"    : 93
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-9.png",
-        "pos": {
-          "top"       : 1440,
-          "left"      : 10
-        },
-        "itemInfo": {
-          "title"     : "",
-          "text"      : "<b>Perspectiva orientada a los asociados:</b> El reconocimiento de los asociados como principales destinatarios de los resultados de la gestión de la Mutual, además del fortalecimiento de la cultura mutualista.",
-          "posGlobe": {
-            "posY"    : 1480,
-            "posX"    : 143
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-10.png",
-        "pos": {
-          "top"       : 1623,
-          "left"      : 710
-        },
-        "itemInfo": {
-          "title"     : "Promesa de valor",
-          "text"      : "Conocemos a nuestros asociados y sus necesidades, velamos por su bienestar y tranquilidad ofreciendo un servicio integral que los satisface cobijando servicios; financieros, prevención, recreación, protección y provisión. Comprometidos con su bienestar y tranquilidad.",
-          "posGlobe": {
-            "posY"    : 1652,
-            "posX"    : 103
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-11.png",
-        "pos": {
-          "top"       : 1833,
-          "left"      : 10
-        },
-        "itemInfo": {
-          "title"     : "Nuestro Propósito",
-          "text"      : "Acompañar a nuestros asociados, usuarios y su grupo familiar en la realización de su proyecto de vida y consolidación financiera, brindando bienestar y tranquilidad atrevas de nuestro portafolio de servicios.",
-          "posGlobe": {
-            "posY"    : 1853,
-            "posX"    : 143
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-12.png",
-        "pos": {
-          "top"       : 2023,
-          "left"      : 710
-        },
-        "itemInfo": {
-          "title"     : "Nuestra aspiración",
-          "text"      : "En el 2023 seremos una de las 3 mutuales más grandes el país.",
-          "posGlobe": {
-            "posY"    : 2064,
-            "posX"    : 133
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-13.png",
-        "pos": {
-          "top"       : 2210,
-          "left"      : 10
-        },
-        "itemInfo": {
-          "title"     : "Valores corporativos",
-          "text"      : "",
-          "posGlobe": {
-            "posY"    : 2263,
-            "posX"    : 143
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-14.png",
-        "pos": {
-          "top"       : 2405,
-          "left"      : 710
-        },
-        "itemInfo": {
-          "title"     : "",
-          "text"      : "<b>Responsabilidad:</b><br>Cumplimiento de las obligaciones y el cuidado en la toma de decisiones.<br><b>Transparencia:</b><br>Atreves de la información confiable, asequible y supervisada, generando seguridad en nuestros asociados.",
-          "posGlobe": {
-            "posY"    : 2420,
-            "posX"    : 133
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-15.png",
-        "pos": {
-          "top"       : 2593,
-          "left"      : 10
-        },
-        "itemInfo": {
-          "title"     : "",
-          "text"      : "<b>Empatía:</b><br>Ponernos en el lugar del otro, fortaleciendo el valor de la solidaridad en nuestros asociados.<br><b>Honestidad:</b><br>Mostrar procesos íntegros en las gestiones realizadas.",
-          "posGlobe": {
-            "posY"    : 2613,
-            "posX"    : 143
-          },
-          "color"     : "#643B8D"
-        }
-      },
-      {
-        "urlImgBtn"   : "img/17/n-16.png",
-        "pos": {
-          "top"       : 2770,
-          "left"      : 710
-        },
-        "itemInfo": {
-          "title"     : "",
-          "text"      : "<b>Equidad:</b><br>Generando una distribución justa y equilibrada que se adapte a las necesidades de nuestros asociados, buscando beneficiar a cada uno atreves de la inclusión financiera.",
-          "posGlobe": {
-            "posY"    : 2803,
-            "posX"    : 133
-          },
-          "color"     : "#643B8D"
         }
       }
     ]

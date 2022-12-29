@@ -2,16 +2,12 @@ import React from 'react';
 import Instruction from '../../../components/Instruction';
 import InteractivePath3 from '../../../components/InteractivePath3';
 
-import HeaderImage from '../../../assets/img/menuCourse/n-5.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 
 const Page19 = ({dataPage, checkEndActivity, checkEndUnit, checkEnabledUnit}) => {
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD
   const isEnded = (end) => {
     checkEndActivity(21, end);
-    checkEndUnit(3);
-    checkEnabledUnit(4);
-
-    document.querySelector('.buttonOpen').classList.add('animationOpenMenu');
   }
   return (
     <div className = {'pageContent page-19 animated fadeIn'}>

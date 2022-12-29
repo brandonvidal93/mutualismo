@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import Instruction from '../../../components/Instruction';
 import ModalCircle1 from '../../../components/ModalCircle1';
 
-import HeaderImage from '../../../assets/img/menuCourse/n-10.png';
+import HeaderImage from '../../../assets/img/menuCourse/n-3.png';
 import Image1 from '../../../assets/img/28/1.png';
 
 const Page28 = ({dataPage, checkEndActivity}) => {

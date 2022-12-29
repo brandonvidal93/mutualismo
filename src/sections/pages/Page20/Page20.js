@@ -8,10 +8,6 @@ const Page20 = ({dataPage, checkEndActivity, checkEndUnit, checkEnabledUnit}) =>
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD
   const isEnded = (end) => {
     checkEndActivity(20, end);
-    checkEndUnit(2);
-    checkEnabledUnit(3);
-
-    document.querySelector('.buttonOpen').classList.add('animationOpenMenu');
   }
   return (
     <div className = {'pageContent page-20 animated fadeIn'}>
