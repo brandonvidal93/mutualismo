@@ -90,6 +90,12 @@ class Content extends Component {
       case 20: return( <Page20 dataPage = { data.page20 } endActivities = { endActivities[20] } checkEndActivity = { checkEndActivity } /> );
 
       case 21: return( <Page21 dataPage = { data.page21 } endActivities = { endActivities[21] } checkEndActivity = { checkEndActivity } /> );
+
+      case 22: return( <Page22 dataPage = { data.page22 } endActivities = { endActivities[22] } checkEndActivity = { checkEndActivity } checkEnabledUnit = { checkEnabledUnit } checkEndUnit = { checkEndUnit } /> );
+
+      case 23: return( <Page23 dataPage = { data.page23 } /> );
+
+      case 24: return( <Page24 dataPage = { data.page24 } /> );
       // FIN UNIDAD 1 -----------------------------------------------------------------------
 
       // UNIDAD 3 ------------------------------------------------------------------------------
@@ -104,14 +110,11 @@ class Content extends Component {
 
       // // UNIDAD 5 ---------------------------------------------------------------------------
       // // CODIGO BUEN VESTIR   ---------------------------------------------------------------
-      case 22: return( <Page22 dataPage = { data.page22 } endActivities = { endActivities[22] } checkEndActivity = { checkEndActivity } checkEnabledUnit = { checkEnabledUnit } checkEndUnit = { checkEndUnit } /> );
       // // FIN UNIDAD 5 -----------------------------------------------------------------------
 
       // // UNIDAD 6 ---------------------------------------------------------------------------
       // // SG SST   ---------------------------------------------------------------------------
-      case 23: return( <Page23 dataPage = { data.page23 } /> );
 
-      case 24: return( <Page24 dataPage = { data.page24 } /> );
 
       case 25: return( <Page25 dataPage = { data.page25 } /> );
 
