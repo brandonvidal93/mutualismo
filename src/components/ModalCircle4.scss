@@ -1,7 +1,7 @@
  @import "../resources/colors";
 @import "../resources/animation.scss";
 
-.ModalCircle1 {
+.ModalCircle4 {
 
   .circleItems {
     .itemButton {
@@ -34,7 +34,7 @@
     background-color: $color1;
     position: absolute;
     display: grid;
-    top: -307px;
+    top: -187px;
     left: -160px;
     z-index: 4;
     width: 1022px;
@@ -48,9 +48,9 @@
       justify-self: center;
       padding: 2rem 0.5rem;
       min-width: 430px;
-      max-width: 500px;
+      max-width: 730px;
       min-height: 180px;
-      max-height: 320px;
+      max-height: 500px;
 
       .enfasis-1 {
         background-color: #EAEAEA;

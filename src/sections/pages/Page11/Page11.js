@@ -23,18 +23,18 @@ const Page11 = ({dataPage}) => {
       <div className = 'c-10 animated fadeIn d-Flex'>
         <div className = 'mL-7 c-4 mT-025 mR-3'> 
           {
-            dataPage.title ? <h2 className = 'mB-1' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
+            dataPage.title ? <h2 className = 'mB-2' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
           }
           {
             dataPage.text ? <p className = 'mB-1 fw-3' dangerouslySetInnerHTML = {{ __html: dataPage.text }}></p> : null
           }
         </div>
-        <div className = 'c-4 mT-025'> 
+        <div className = 'c-4 mT-10'> 
           {
             dataPage.title ? <p className = 'mB-1' dangerouslySetInnerHTML = {{ __html: dataPage.subTitle }}></p> : null
           }
           {
-            dataPage.text2 ? <p className = 'mB-1 fw-3' dangerouslySetInnerHTML = {{ __html: dataPage.text2 }}></p> : null
+            dataPage.text2 ? <p className = 'mB-1 fw-3 mT-8' dangerouslySetInnerHTML = {{ __html: dataPage.text2 }}></p> : null
           }
           {
             dataPage.text3 ? <p className = 'mB-1 fw-3' dangerouslySetInnerHTML = {{ __html: dataPage.text3 }}></p> : null

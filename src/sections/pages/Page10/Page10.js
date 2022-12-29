@@ -25,13 +25,13 @@ const Page10 = ({dataPage, checkEndActivity}) => {
       <div className = 'c-10 animated fadeIn d-Flex d-C j-S aI-S'>
           <div className = 'mL-7 c-8 mT-025 mR-3'> 
             {
-              dataPage.title ? <h2 className = 'mB-1' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
+              dataPage.title ? <h2 className = 'mB-2' dangerouslySetInnerHTML = {{ __html: dataPage.title }}></h2> : null
             }
             {
               dataPage.text ? <p className = 'mB-1 fw-3' dangerouslySetInnerHTML = {{ __html: dataPage.text }}></p> : null
             }
           </div>
-          <div className = 'c-9 d-Flex j-C aI-S'>
+          <div className = 'c-7 mL-7 d-Flex j-C aI-S'>
             <InteractiveFlip2 dataPage = { dataPage.multimedia } isEnded = { isEnded } />
           </div>
         </div>

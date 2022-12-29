@@ -2,14 +2,15 @@ import React, {useState} from 'react';
 import './Page14.scss';
 
 import Instruction from '../../../components/Instruction';
-import ModalCircle1 from '../../../components/ModalCircle1';
+import ModalCircle4 from '../../../components/ModalCircle4';
 
 import HeaderImage from '../../../assets/img/14/n-2.png';
 import Image1 from '../../../assets/img/14/1.png';
 import Image2 from '../../../assets/img/14/2.png';
+import Image3 from '../../../assets/img/14/3.png';
 
 const Page14 = ({dataPage, checkEndActivity}) => {
-  const [imageArray] = useState([Image1, Image2]);
+  const [imageArray] = useState([Image1, Image2, Image3]);
 
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD
   const isEnded = (end) => {
@@ -38,7 +39,7 @@ const Page14 = ({dataPage, checkEndActivity}) => {
         </div>
 
         <div className = 'c-9 d-Flex j-C aI-S'>
-          <ModalCircle1 dataPage = { dataPage } isEnded = { isEnded } imageArray={imageArray} />
+          <ModalCircle4 dataPage = { dataPage } isEnded = { isEnded } imageArray={imageArray} />
         </div>
       </div>
 

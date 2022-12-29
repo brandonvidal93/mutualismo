@@ -134,10 +134,10 @@
     "text"    : "",
     "instruction": {
       "type"          : "mouse",
-      "text"          : "Haz clic en cada uno de los botones para ver las recomendaciones.",
+      "text"          : "Haz clic en cada uno de los botones para ver los principios y fines de la economía solidaria.",
       "posY"          : 33,
       "posX"          : 0,
-      "size"          : 330,
+      "size"          : 400,
       "color"         : "#F0B114"
     },
     "multimedia": [
@@ -261,7 +261,7 @@
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en cada botón vertical para conocer la información.",
-      "posY"    : 50,
+      "posY"    : 33,
       "posX"    : 0,
       "size"    : 330,
       "color"   : "#F0B114"
@@ -315,7 +315,7 @@
     "instruction": {
       "type"    : "mouse",
       "text"    : "Haz clic en cada botón vertical para conocer la información.",
-      "posY"    : 50,
+      "posY"    : 33,
       "posX"    : 0,
       "size"    : 330,
       "color"   : "#F0B114"
@@ -357,7 +357,7 @@
     "text"    : "Elementos que la originan:",
     "instruction": {
       "type"    : "",
-      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
+      "text"    : "Lee atentamente toda la información sobre los elementos que originan la asociación mutual.",
       "posY"      : 33,
       "posX"      : 0,
       "size"      : 470,
@@ -372,11 +372,11 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "4. Red de Salud",
-    "text"    : "Tenemos a disposición de nuestros asociados una red de prestadores de salud, con la cual podrás acceder a los servicios de salud de manera fácil y rápida. <b>¡Conoce los beneficios!</b>",
+    "title"   : "Elementos Integrantes de la Mutualidad",
+    "text"    : "",
     "instruction": {
       "type"    : "mouse",
-      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los servicios de la red de salud.",
+      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los elementos que la originan.",
       "posY"    : 33,
       "posX"    : 0,
       "size"    : 380,
@@ -387,37 +387,31 @@
       "items": [
         {
           "id"    : 1,
-          "title" : "Pedriatría",
+          "title" : "El hombre asumiendo una actitud consciente",
           "text"  : "",
           "img"   : "img/7/n-1.png"
         },
         {
           "id"    : 2,
-          "title" : "Optometría",
+          "title" : "El grupo o la unión de esfuerzos",
           "text"  : "",
           "img"   : "img/7/n-2.png"
         },
         {
           "id"    : 3,
-          "title" : "Cardiología",
+          "title" : "El objetivo o la expresión de los intereses individuales y de grupo",
           "text"  : "",
           "img"   : "img/7/n-3.png"
         },
         {
           "id"    : 4,
-          "title" : "Odontología",
+          "title" : "La organización o la estructura para el ejercicio de la ayuda mutua",
           "text"  : "",
           "img"   : "img/7/n-4.png"
         },
         {
           "id"    : 5,
-          "title" : "Oftalmología",
-          "text"  : "",
-          "img"   : "img/7/n-5.png"
-        },
-        {
-          "id"    : 6,
-          "title" : "Dermatología",
+          "title" : "El trabajo o la materialización del objetivo común",
           "text"  : "",
           "img"   : "img/7/n-5.png"
         }
@@ -432,11 +426,11 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "5. Protección Exequial",
-    "subTitle": "<b>Cubrimiento</b>",
-    "text"    : "<ul><li>Desde $2.900 mensuales por persona.</li><li>Sin límites de edad (aplican condiciones y restricciones).</li><li>Afiliación Solo con el nombre, fecha de nacimiento y número de documento de identidad.</li><li>Sin límite de personas en el grupo familiar (aplican condiciones y restricciones).</li><li>Cubrimiento a nivel nacional.</li></ul>",
-    "text2"   : "<ul><li>Atención las 24 horas.</li><li>Reclamo y traslado para su preparación.<b>*</b></li><li>Suminstro de cofre o ataúd.<b>*</b></li><li>Diligencias notariales de defunción.</li><li>Coche fúnebre.</li><li>Servicio de velación hasta 24 horas.<b>*</b></li></ul>",
-    "text3": "<ul><li>Suministro de tinto y aromáticas.<b>*</b></li><li>Recordatorios.</li><li>Bus para transportar los acompañantes al cementerio.</li><li>Automóviles para transportar a la familia.</li><li>Arreglo floral.</li><li>Traslado hasta 120 km intermunicipales.</li><li>Servicio de inhumación o cremación.</li><li>Servicio religioso (opcional).</li></ul>",
+    "title"   : "Solidaridad",
+    "subTitle": "",
+    "text"    : "<i class='F1-5'>La solidaridad es un estilo de vida que permite vivir dignamente en común - unidad</i>",
+    "text2"   : "“Hay momentos para dar amorosamente el pescado. Otros momentos reclaman una distribución justa del pescado. Aprender a pescar con el otro siempre será un momento liberador. Y todo momento es propicio para aprender a pescar con el otro”. (Sarmiento, Alfredo. 2004)",
+    "text3": "",
     "instruction": {
       "type"    : "",
       "text"    : "Lee atentamente toda la información sobre el servicio de Protección Exequial.",
@@ -454,18 +448,18 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "5. Protección Exequial - Mascotas",
-    "text"    : "Tu mascota te brinda compañía y felicidad; tu regalo para él es darle cariño y bienestar. Que su último adiós se de lleno de respeto y amor.<br><br><span class='F1'><b>Planes Funerarios</b></span>",
-    "text2": "*Los planes funerarios para mascotas aplican sólo para: Medellín, Barranquilla, Pereira, Bucaramanga y Pasto.",
+    "title"   : "La Asociación Mutual",
+    "text"    : "Algunos aspectos caracterizan a una asociación mutual:",
+    "text2": "",
     "multimedia": [
       {
         "urlImgBtn"         : "img/3/n-1.png",
-        "title"             : "Completo",
+        "title"             : "social",
         "color"             : "#FCBB14",
         "itemInfo": {
-          "title"           : "Completo",
-          "text1"           : "Desde $5.000 por mes.",
-          "text2"           : "<li>Atención las 24 horas.</li><li>Traslado de la mascota al lugar de la cremación.</li><li>Cremación con la correspondiente certificación legal.</li><li>Entrega de suvenir- La última casita: Contiene las cenizas de la mascota</li><li>Entrega de planta (opcional)</li><li>Entrega de recordatorio con la foto de la mascota.</li>",
+          "title"           : "En cuanto lo social",
+          "text1"           : "“Hoy por ti mañana por mí”",
+          "text2"           : "Una mutual es una empresa que une personas para ayudarse entre sí a superar las dificultades de la vida.",
           "colorText"       : "#FCBB14",
           "buttonClose": {
             "closedModal"   : true,
@@ -476,12 +470,12 @@
       },
       {
         "urlImgBtn"         : "img/3/n-2.png",
-        "title"             : "Básico",
+        "title"             : "Económico",
         "color"             : "#2B3B8A",
         "itemInfo": {
-          "title"           : "Básico",
-          "text1"           : "Desde $4.000 por mes.",
-          "text2"           : "<li>Atención las 24 horas.</li><li>Traslado de la mascota al lugar de la cremación.</li><li>Cremación con la correspondiente certificación legal.</li><li>Sin devolución de cenizas</li>",
+          "title"           : "En cuando lo económico",
+          "text1"           : "",
+          "text2"           : "<li>Contribución en dinero para administrar, dar auxilios o ayudas.</li><li>Traslado de la mascota al lugar de la cremación.</li><li>La muerte no es su única razón de ser.</li><li>Las mutuales que se quedaron en este servicio no han crecido o desaparecieron.</li><li>Trabajar por la vida, y en el ámbito de la seguridad social.</li>",
           "colorText"       : "#2B3B8A",
           "buttonClose": {
             "closedModal"   : true,
@@ -508,12 +502,12 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "6. Giros con la Red Efecty",
-    "text"    : "Siempre pensamos en tener más y mejores beneficios para nuestros asociados, la red de efecty es la mejor alternativa para:",
-    "text2": "<li>Realizar pagos de tus facturas de EPM, UNE, Revistas, y demás.</li><li>Enviar y recibir giros nacionales a tus familiares y amigos.</li><li>Tienes cubrimiento en todo el país.</li><li>Realiza las recargas de tu móvil.</li><li>Realiza pagos en línea.</li>",
+    "title"   : "Por la vida las Mutuales prestan los siguientes servicios:",
+    "text"    : "<li>Ahorro</li><li>Crédito</li><li>Protección exequial</li><li>Salud</li><li>Educación y cultura</li><li>Recreación y turismo</li><li>Agrupadora seguridad social</li><br><b>En el curso de Generalidades verás más información sobre cada uno de estos servicios.</b>",
+    "text2": "",
     "instruction": {
       "type"    : "",
-      "text"    : "Lee atentamente toda la información sobre el servicio de Giros con la Red Efecty",
+      "text"    : "Lee atentamente toda la información sobre los servicios que prestan las mutuales.",
       "posY"      : 33,
       "posX"      : 0,
       "size"      : 390,
@@ -528,17 +522,17 @@
       "textHeader"  : "Amando el Mutualismo",
       "color"       : "#27357E"
     },
-    "title"   : "7. Seguridad Social",
-    "text"    : "AMAR le ofrece afiliación colectiva al sistema integral de seguridad social para sus asociados, con el fin de garantizar la protección de sus derechos y el acceso a los servicios de salud, pensión y riesgos laborales.",
+    "title"   : "Principios del Mutualismo",
+    "text"    : "",
     "multimedia": [
       {
         "urlImgBtn"         : "img/3/n-1.png",
-        "title"             : "Modalidad",
+        "title"             : "Humanísticos",
         "color"             : "#149FF0",
         "itemInfo": {
-          "title"           : "Modalidad",
+          "title"           : "Humanísticos",
           "text1"           : "",
-          "text2"           : "<li>Solo salud (aplican condiciones).</li><li>Salud, pensión y ARL.</li><li>Salud, pensión, ARL y cada de compensación.</li>",
+          "text2"           : "■ Ayudar en las dificultades. No sólo en lo funerario sino en todo lo que sea necesario para una vida segura y amable.<br>■ Mejorar la condición humana, motivando al perfeccionamiento como seres humanos. <br>■ Apoyar al trabajador y a su familia. Porque las mutuales fueron creadas por trabajadores y cada persona tiene responsabilidad con su familia que es el grupo donde se origina su felicidad.<br>■ Reconocer la dignidad y los derechos del ser humano porque todos son sujetos de sufrimiento y tienen derecho a recibir ayuda para mitigarlo.",
           "colorText"       : "#149FF0",
           "buttonClose": {
             "closedModal"   : true,
@@ -549,13 +543,29 @@
       },
       {
         "urlImgBtn"         : "img/3/n-2.png",
-        "title"             : "Beneficios",
+        "title"             : "Económicos",
         "color"             : "#5CB85C",
         "itemInfo": {
-          "title"           : "Beneficios",
+          "title"           : "Económicos",
           "text1"           : "",
-          "text2"           : "<li>Estar afiliado por una entidad legal y autorizada por el Ministerio de salud.</li><li>Puntualidad en los pagos.</li><li>Asesorías jurídicas.</li><li>Asesorías pensionales.</li><li>Cobertura permanente.</li><li>Afiliaciones acordes al perfil profesional.</li>",
+          "text2"           : "■ Crear un fondo común no devolutivo. Las contribuciones de los asociados son los ingresos con los cuales se apoya a la administración de la mutual y se ayuda a los asociados.<br>■ Servir sin ánimo de lucro, por eso no distribuyen el patrimonio social sino que lo acrecientan con los excedentes.<br>■ Acumular riqueza colectiva que sirva a todos los asociados.<br>■ Administrar con eficiencia y honestidad, porque no se puede defraudar la confianza de los asociados y porque hay que aplicar con mucha racionalidad los recursos económicos. Los asociados están obligados a vigilar que este principio sí se cumpla.",
           "colorText"       : "#5CB85C",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Administrativos",
+        "color"             : "#F0B114",
+        "itemInfo": {
+          "title"           : "Administrativos",
+          "text1"           : "",
+          "text2"           : "■ Promover la gestión comunitaria, por eso son abiertas al ingreso y retiro de los asociados.<br>■ Practicar la democracia, o sea reconocer la igualdad en los deberes y los derechos. <br>■ Educar, formar, capacitar. Porque la educación es el medio para lograr que los asociados participen y los dirigentes sean eficientes.<br>■ Establecer servicios y crear cultura de la previsión y la seguridad. es deber de las mutuales concientizar a la personas en la búsqueda de protección para superar los riesgos que trae la existencia y además deben crear servicios que permitan esta protección. Es tarea de las mutuales crear cultura de la previsión, del proyecto de vida, del orden y el ahorro en los gastos, del cuidado de la salud”. <br>■ Los principios anteriormente enunciados, se encuentran integrados a los valores, entendidos estos como las actitudes que dan sentido a los principios y motivan su práctica. <br>■ Todos los valores tienen un carácter positivo y promueven el perfeccionamiento de la persona, impulsándola hacia la nobleza, el amor, el servicio y la convivencia pacífica. Las mutuales se comprometen con la difusión de los valores entre sus administradores, sus asociados y la comunidad.",
+          "colorText"       : "#F0B114",
           "buttonClose": {
             "closedModal"   : true,
             "posY"          : 35,
