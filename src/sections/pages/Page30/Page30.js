@@ -25,8 +25,6 @@ const Page30 = ({dataPage, checkEndActivity, checkEndUnit, checkEnabledUnit}) =>
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD
   const isEnded = (end) => {
     checkEndActivity(30, end);
-    checkEndUnit(5);
-    checkEnabledUnit(6);
   }
 
   return (

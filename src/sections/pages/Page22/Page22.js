@@ -26,10 +26,6 @@ const Page22 = ({dataPage, checkEndActivity, checkEndUnit, checkEnabledUnit}) =>
   // FUNCION QUE RECIBE EL TRUE CUANDO FINALIZA LA ACTIVIDAD
   const isEnded = (end) => {
     checkEndActivity(22, end);
-    checkEndUnit(4);
-    checkEnabledUnit(5);
-
-    document.querySelector('.buttonOpen').classList.add('animationOpenMenu');
   }
 
   return (

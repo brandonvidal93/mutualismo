@@ -51,7 +51,7 @@ class App extends Component {
     this.state = {
       calificacion: 0,
       conectLMS: false,
-      index: 30,
+      index: 0,
       nextUnit: 1,
       pages: LIMIT,
       units: UNITS,
@@ -61,39 +61,6 @@ class App extends Component {
       // enableUnit: [true],
       enableUnit: [false],
       // endActivities debe ir en FALSE para permitir las restricciones, en TRUE para editar
-      // endActivities: [
-      //   true,  // 0
-      //   true,  // 1
-      //   true,  // 2
-      //   false, // 3
-      //   false, // 4
-      //   false, // 5
-      //   false, // 6
-      //   false, // 7
-      //   false, // 8
-      //   true,  // 9
-      //   false, // 10
-      //   true,  // 11
-      //   false, // 12
-      //   true,  // 13
-      //   false, // 14
-      //   false, // 15
-      //   true,  // 16
-      //   false, // 17
-      //   true,  // 18
-      //   false, // 19
-      //   false, // 20
-      //   false, // 21
-      //   false, // 22
-      //   true,  // 23
-      //   true,  // 24
-      //   true,  // 25
-      //   false, // 26
-      //   false, // 27
-      //   false, // 28
-      //   true,  // 29
-      //   false, // 30
-      // ]
       endActivities: [
         true,  // 0
         true,  // 1
@@ -101,32 +68,65 @@ class App extends Component {
         true,  // 3
         true,  // 4
         true,  // 5
-        true,  // 6
-        true,  // 7
-        true,  // 8
+        false, // 6
+        false, // 7
+        false, // 8
         true,  // 9
-        true,  // 10
+        false, // 10
         true,  // 11
-        true,  // 12
+        false, // 12
         true,  // 13
-        true,  // 14
-        true,  // 15
+        false, // 14
+        false, // 15
         true,  // 16
         true,  // 17
         true,  // 18
-        true,  // 19
-        true,  // 20
-        true,  // 21
-        true,  // 22
+        false, // 19
+        false, // 20
+        false, // 21
+        false, // 22
         true,  // 23
         true,  // 24
         true,  // 25
-        true,  // 26
-        true,  // 27
-        true,  // 28
+        false, // 26
+        false, // 27
+        false, // 28
         true,  // 29
-        true,  // 30
+        false, // 30
       ]
+      // endActivities: [
+      //   true,  // 0
+      //   true,  // 1
+      //   true,  // 2
+      //   true,  // 3
+      //   true,  // 4
+      //   true,  // 5
+      //   true,  // 6
+      //   true,  // 7
+      //   true,  // 8
+      //   true,  // 9
+      //   true,  // 10
+      //   true,  // 11
+      //   true,  // 12
+      //   true,  // 13
+      //   true,  // 14
+      //   true,  // 15
+      //   true,  // 16
+      //   true,  // 17
+      //   true,  // 18
+      //   true,  // 19
+      //   true,  // 20
+      //   true,  // 21
+      //   true,  // 22
+      //   true,  // 23
+      //   true,  // 24
+      //   true,  // 25
+      //   true,  // 26
+      //   true,  // 27
+      //   true,  // 28
+      //   true,  // 29
+      //   true,  // 30
+      // ]
     }
   }
 
@@ -237,8 +237,8 @@ class App extends Component {
     - Unidades o Temas       -> ${this.state.units}
     - Unidad Actual          -> ${this.state.unitActual} `;
     console.log(messageState);
-    console.table(this.state.endActivities);
-    console.table(this.state.unitFinal);
+    // console.table(this.state.endActivities);
+    // console.table(this.state.unitFinal);
     console.log();
   }
 

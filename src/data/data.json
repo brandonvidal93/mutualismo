@@ -1367,10 +1367,10 @@
     "type"            : "endCourse",
     "message": {
       "success": {
-        "title"       : "¡Has finalizado el curso de Generalidades!",
+        "title"       : "¡Has finalizado el curso Básico de Mutualismo!",
         "subTitle"    : "¡Muchas gracias!",
         "module"      : "",
-        "courseName"  : "Estamos seguros que tienes nuevos aprendizajes y que pondrás en práctica toda la información que viste a lo largo de este recorrido. <br><br> Haz clic en el botón de finalizar para cerrar el curso y continuar con tu formación"
+        "courseName"  : "Estamos seguros que haz aprendido mucho sobre el Mutualismo y cuál es nuestro rol como Mutualistas. <br><br> Haz clic en el botón de finalizar para cerrar el curso y continuar con tu formación"
       },
       "error": {
         "title"       : "¡No has cumplido <br>con el objetivo!",
